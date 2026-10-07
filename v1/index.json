@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "generated": "2026-10-07T16:40:14Z",
+  "daily": {
+    "path": "daily.json",
+    "sha256": "fe4ded84fb6e5f4cd8f5d625a81082736b91841d5b29da2c9d79eb7c9376ee9f",
+    "start": "2026-09-28",
+    "days": 2
+  },
+  "puzzles": [
+    {
+      "id": "sample-toamna",
+      "path": "puzzles/sample-toamna.json",
+      "format": 2,
+      "sha256": "398d55cb66e0cd4fb922248abf5a2a692f4bd3362799caaa1fef7b8dadb75fb5",
+      "bytes": 4156,
+      "added": "2026-10-07",
+      "updated": "2026-10-07",
+      "images": []
+    },
+    {
+      "id": "sample-ziua-ei",
+      "path": "puzzles/sample-ziua-ei.json",
+      "format": 2,
+      "sha256": "57fefd65130e6444bec71326f85ec51279e6ab9a9ef26fff777d39f9496237a7",
+      "bytes": 4429,
+      "added": "2026-10-07",
+      "updated": "2026-10-07",
+      "images": []
+    }
+  ]
+}
