@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Toamna: a pumpkin among autumn leaves (from F-03's "toamna") -->
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(42 46) rotate(-35) scale(1.1)"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(162 56) rotate(48)"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(152 172) rotate(-70) scale(.8)"/>
+  <ellipse cx="100" cy="168" rx="60" ry="6" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="68" cy="124" rx="30" ry="37" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="132" cy="124" rx="30" ry="37" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="122" rx="35" ry="41" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 84Q90 122 100 162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 84Q110 122 100 162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M95 86q-3-18 9-27l7 5q-9 8-7 22z" fill="#0F1115"/>
+  <path d="M107 69c14-12 32-6 34 6c-15 7-28 4-34-6z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+</svg>

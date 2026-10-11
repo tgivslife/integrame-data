@@ -1,11 +1,12 @@
 {
   "format": 2,
-  "id": "sample-toamna",
+  "id": "13fed32f-e311-47b4-a879-37f9d2972d15",
   "type": "integrama",
   "variant": "tematica",
   "title": "Toamna",
   "level": "mediu",
   "subject": "Toamnă",
+  "cover": "covers/13fed32f-e311-47b4-a879-37f9d2972d15.svg",
   "credit": { "author": "Redacția Integrame cu tâlc", "source": "original" },
   "rows": 11,
   "cols": 10,

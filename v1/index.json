@@ -1,32 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T16:40:14Z",
+  "generated": "2026-10-11T13:18:13Z",
   "daily": {
     "path": "daily.json",
-    "sha256": "fe4ded84fb6e5f4cd8f5d625a81082736b91841d5b29da2c9d79eb7c9376ee9f",
+    "sha256": "02121764b7fef9d6a017c8bbca220901edbc5ffcbb42f3540131f19a60bb428f",
     "start": "2026-09-28",
     "days": 2
   },
-  "puzzles": [
+  "parts": [
     {
-      "id": "sample-toamna",
-      "path": "puzzles/sample-toamna.json",
-      "format": 2,
-      "sha256": "398d55cb66e0cd4fb922248abf5a2a692f4bd3362799caaa1fef7b8dadb75fb5",
-      "bytes": 4156,
-      "added": "2026-10-07",
-      "updated": "2026-10-07",
-      "images": []
-    },
-    {
-      "id": "sample-ziua-ei",
-      "path": "puzzles/sample-ziua-ei.json",
-      "format": 2,
-      "sha256": "57fefd65130e6444bec71326f85ec51279e6ab9a9ef26fff777d39f9496237a7",
-      "bytes": 4429,
-      "added": "2026-10-07",
-      "updated": "2026-10-07",
-      "images": []
+      "path": "index/1.json",
+      "sha256": "104d7fb7eb5bc2ee82e4935d1a8ce1b2172967ded3b8602125f8c522afc5a22e",
+      "bytes": 1210,
+      "puzzles": 2
     }
   ]
 }

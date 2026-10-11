@@ -1,11 +1,12 @@
 {
   "format": 2,
-  "id": "sample-ziua-ei",
+  "id": "a0b69c05-30cc-4098-8ac1-bf4e0cb73915",
   "type": "integrama",
   "variant": "cu-poanta",
   "title": "Ziua ei",
   "level": "mediu",
   "subject": "Aniversări",
+  "cover": "covers/a0b69c05-30cc-4098-8ac1-bf4e0cb73915.svg",
   "credit": { "author": "Redacția Integrame cu tâlc", "source": "original" },
   "rows": 13,
   "cols": 9,
