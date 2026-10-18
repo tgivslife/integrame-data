@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Politica de confidențialitate · Integrame cu tâlc</title>
+<style>
+  :root {
+    --bg: #F2F3F5;
+    --surface: #FFFFFF;
+    --ink: #0F1115;
+    --ink2: #4A4F59;
+    --line: #E3E5E9;
+    --accent: #C6F432;
+    --link: #3B2F99;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0B0C0F;
+      --surface: #16181D;
+      --ink: #F2F4F7;
+      --ink2: #A3A9B4;
+      --line: #2A2E36;
+      --link: #B9B0FF;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 680px; margin: 0 auto; padding: 32px 16px 48px; }
+  .app { margin: 0; font-size: 14px; font-weight: 700; color: var(--ink2); }
+  h1 { margin: 4px 0 4px; font-size: 28px; line-height: 1.2; }
+  .date { margin: 0 0 24px; font-size: 14px; color: var(--ink2); }
+  h2 { margin: 32px 0 8px; font-size: 20px; line-height: 1.3; }
+  h3 { margin: 20px 0 4px; font-size: 16px; }
+  p, ul { margin: 0 0 12px; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 4px; }
+  a { color: var(--link); }
+  .short {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 6px solid var(--accent);
+    border-radius: 16px;
+    padding: 16px 20px 4px;
+  }
+  .short h2 { margin-top: 0; }
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 14px; color: var(--ink2); }
+</style>
+</head>
+<body>
+<main>
+  <p class="app">Integrame cu tâlc</p>
+  <h1>Politica de confidențialitate</h1>
+  <p class="date">Ultima actualizare: 18 octombrie 2026</p>
+
+  <p>„Integrame cu tâlc” este o aplicație Android de integrame. Pagina aceasta spune ce date folosește aplicația, unde ajung și ce poți face cu ele.</p>
+
+  <section class="short">
+    <h2>Pe scurt</h2>
+    <ul>
+      <li>Fără cont, fără reclame, fără statistici de utilizare și fără urmărire.</li>
+      <li>Progresul, setările și istoricul jocurilor rămân pe telefonul tău.</li>
+      <li>Integramele noi se descarcă de pe GitHub Pages, cu cereri care nu conțin nimic despre tine.</li>
+      <li>Clasamentul online e opțional: rezultatele și numele tău ajung în el doar după ce alegi „Sunt de acord”, iar din Setări poți ieși oricând.</li>
+    </ul>
+  </section>
+
+  <h2>Cine răspunde de date</h2>
+  <p>Aplicația este făcută și administrată de IT DroidDev. Pentru orice întrebare sau cerere despre datele tale, scrie la <a href="mailto:itdroiddev@gmail.com">itdroiddev@gmail.com</a>.</p>
+
+  <h2>Ce rămâne doar pe telefon</h2>
+  <p>Progresul din fiecare integramă, punctele, seria de zile, profilul, setările, ora memento-ului și jucătorii pe care i-ai ascuns în clasament se păstrează doar în aplicație, pe telefonul tău. Nu le trimitem nicăieri. Porecla din Profil ajunge în clasament doar dacă alegi să apari în el (vezi mai jos).</p>
+  <p>Dacă dezinstalezi aplicația sau îi ștergi datele din setările telefonului, toate acestea se șterg.</p>
+  <p><strong>Backupul Android.</strong> Dacă backupul e pornit în setările telefonului, Android copiază progresul și setările aplicației în contul tău Google, ca să le recuperezi pe un telefon nou. Backupul îl face Google, în contul tău, iar noi nu avem acces la el. Datele clasamentului și identificatorul de jucător nu intră în backup, așa că pe un telefon nou ești un jucător nou în clasament.</p>
+
+  <h2>Integramele noi</h2>
+  <p>Ca să primești integrame noi, aplicația descarcă fișiere publice: integramele, imaginile lor și programul integramei zilei. Le caută o dată pe zi în fundal și când deschizi aplicația, dacă n-a mai căutat de câteva ore. Le descarcă de pe GitHub Pages (tgivslife.github.io), iar dacă GitHub nu răspunde, de pe jsDelivr (cdn.jsdelivr.net), care păstrează o copie a acelorași fișiere.</p>
+  <p>Cererile nu conțin niciun identificator și nicio informație despre tine sau despre jocurile tale. Ca orice server web, GitHub și jsDelivr văd adresa IP a telefonului. Ce fac cu ea spun politicile lor: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub</a> și <a href="https://www.jsdelivr.com/terms">jsDelivr</a>.</p>
+
+  <h2>Clasamentul online</h2>
+  <p>Clasamentul folosește Firebase, un serviciu Google: Firebase Authentication pentru identificatorul de jucător, Cloud Firestore pentru rezultate și Firebase App Check cu Google Play Integrity pentru verificarea cererilor.</p>
+
+  <h3>Când deschizi Clasamentul</h3>
+  <p>Prima dată când deschizi Clasamentul, aplicația creează în Firebase un cont anonim: un identificator aleatoriu, fără e-mail, număr de telefon sau cont Google. Cu el, aplicația poate citi clasamentul. Doar deschizând Clasamentul nu trimiți niciun rezultat și niciun nume.</p>
+  <p>Contul anonim rămâne în Firebase și după ce dezinstalezi aplicația sau îi ștergi datele, fără nume și fără rezultate, dacă n-ai apărut în clasament. Niciun telefon nu-l mai poate folosi atunci și nu poate fi legat de tine.</p>
+
+  <h3>Dacă alegi să apari în clasament</h3>
+  <p>Aplicația te întreabă dacă vrei să apari în clasament („Apari în clasament?”). Numai dacă alegi „Sunt de acord”, aplicația trimite, pentru fiecare integramă a zilei rezolvată chiar în ziua ei:</p>
+  <ul>
+    <li>ziua și integrama;</li>
+    <li>punctele, timpul în secunde, dacă verificările nu au găsit nicio literă greșită și câte ajutoare de fiecare fel ai folosit;</li>
+    <li>numele public: porecla din Profil sau, dacă nu ai una, „Jucător” urmat de patru cifre;</li>
+    <li>identificatorul anonim.</li>
+  </ul>
+  <p>Firebase adaugă ora la care a primit rezultatul. Aplicația trimite și totalurile tale pe săptămână și pe toate zilele: puncte, timp și numărul de jocuri. Integramele din arhivă și rejucările nu se trimit.</p>
+  <p>Cât timp apari în clasament, toate acestea sunt publice: numele, fiecare rezultat cu timpul, ajutoarele folosite și ora la care a ajuns, și totalurile. Le poate citi oricine, din aplicație sau direct din Firebase.</p>
+  <p>Nu folosi drept nume numele altcuiva, cuvinte jignitoare sau date personale. Un nume care încalcă aceste reguli îl înlocuim cu „Jucător” urmat de patru cifre și păstrăm numele dat de noi, ca rezultatele următoare să-l aibă și ele. Un jucător care încalcă regulile îl putem ascunde din clasament, iar rezultatele lui de după aceea nu mai intră în clasament.</p>
+
+  <h3>Rapoarte</h3>
+  <p>Dacă raportezi numele unui jucător („Raportează numele”), aplicația trimite identificatorul și numele lui, identificatorul tău și ora raportului; un jucător îl poți raporta o singură dată. Doar noi vedem rapoartele. Le folosim ca să ascundem numele care încalcă regulile, apoi le ștergem. Când ascunzi un jucător („Ascunde jucătorul”), alegerea rămâne doar pe telefonul tău.</p>
+
+  <h3>Verificarea cererilor</h3>
+  <p>Ca să știm că cererile către clasament vin din aplicația noastră, instalată pe un telefon autentic, aplicația folosește Firebase App Check cu Google Play Integrity. Pentru asta, serviciile Google Play de pe telefon trimit la Google informații despre aplicație și despre telefon. Noi nu primim aceste informații, doar rezultatul verificării.</p>
+
+  <h3>Unde sunt păstrate datele</h3>
+  <p>Rezultatele, totalurile, numele date de noi și rapoartele sunt păstrate în Cloud Firestore, în centrul de date Google din Varșovia (Polonia). Firebase Authentication funcționează din centre de date din Statele Unite, iar alte servicii Firebase pot prelucra date în orice centru de date Google. Google prelucrează aceste date în numele nostru, după termenii săi de prelucrare a datelor și după Cadrul UE-SUA privind confidențialitatea datelor.</p>
+  <p>Ca orice server, Google vede adresa IP a telefonului la fiecare cerere. Firebase Authentication păstrează adresele IP câteva săptămâni. Detalii: <a href="https://firebase.google.com/support/privacy">Confidențialitatea în Firebase</a> și <a href="https://policies.google.com/privacy">Politica de confidențialitate Google</a>.</p>
+
+  <h2>Memento-ul zilnic</h2>
+  <p>Notificarea zilnică e programată de aplicație pe telefon, la ora aleasă de tine. Nu folosim un serviciu de notificări trimise de pe un server.</p>
+
+  <h2>Distribuirea</h2>
+  <p>Butonul de distribuire dă un text despre rezultatul tău aplicației pe care o alegi, de exemplu una de mesaje. Ce se întâmplă apoi cu textul ține de acea aplicație.</p>
+
+  <h2>Actualizări și sugestii</h2>
+  <p>Aplicația întreabă Magazinul Google Play de pe telefon dacă există o versiune nouă. Butonul „Trimite o sugestie” deschide pagina aplicației din Google Play, unde poți lăsa o recenzie. Acestea țin de Google Play și de politica de confidențialitate Google.</p>
+
+  <h2>Ce nu facem</h2>
+  <p>Nu afișăm reclame, nu folosim servicii de statistici sau de raportare a erorilor și nu te urmărim în alte aplicații. Nu cerem acces la locație, contacte, cameră, microfon sau fișiere. Nu vindem datele și nu le dăm altcuiva în afara serviciilor descrise mai sus.</p>
+
+  <h2>Cât timp le păstrăm</h2>
+  <ul>
+    <li>Rezultatele și totalurile rămân în clasament cât timp există clasamentul sau până ieși din el.</li>
+    <li>Contul anonim: dacă ai apărut în clasament, până ieși din el; altfel rămâne în Firebase, fără nume și fără rezultate (vezi mai sus).</li>
+    <li>Numele dat de noi în locul unui nume care a încălcat regulile, cât timp există clasamentul.</li>
+    <li>Rapoartele, până le verificăm.</li>
+  </ul>
+  <p>Dacă dezinstalezi aplicația fără să ieși din clasament, rezultatele rămân în clasament sub numele cu care au fost trimise, iar contul anonim nu mai poate fi folosit de pe niciun telefon. Ca să le scoți, ieși din clasament înainte să dezinstalezi aplicația sau scrie-ne.</p>
+
+  <h2>Cum ieși din clasament</h2>
+  <p>În Setări, oprește „Apari în clasament” și confirmă. Aplicația ascunde atunci toate rezultatele tale, șterge numele din ele și șterge contul anonim. Rezultatele ascunse rămân în baza de date fără nume și nu mai pot fi legate de tine: în afară de noi, nu le mai vede nimeni. Dacă revii în clasament, începi de la zero, ca jucător nou.</p>
+
+  <h2>Temeiul legal</h2>
+  <p>Pentru apariția în clasament ne bazăm pe consimțământul tău (articolul 6 alineatul (1) litera a din Regulamentul (UE) 2016/679, GDPR), pe care îl poți retrage oricând, oprind „Apari în clasament”. Contul anonim folosit la citirea clasamentului, verificarea cererilor și rapoartele se bazează pe interesul nostru legitim de a oferi un clasament corect și fără nume jignitoare (litera f a aceluiași alineat).</p>
+
+  <h2>Drepturile tale</h2>
+  <p>Poți cere acces la datele tale, corectarea, ștergerea sau restricționarea lor și primirea lor într-un format pe care îl poți folosi în altă parte. Te poți opune prelucrării și îți poți retrage consimțământul. Scrie-ne la <a href="mailto:itdroiddev@gmail.com">itdroiddev@gmail.com</a>; îți răspundem în cel mult o lună. Pentru că nu știm cine ești, spune-ne numele cu care apari în clasament și o zi în care ai jucat, ca să găsim rezultatele. După ce ai ieșit din clasament, rezultatele tale nu mai au nume, așa că nu le mai putem deosebi de ale altora.</p>
+  <p>Poți depune și o plângere la Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (<a href="https://www.dataprotection.ro">dataprotection.ro</a>).</p>
+
+  <h2>Copii</h2>
+  <p>Aplicația nu cere vârsta și nici date de identificare. Dacă ai sub 16 ani, cere acordul unui părinte înainte să apari în clasament. Dacă un copil a apărut în clasament fără acord, scrie-ne și îi ștergem rezultatele.</p>
+
+  <h2>Modificări</h2>
+  <p>Dacă se schimbă datele pe care le folosește aplicația, actualizăm întâi această pagină și data de sus.</p>
+
+  <footer>Integrame cu tâlc · IT DroidDev · <a href="mailto:itdroiddev@gmail.com">itdroiddev@gmail.com</a></footer>
+</main>
+</body>
+</html>
