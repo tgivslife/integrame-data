@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gara: a railway station with a clock in its gable, a lime signpost pointing the way to it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="170" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="78" y="94" width="96" height="72" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 96L126 56L182 96Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="126" cy="81" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="126" y1="81" x2="126" y2="74" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="126" y1="81" x2="131" y2="84" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="88" y="110" width="16" height="22" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="148" y="110" width="16" height="22" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 166V134a16 16 0 0 1 32 0V166Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="126" y1="122" x2="126" y2="166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="38" y="102" width="7" height="64" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M22 106h38l10 10l-10 10h-38Z" fill="#C6F432" stroke="#0F1115" stroke-width="3.5"/>
+  <line x1="30" y1="116" x2="54" y2="116" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

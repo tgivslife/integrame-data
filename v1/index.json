@@ -1,18 +1,12 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T13:18:13Z",
-  "daily": {
-    "path": "daily.json",
-    "sha256": "02121764b7fef9d6a017c8bbca220901edbc5ffcbb42f3540131f19a60bb428f",
-    "start": "2026-09-28",
-    "days": 2
-  },
+  "generated": "2026-11-15T17:30:41Z",
   "parts": [
     {
       "path": "index/1.json",
-      "sha256": "104d7fb7eb5bc2ee82e4935d1a8ce1b2172967ded3b8602125f8c522afc5a22e",
-      "bytes": 1210,
-      "puzzles": 2
+      "sha256": "ef40515b43a9e78cbb7252626a19694836176e0f7480b63f1c481b3ecf3d609c",
+      "bytes": 368063,
+      "puzzles": 393
     }
   ]
 }

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …Nici boii nu trag: the title, a sleepy ox's head in front of its wooden yoke -->
+  <ellipse cx="100" cy="174" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="20" y="96" width="160" height="15" rx="7.5" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M38 88L38 120M162 88L162 120" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 166Q66 128 80 106L120 106Q134 128 136 166Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 58Q48 60 32 34Q52 46 80 50Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M124 58Q152 60 168 34Q148 46 120 50Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="58" cy="74" rx="15" ry="7" transform="rotate(-18 58 74)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="142" cy="74" rx="15" ry="7" transform="rotate(18 142 74)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 52Q100 40 130 52Q136 82 124 112L76 112Q64 82 70 52Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 50Q96 58 100 50Q104 58 108 50" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M80 80Q86 85 92 80M108 80Q114 85 120 80" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="118" rx="29" ry="18" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="90" cy="117" rx="4" ry="5" fill="#0F1115"/>
+  <ellipse cx="110" cy="117" rx="4" ry="5" fill="#0F1115"/>
+  <path d="M92 128Q100 132 108 128" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

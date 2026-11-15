@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Despre timp: a wall clock and a stethoscope, the long wait at the doctor's, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="176" rx="64" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="124" cy="90" r="52" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="124" cy="90" r="41" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M124 55V62M159 90H152M124 125V118M89 90H96" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M141.5 72.5L138 76M141.5 107.5L138 104M106.5 107.5L110 104M106.5 72.5L110 76" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="124" y1="90" x2="124" y2="65" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="124" y1="90" x2="141" y2="100" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <circle cx="124" cy="90" r="4" fill="#0F1115"/>
+  <path d="M36 104C36 134 66 134 66 104" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="36" cy="102" r="4.5" fill="#0F1115"/>
+  <circle cx="66" cy="102" r="4.5" fill="#0F1115"/>
+  <path d="M51 126C50 156 84 166 112 160C124 157 132 155 139 157" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="152" cy="158" r="13" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="152" cy="158" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

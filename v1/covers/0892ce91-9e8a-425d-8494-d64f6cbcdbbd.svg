@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- El și ea: a heart broken in two halves drifting apart, tears falling over the crack, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="179" rx="50" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M108 84C104 74 94 68 82 68C64 68 52 82 52 102C52 126 72 148 108 172L114 152L102 136L114 118L100 102Z" transform="rotate(-7 108 172) translate(-5 0)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M108 84C112 74 122 68 134 68C152 68 164 82 164 102C164 126 144 148 108 172L114 152L102 136L114 118L100 102Z" transform="rotate(7 108 172) translate(5 0)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 96C60 86 66 80 74 78" transform="rotate(-7 108 172) translate(-5 0)" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M154 96C154 86 148 80 140 78" transform="rotate(7 108 172) translate(5 0)" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M110 46C115 53 118 57 118 61A8 8 0 0 1 102 61C102 57 105 53 110 46Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 22C131 27 133 29 133 32A5 5 0 0 1 123 32C123 29 125 27 128 22Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

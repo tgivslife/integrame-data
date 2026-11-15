@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ezoterism: a crystal ball on its stand with a spark inside, a crescent moon and small stars -->
+  <ellipse cx="100" cy="172" rx="64" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="100" cy="90" r="50" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="94" rx="32" ry="28" fill="#D5D8DD"/>
+  <path d="M68 84Q72 60 92 50" fill="none" stroke="#D5D8DD" stroke-width="6"/>
+  <path d="M100 64Q105 87 128 92Q105 97 100 120Q95 97 72 92Q95 87 100 64Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M74 148L126 148L140 168L60 168Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="66" y="136" width="68" height="12" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M162 26A18 18 0 1 0 176 56A14 14 0 0 1 162 26Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M36 30Q38 38 46 40Q38 42 36 50Q34 42 26 40Q34 38 36 30Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M28 96Q29.6 102.4 36 104Q29.6 105.6 28 112Q26.4 105.6 20 104Q26.4 102.4 28 96Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M170 106Q171.6 112.4 178 114Q171.6 115.6 170 122Q168.4 115.6 162 114Q168.4 112.4 170 106Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

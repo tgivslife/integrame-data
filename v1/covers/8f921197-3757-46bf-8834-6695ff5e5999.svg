@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În ciurdă: a cow's head seen from the front, with horns, a patch and a lime cowbell under its chin, among grass -->
+  <ellipse cx="100" cy="178" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <polyline points="22,176 28,156 34,176 40,150 46,176" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="154,176 160,150 166,176 172,158 178,176" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M74 54C56 52 44 40 46 22C56 34 66 40 80 42Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M126 54C144 52 156 40 154 22C144 34 134 40 120 42Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="48" cy="76" rx="24" ry="11" transform="rotate(-18 48 76)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="152" cy="76" rx="24" ry="11" transform="rotate(18 152 76)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 140C100 152 126 140 126 140L130 156C110 166 90 166 70 156Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 38C130 38 140 56 138 82L132 122L68 122L62 82C60 56 70 38 100 38Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M104 39C126 40 138 54 138 78C128 80 118 72 116 62C114 52 106 48 104 39Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M88 40C92 30 98 34 100 28C102 34 108 30 112 40" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="82" cy="84" r="6" fill="#0F1115"/>
+  <circle cx="118" cy="84" r="6" fill="#0F1115"/>
+  <ellipse cx="100" cy="128" rx="40" ry="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="85" cy="126" rx="5" ry="8" fill="#0F1115"/>
+  <ellipse cx="115" cy="126" rx="5" ry="8" fill="#0F1115"/>
+  <path d="M86 142C94 147 106 147 114 142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 176C86 162 90 154 100 154C110 154 114 162 114 176Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="177" r="4" fill="#0F1115"/>
+</svg>

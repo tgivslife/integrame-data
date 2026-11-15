@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="96" cy="176" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="40" y="26" width="108" height="142" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(5 94 97)"/>
+  <rect x="30" y="26" width="108" height="142" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-3 84 97)"/>
+  <line x1="46" y1="46" x2="104" y2="43" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="46" y1="60" x2="96" y2="57" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="50" y1="150" x2="124" y2="146" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="-37" y="-9" width="74" height="18" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(84 102) rotate(45)"/>
+  <rect x="-37" y="-9" width="74" height="18" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(84 102) rotate(-45)"/>
+  <rect x="-11" y="-40" width="22" height="72" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(132 72) rotate(210)"/>
+  <path d="M-11 32L0 58L11 32z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(132 72) rotate(210)"/>
+  <path d="M-4 49L0 58L4 49z" fill="#0F1115" transform="translate(132 72) rotate(210)"/>
+  <rect x="-11" y="-50" width="22" height="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(132 72) rotate(210)"/>
+  <rect x="-11" y="-66" width="22" height="16" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(132 72) rotate(210)"/>
+</svg>

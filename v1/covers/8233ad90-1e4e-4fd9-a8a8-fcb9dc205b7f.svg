@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="100" cy="176" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M42 88L42 150A58 16 0 0 0 158 150L158 88Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="48,106 66,138 84,108 100,141 116,108 134,138 152,106" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M42 140A58 16 0 0 0 158 140L158 150A58 16 0 0 1 42 150Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M42 88A58 16 0 0 0 158 88L158 98A58 16 0 0 1 42 98Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="88" rx="58" ry="16" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52.3 23.4L112.3 75.4L107.7 80.6L47.7 28.6Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M147.7 23.4L87.7 75.4L92.3 80.6L152.3 28.6Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="110" cy="78" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="90" cy="78" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M30 74L20 66M28 88L18 88M170 74L180 66M172 88L182 88" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

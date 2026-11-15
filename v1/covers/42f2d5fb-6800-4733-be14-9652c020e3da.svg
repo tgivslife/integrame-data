@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …răsare: a lime sun rising behind two hills, its rays up, a seedling sprouting on the near hill -->
+  <ellipse cx="100" cy="177" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="55" y1="94" x2="43" y2="87" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="74" y1="75" x2="67" y2="63" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="100" y1="68" x2="100" y2="54" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="126" y1="75" x2="133" y2="63" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="145" y1="94" x2="157" y2="87" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="120" r="42" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M20 128C44 112 70 114 96 124C122 134 150 120 180 112L180 170L20 170Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M20 148C52 132 84 136 112 148C138 158 162 150 180 144L180 170L20 170Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M152 153C152 144 152 136 152 126" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M152 138C140 138 134 130 134 122C146 122 152 128 152 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M152 132C162 130 170 122 170 114C158 114 152 122 152 132Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

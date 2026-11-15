@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La pescuit: a rowboat on the water with two fishing rods out, two floats, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M24 164Q34 158 44 164T64 164T84 164T104 164T124 164T144 164T164 164T184 164" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="168" y1="34" x2="172" y2="136" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="172" cy="154" rx="10" ry="3" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <circle cx="172" cy="145" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 145A8 8 0 0 1 180 145Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="28" y1="86" x2="28" y2="140" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="28" cy="155" rx="10" ry="3" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <circle cx="28" cy="147" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 132Q134 90 168 34" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 132Q58 104 28 86" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52 128H164L150 160H66Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 142H158L150 160H66Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="88" y1="128" x2="88" y2="142" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="128" y1="128" x2="128" y2="142" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

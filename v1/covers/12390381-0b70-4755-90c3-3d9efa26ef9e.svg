@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La omul sărac…: the title, a poor man's bundle tied to a stick, patched -->
+  <ellipse cx="100" cy="176" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="93.5" y="18" width="9" height="172" rx="4.5" transform="rotate(42.2 98 104)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M130 68Q102 80 100 110Q100 142 138 144Q176 142 176 110Q174 80 146 68Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M118 82Q126 102 120 126M156 82Q150 98 158 120" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="100" width="28" height="24" rx="2" transform="rotate(-8 142 112)" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M131 106L135 105M131 118L135 117M150 103L154 102M151 115L155 114" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M136 64Q122 42 112 50Q116 62 134 68Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M140 64Q160 46 168 56Q160 66 142 68Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="138" cy="65" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

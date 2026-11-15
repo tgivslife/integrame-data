@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Din an în an: Moș Crăciun with his glasses and white beard, and the carollers' lime star on its pole -->
+  <ellipse cx="100" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M40 60L40 176" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 26L44.7 37.5L57.1 38.4L47.6 46.5L50.6 58.6L40 52L29.4 58.6L32.4 46.5L22.9 38.4L35.3 37.5z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M66 64C68 34 92 18 118 18C146 18 166 38 174 66L160 70C154 54 144 44 134 40C142 50 146 58 148 64z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="104" cy="96" rx="38" ry="32" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M68 96C64 122 70 148 88 166C96 174 100 178 104 178C108 178 112 174 120 166C138 148 144 122 140 96C134 116 120 126 104 126C88 126 74 116 68 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M86 144q5 5 10 0M110 150q5 5 10 0M96 162q4 4 8 0" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="104" cy="124" rx="7" ry="4" fill="#0F1115"/>
+  <path d="M104 114C96 104 78 104 70 116C80 124 94 124 104 118C114 124 128 124 138 116C130 104 112 104 104 114z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="104" cy="104" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="88" cy="90" r="10" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="120" cy="90" r="10" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M98 89Q104 85 110 89" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="88" cy="91" r="3" fill="#0F1115"/>
+  <circle cx="120" cy="91" r="3" fill="#0F1115"/>
+  <rect x="58" y="58" width="94" height="20" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="168" cy="78" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M0 -11L3 -3L11 0L3 3L0 11L-3 3L-11 0L-3 -3z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(170 140) scale(.7)"/>
+  <path d="M0 -11L3 -3L11 0L3 3L0 11L-3 3L-11 0L-3 -3z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(160 30) scale(.55)"/>
+</svg>

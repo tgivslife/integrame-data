@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Prin ploaie: a small car under a rain cloud (everyone else had a car), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="103" cy="165" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M96 70a14 14 0 0 1 2-28a20 20 0 0 1 36-10a16 16 0 0 1 28 10a14 14 0 0 1 2 28z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="104" y1="78" x2="100" y2="88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="124" y1="78" x2="120" y2="88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="144" y1="78" x2="140" y2="88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="162" y1="78" x2="158" y2="88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="178" y1="92" x2="174" y2="102" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="56" y1="80" x2="52" y2="90" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="32" y1="94" x2="28" y2="104" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M36 148V132a10 10 0 0 1 8-10l20-4l16-20a8 8 0 0 1 6-3h40a8 8 0 0 1 6 3l16 20l14 3a10 10 0 0 1 8 10v17z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 102v15h-28l12-15z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M104 102h20l12 15h-32z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="101" y1="121" x2="101" y2="142" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="107" y1="127" x2="114" y2="127" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="163" cy="130" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="68" cy="148" r="14" fill="#0F1115"/>
+  <circle cx="68" cy="148" r="5" fill="#FFFFFF"/>
+  <circle cx="138" cy="148" r="14" fill="#0F1115"/>
+  <circle cx="138" cy="148" r="5" fill="#FFFFFF"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

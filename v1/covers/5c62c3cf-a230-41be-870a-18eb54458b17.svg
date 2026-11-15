@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gând feminin: a lime apple on a plate, a tape measure round its waist, a fork standing by, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="174" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="100" cy="148" rx="66" ry="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="146" rx="44" ry="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M100 96C88 86 66 90 64 112C62 134 82 150 100 144C118 150 138 134 136 112C134 90 112 86 100 96Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 96Q100 84 106 76" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M106 84Q118 72 130 78Q120 92 106 84Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M64 114Q100 130 136 114L136 124Q100 140 64 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M76 121V126M88 125V131M100 126V133M112 125V131M124 121V126" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M136 119Q146 122 150 132" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M160 64V90Q160 102 170 104Q180 102 180 90V64" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166.5 64V88M173.5 64V88" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="166" y="104" width="8" height="66" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

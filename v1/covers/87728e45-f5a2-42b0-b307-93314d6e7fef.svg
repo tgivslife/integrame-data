@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nuvele de Ioan Slavici (I): an open book with a bookmark ribbon, fallen leaves beside it (the page's photo) -->
+  <ellipse cx="100" cy="174" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(42 38) rotate(-35)"/>
+  <path d="M0 -12V12" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(42 38) rotate(-35)"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(164 34) rotate(52) scale(.9)"/>
+  <path d="M0 -12V12" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(164 34) rotate(52) scale(.9)"/>
+  <path d="M22 76V160C52 154 82 156 100 168C118 156 148 154 178 160V76C150 70 122 72 100 82C78 72 50 70 22 76Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 80C82 66 54 62 30 68V154C54 148 82 150 100 162Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 80C118 66 146 62 170 68V154C146 148 118 150 100 162Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M42 88C58 82 76 84 88 92M42 102C58 96 76 98 88 106M42 116C58 110 76 112 88 120M42 130C58 124 76 126 88 134" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M158 88C142 82 124 84 112 92M158 102C142 96 124 98 112 106M158 116C142 110 124 112 112 120M158 130C142 124 124 126 112 134" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M134 60V124L140 117L146 124V59Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+</svg>

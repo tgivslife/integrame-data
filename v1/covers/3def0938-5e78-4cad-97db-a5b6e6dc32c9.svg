@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Integrama copiilor: two kids (puști) side by side, one in a cap, one with a thumb up between them -->
+  <ellipse cx="100" cy="172" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M26 168V144C26 126 40 116 58 116C76 116 90 126 90 144V168z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 168V140C110 122 124 112 142 112C160 112 174 122 174 140V168z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="58" cy="90" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 84C30 62 44 50 58 50C72 50 86 62 86 84z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 84H94C100 84 100 92 94 92H62z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="48" cy="100" r="3" fill="#0F1115"/>
+  <circle cx="68" cy="100" r="3" fill="#0F1115"/>
+  <path d="M47 107C52 114 64 114 69 107" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="142" cy="84" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M114 82C108 68 118 54 130 56C134 46 150 46 154 56C166 54 176 68 170 82C164 74 156 72 150 74C142 68 132 68 126 74C122 74 118 76 114 82z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="132" cy="90" r="3" fill="#0F1115"/>
+  <circle cx="152" cy="90" r="3" fill="#0F1115"/>
+  <path d="M130 98C136 106 148 106 154 98" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M95 138V122C95 117 104 117 104 122V138z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="90" y="136" width="20" height="22" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+</svg>

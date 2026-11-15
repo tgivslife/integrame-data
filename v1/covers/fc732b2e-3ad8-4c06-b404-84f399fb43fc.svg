@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="100" cy="178" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 156L32 146A80 80 0 1 1 168 146z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 150L20 104M100 150L27.5 70.2M100 150L48.6 42.7M100 150L79.3 26.7M100 150L120.7 26.7M100 150L151.4 42.7M100 150L172.5 70.2M100 150L180 104" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="36" cy="104" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="42" cy="77" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="58.9" cy="55" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="83.4" cy="42.2" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="116.6" cy="42.2" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="141.1" cy="55" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="158" cy="77" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="164" cy="104" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="62.9" cy="104" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="70.9" cy="80" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="129.1" cy="80" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="137.1" cy="104" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M95 158L92 174M92 174L83 178M92 174L99 178M105 158L108 174M108 174L101 178M108 174L117 178" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 76C86 96 80 128 87 150C91 162 109 162 113 150C120 128 114 96 100 76z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 118C96 112 104 112 108 118M90 132C95 126 105 126 110 132M92 146C96 140 104 140 108 146" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 60L93 47M100 60L100 44M100 60L107 47" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="93" cy="45" r="3" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="100" cy="42" r="3" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="107" cy="45" r="3" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M91 68L78 74L91 78z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="70" r="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="96" cy="68" r="2.5" fill="#0F1115"/>
+</svg>

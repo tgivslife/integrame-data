@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Comic... din fire: a clown's face whose hair is made of threads, a straw and a thread beside it -->
+  <ellipse cx="100" cy="176" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M146 167L168 39L176 41L154 169Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="157" y1="104" x2="165" y2="106" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M164 104 C 176 112, 182 124, 172 136 S 168 156, 180 160" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M38 92 C 22 84, 22 66, 36 62 C 30 50, 44 42, 54 50 M38 92 C 24 100, 26 116, 40 116" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M136 92 C 152 84, 152 66, 138 62 C 144 50, 130 42, 120 50 M136 92 C 150 100, 148 116, 134 116" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M40 66 L30 58 M40 76 L24 74 M40 90 L24 92 M40 104 L28 110 M134 66 L144 58 M134 76 L150 74 M134 90 L150 92 M134 104 L146 110" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="87" cy="100" r="50" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 58 L87 26 L112 58 Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="87" cy="24" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M64 86 L74 80 L84 86" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 86 L100 80 L110 86" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="87" cy="104" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 118 C 70 142, 104 142, 114 118 C 100 126, 74 126, 60 118 Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 154 L87 146 L114 154 L114 172 L87 164 L60 172 Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="87" cy="158" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

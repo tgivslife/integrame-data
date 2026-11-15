@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În căutarea bradului perfect: a bare fir from the forest, taken as it is, its one bauble left on the snow beside it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="114" cy="170" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="105" y="146" width="16" height="22" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M113 92L58 150L168 150Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M113 58L72 114L154 114Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M113 28L84 78L142 78Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M113 46L102 66M113 46L124 66M113 82L96 104M113 82L130 104M113 116L90 140M113 116L136 140" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="164" cy="158" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="160" y="143" width="8" height="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M158 154Q164 150 170 154" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

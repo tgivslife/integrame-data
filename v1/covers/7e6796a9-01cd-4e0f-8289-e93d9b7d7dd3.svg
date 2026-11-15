@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Părți de vorbire: two speech bubbles, the words of a sentence drawn as bars of different lengths -->
+  <ellipse cx="100" cy="179" rx="62" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M88 24H160A16 16 0 0 1 176 40V88A16 16 0 0 1 160 104H158L168 124L140 104H88A16 16 0 0 1 72 88V40A16 16 0 0 1 88 24z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="90" y1="42" x2="128" y2="42" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="140" y1="42" x2="158" y2="42" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="90" y1="56" x2="112" y2="56" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="124" y1="56" x2="158" y2="56" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 70H128A16 16 0 0 1 144 86V134A16 16 0 0 1 128 150H66L40 174L44 150H40A16 16 0 0 1 24 134V86A16 16 0 0 1 40 70z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="42" y1="92" x2="70" y2="92" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="84" y1="92" x2="126" y2="92" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="42" y1="110" x2="98" y2="110" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="112" y1="110" x2="126" y2="110" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="42" y1="128" x2="58" y2="128" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="72" y1="128" x2="110" y2="128" fill="none" stroke="#0F1115" stroke-width="6"/>
+</svg>

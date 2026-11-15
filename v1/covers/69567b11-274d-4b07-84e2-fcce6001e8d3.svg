@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Simplă constatare: a phone showing a photo of a smiling woman, the man beside her only a faint outline (he never makes it into the photos), a lime "like" heart, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="122" cy="179" rx="48" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="78" y="34" width="88" height="142" rx="14" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="87" y="48" width="70" height="104" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="41" x2="130" y2="41" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="122" cy="164" r="5" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 100C90 84 98 76 108 76C118 76 126 84 126 100C126 112 128 120 130 126H86C88 120 90 112 90 100Z" fill="#0F1115"/>
+  <path d="M88 152C88 132 96 124 108 124C120 124 128 132 128 152Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="108" cy="98" rx="11" ry="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="104" cy="96" r="1.6" fill="#0F1115"/>
+  <circle cx="112" cy="96" r="1.6" fill="#0F1115"/>
+  <path d="M103 103C106 106 110 106 113 103" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="142" cy="94" r="10" fill="none" stroke="#0F1115" stroke-width="3" opacity="0.35"/>
+  <path d="M131 152C131 134 134 122 142 122C150 122 153 134 153 152" fill="none" stroke="#0F1115" stroke-width="3" opacity="0.35"/>
+  <circle cx="166" cy="46" r="16" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166 55C160 51 157 48 157 44A4.5 4.5 0 0 1 166 42A4.5 4.5 0 0 1 175 44C175 48 172 51 166 55Z" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- De sezon: a snowed-in house with smoke from its chimney and a lime-lit window, the season of staying in, two flakes, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the chimney, its snow cap and its smoke -->
+  <rect x="140" y="66" width="16" height="34" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="136" y="60" width="24" height="9" rx="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M148 52Q140 44 148 36Q156 28 148 20" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the house: its walls, its shut door and its lit window -->
+  <rect x="60" y="106" width="104" height="70" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="76" y="130" width="26" height="46" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="96" cy="154" r="2.5" fill="#0F1115"/>
+  <rect x="118" y="126" width="32" height="28" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M134 126V154M118 140H150" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the roof under a thick layer of snow -->
+  <path d="M46 110L112 62L178 110Q171 118 164 110Q157 118 150 110Q143 118 136 110Q129 118 122 110Q115 118 108 110Q101 118 94 110Q87 118 80 110Q73 118 66 110Q59 118 52 110Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M78 98L112 74L146 98" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <!-- the snow on the ground -->
+  <path d="M26 176Q30 162 46 164Q54 154 64 164V176ZM164 164Q174 152 184 164V176H164Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <!-- two snowflakes -->
+  <path d="M36 92V108M29 96L43 104M29 104L43 96" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M94 28V42M88 31.5L100 38.5M88 38.5L100 31.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

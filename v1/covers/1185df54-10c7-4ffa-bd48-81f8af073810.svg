@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Rase de pisici (II): a Scottish Fold lying as a loaf, its round head and its ears folded flat forward -->
+  <ellipse cx="100" cy="172" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M36 168C32 132 60 112 100 112C140 112 168 132 164 168z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M146 166C168 168 180 154 176 140C174 133 166 134 167 140C169 150 160 157 144 156z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M58 140C62 150 62 160 58 166M142 140C138 150 138 160 142 166" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="82" cy="166" rx="12" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="118" cy="166" rx="12" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="86" r="42" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 66C64 50 78 44 90 48C86 56 76 62 64 66z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M136 66C136 50 122 44 110 48C114 56 124 62 136 66z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M92 52L93 62M100 50L100 62M108 52L107 62" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="100" cy="106" rx="16" ry="11" fill="#FFFFFF"/>
+  <circle cx="83" cy="86" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="117" cy="86" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="83" cy="86" rx="2.5" ry="6" fill="#0F1115"/>
+  <ellipse cx="117" cy="86" rx="2.5" ry="6" fill="#0F1115"/>
+  <path d="M95 100L105 100L100 105z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 105q-3 5-8 3M100 105q3 5 8 3" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M80 102L54 97M80 107L54 109M120 102L146 97M120 107L146 109" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

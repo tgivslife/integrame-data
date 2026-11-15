@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Supranume de țări asiatice (II): a Japanese pagoda before a snow-capped mountain under a rising sun, after the grid's photo of the Chureito pagoda and Mount Fuji -->
+  <ellipse cx="104" cy="178" rx="78" ry="4" fill="#0F1115" opacity="0.12"/>
+  <circle cx="156" cy="52" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M22 172L60 96Q70 84 80 96L118 172Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M53 110L60 96Q70 84 80 96L87 110L80 105L74 112L68 105L61 112Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="82" y="162" width="72" height="10" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="94" y="136" width="48" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="110" y="145" width="16" height="17" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="100" y="106" width="36" height="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="106" y="80" width="24" height="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M72 136C86 136 96 130 102 122L134 122C140 130 150 136 164 136C150 142 86 142 72 136Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 108C92 108 101 102 106 96L130 96C135 102 144 108 156 108C143 113 93 113 80 108Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 82C98 82 106 76 110 70L126 70C130 76 138 82 148 82C137 87 99 87 88 82Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="118" y1="70" x2="118" y2="32" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="113" y1="60" x2="123" y2="60" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="52" x2="122" y2="52" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="115" y1="44" x2="121" y2="44" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="118" cy="29" r="3.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

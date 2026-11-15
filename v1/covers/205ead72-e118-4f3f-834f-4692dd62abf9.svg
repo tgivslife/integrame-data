@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Instantaneu: the title, an instant camera with its snapshot sliding out below the lens -->
+  <ellipse cx="100" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="62" y="118" width="76" height="58" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="70" y="144" width="60" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="120" cy="150" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M71 163L88 150L97 157L108 147L129 163Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="126" y="34" width="22" height="14" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 66H166V124Q166 140 150 140H50Q34 140 34 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 44H150Q166 44 166 60V66H34V60Q34 44 50 44Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="46" y="50" width="20" height="11" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="132" y="50" width="22" height="11" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="100" r="30" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="100" r="19" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="100" r="9" fill="#0F1115"/>
+  <circle cx="95" cy="95" r="3" fill="#FFFFFF"/>
+  <line x1="46" y1="128" x2="56" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="144" y1="128" x2="154" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …cu lapte: a bottle of milk with a lime cap and a cow-spotted label, a glass of milk beside it, a drop falling into it -->
+  <ellipse cx="102" cy="170" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M62 46C62 58 46 64 46 82V160Q46 168 54 168H94Q102 168 102 160V82C102 64 86 58 86 46Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M63 54H85" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="58" y="30" width="32" height="16" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="54" y="100" width="40" height="34" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M62 108C68 104 74 110 70 115C66 120 59 114 62 108Z" fill="#0F1115"/>
+  <path d="M80 118C85 115 90 120 87 125C84 129 77 125 80 118Z" fill="#0F1115"/>
+  <path d="M109 90L116 168H154L161 90Z" fill="#D5D8DD"/>
+  <path d="M110.3 104L116 168H154L159.7 104Z" fill="#FFFFFF"/>
+  <path d="M111 104H159" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M109 90L116 168H154L161 90" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M135 44C135 44 125 58 125 65C125 71 130 75 135 75C140 75 145 71 145 65C145 58 135 44 135 44Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M126 103C126 99 124 96 121 94M144 103C144 99 146 96 149 94" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

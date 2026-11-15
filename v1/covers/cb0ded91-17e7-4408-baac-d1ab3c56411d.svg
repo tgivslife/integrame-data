@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pierderea vocii: an alarm clock at three o'clock under a crescent moon, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="56" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M164 22A20 20 0 1 0 182 52A18 18 0 1 1 164 22Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="128" y1="24" x2="128" y2="38" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="121" y1="31" x2="135" y2="31" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M84 66Q104 50 124 66" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="66" cy="78" r="13" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="142" cy="78" r="13" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="78" y1="156" x2="68" y2="174" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="130" y1="156" x2="140" y2="174" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="104" cy="118" r="50" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="104" cy="118" r="41" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <line x1="104" y1="84" x2="104" y2="91" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="138" y1="118" x2="131" y2="118" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="104" y1="152" x2="104" y2="145" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="70" y1="118" x2="77" y2="118" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="104" y1="118" x2="104" y2="94" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="104" y1="118" x2="126" y2="118" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <circle cx="104" cy="118" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Iubirea: a quilted winter jacket with a heart rising beside it (love keeps you warm, but a jacket is still a jacket), with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M80 78Q60 84 56 112L50 158Q50 166 58 166H70Q76 166 76 158L82 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M136 78Q156 84 160 112L166 158Q166 166 158 166H146Q140 166 140 158L134 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M53 140Q63 144 78 140M163 140Q153 144 138 140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M78 76Q108 66 138 76L142 168Q108 174 74 168Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M77 100Q108 106 139 100M76 124Q108 130 140 124M75 148Q108 154 141 148" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="108" y1="80" x2="108" y2="171" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 78Q91 60 108 58Q125 60 126 78Q108 88 90 78Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="103" y="88" width="10" height="14" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M154 66C134 54 134 34 145 34Q151 34 154 41Q157 34 163 34C174 34 174 54 154 66Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

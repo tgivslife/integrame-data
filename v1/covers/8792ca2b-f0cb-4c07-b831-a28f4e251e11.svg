@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nuvele de Ioan Slavici (IV): an open chest full of gold coins, for "Comoara" -->
+  <ellipse cx="100" cy="170" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M42 100L54 50C82 40 118 40 146 50L158 100Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 56L56 96M136 56L144 96" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="78" r="13" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="74" cy="88" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="126" cy="88" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="58" cy="98" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="88" cy="96" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="114" cy="96" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="142" cy="98" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="78" r="5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="36" y="100" width="128" height="14" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="40" y="114" width="120" height="52" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 114V166M138 114V166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="90" y="108" width="20" height="24" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 116V124" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="172" cy="163" rx="10" ry="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 22V34M94 28H106M162 30V40M157 35H167M36 36V44M32 40H40" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

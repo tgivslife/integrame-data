@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Roșii: a ripe tomato with its lime calyx, a pair of cherries beside it -->
+  <ellipse cx="100" cy="170" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M84 72C96 62 138 66 142 108C146 146 116 166 84 166C50 166 22 146 26 108C30 66 72 62 84 72Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 84Q52 96 54 110" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M110 84Q118 96 116 110" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="48" cy="118" rx="6" ry="13" fill="#FFFFFF" transform="rotate(18 48 118)"/>
+  <path d="M84 72L64 68L77 64L69 52L84 60L94 48L95 62L109 58L97 68L104 79L86 74Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 62Q88 46 98 38" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 138Q150 116 160 100" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M170 128Q168 112 160 100" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M160 100Q168 84 182 86Q176 102 160 100Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="148" cy="152" r="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="170" cy="140" r="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="143" cy="147" r="3" fill="#FFFFFF"/>
+  <circle cx="166" cy="136" r="2.5" fill="#FFFFFF"/>
+</svg>

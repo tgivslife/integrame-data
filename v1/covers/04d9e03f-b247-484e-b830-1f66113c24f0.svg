@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …Și doi înapoi: the title, a sneaker stepping back under two arrows pointing back -->
+  <ellipse cx="98" cy="176" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M28 40L56 22L56 32L128 32L128 48L56 48L56 58Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M68 80L96 62L96 72L168 72L168 88L96 88L96 98Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M168 114L180 114M170 128L182 128M168 142L180 142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M52 150L50 118Q50 100 66 98L84 98Q90 112 104 112L128 116Q156 120 166 134Q170 146 160 150Z" transform="translate(-14 0) rotate(-10 110 140)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 118L102 110M110 121L114 113M122 124L126 116" transform="translate(-14 0) rotate(-10 110 140)" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 104Q66 126 62 146" transform="translate(-14 0) rotate(-10 110 140)" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="46" y="148" width="126" height="12" rx="6" transform="translate(-14 0) rotate(-10 110 140)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

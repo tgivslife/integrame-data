@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Anunț: a stack of three dictionaries with a wedding ring on top, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="177" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="144" width="132" height="28" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M54 144V172M146 144V172" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="78" y="152" width="44" height="12" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="46" y="116" width="114" height="28" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 116V144M142 116V144" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="84" y="124" width="38" height="12" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="40" y="90" width="120" height="26" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 90V116M142 90V116" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="80" y="97" width="40" height="12" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="104" cy="72" r="14" fill="none" stroke="#C6F432" stroke-width="5"/>
+  <circle cx="104" cy="72" r="17" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="104" cy="72" r="11" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 44H112L118 50L104 60L90 50Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 50H118M100 44L104 60M108 44L104 60" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M124 40L131 33M128 52H137M120 30L122 24" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

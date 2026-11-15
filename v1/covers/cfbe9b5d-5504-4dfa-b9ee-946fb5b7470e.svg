@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La coafor: open hairdresser's scissors, a comb and a few cut hairs, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="178" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 108L74 124" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M104 110L96 136" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <circle cx="62" cy="132" r="15" fill="#C6F432" stroke="#0F1115" stroke-width="3.5"/>
+  <circle cx="62" cy="132" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="152" r="15" fill="#C6F432" stroke="#0F1115" stroke-width="3.5"/>
+  <circle cx="92" cy="152" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 106L178 54L106 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 98L160 26L110 110Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="103" cy="107" r="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M134 108c6 6-4 12 2 18" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M152 100c6 6-4 12 2 18" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M168 92c5 5-3 10 2 15" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="-34" y="-8" width="68" height="12" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(148 152) rotate(-20)"/>
+  <path d="M-28 4v12M-20 4v12M-12 4v12M-4 4v12M4 4v12M12 4v12M20 4v12M28 4v12" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(148 152) rotate(-20)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

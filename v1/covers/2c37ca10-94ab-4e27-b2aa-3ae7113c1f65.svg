@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Badea Gheorghe: a full glass of țuică from the village tavern, with music notes for the philharmonic, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="178" rx="60" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M74 84H138L128 172H84Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 106 128)"/>
+  <path d="M76.5 106H135.5L129.6 158H82.4Z" fill="#C6F432" transform="rotate(-6 106 128)"/>
+  <ellipse cx="106" cy="106" rx="29.5" ry="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="rotate(-6 106 128)"/>
+  <path d="M82.4 158H129.6L128 172H84Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-6 106 128)"/>
+  <ellipse cx="106" cy="84" rx="32" ry="5.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 106 128)"/>
+  <path d="M83 92L88 150" fill="none" stroke="#D5D8DD" stroke-width="4" transform="rotate(-6 106 128)"/>
+  <path d="M150 74V38L176 32V68" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M150 38L176 32V41L150 47Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="143" cy="76" rx="8" ry="6" fill="#0F1115" transform="rotate(-20 143 76)"/>
+  <ellipse cx="169" cy="70" rx="8" ry="6" fill="#0F1115" transform="rotate(-20 169 70)"/>
+  <path d="M46 150V114Q52 122 60 124" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="39" cy="152" rx="8" ry="6" fill="#0F1115" transform="rotate(-20 39 152)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

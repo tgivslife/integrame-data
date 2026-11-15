@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …Belea mi-am căpătat: the greeting's bowler hat, dented by a bolt from a storm cloud -->
+  <ellipse cx="100" cy="178" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M64 152Q60 106 84 99L100 110L116 99Q140 106 136 152Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M63 136Q100 144 137 136L136 152Q100 160 64 152Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 152Q100 170 170 152Q176 162 164 168Q100 182 36 168Q24 162 30 152Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 112Q73 120 72 130" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M58 64Q44 64 44 51Q44 38 59 38Q63 22 81 24Q92 12 108 18Q125 14 132 30Q151 30 153 47Q154 64 138 64Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 74L57 85M146 74L141 85M74 78L70 88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M104 64L90 88L102 88L94 110L120 80L107 80L115 64Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 100L58 94M130 100L142 94M136 112L150 110" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

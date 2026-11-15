@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ianuarie: a calendar sheet with a snowflake, flakes falling around it -->
+  <ellipse cx="102" cy="174" rx="60" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="56" y="52" width="104" height="114" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(6 108 109)"/>
+  <rect x="46" y="46" width="104" height="116" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M56 46H140A10 10 0 0 1 150 56V76H46V56A10 10 0 0 1 56 46Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="74" y1="36" x2="74" y2="56" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <line x1="122" y1="36" x2="122" y2="56" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M98 92V146M89 99L98 107L107 99M89 139L98 131L107 139" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 92V146M89 99L98 107L107 99M89 139L98 131L107 139" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(60 98 119)"/>
+  <path d="M98 92V146M89 99L98 107L107 99M89 139L98 131L107 139" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(120 98 119)"/>
+  <circle cx="98" cy="119" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 -11V11M-9.5 -5.5L9.5 5.5M-9.5 5.5L9.5 -5.5" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(170 36)"/>
+  <path d="M0 -11V11M-9.5 -5.5L9.5 5.5M-9.5 5.5L9.5 -5.5" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(28 112) scale(.8)"/>
+  <path d="M0 -11V11M-9.5 -5.5L9.5 5.5M-9.5 5.5L9.5 -5.5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(30 38) scale(.6)"/>
+</svg>

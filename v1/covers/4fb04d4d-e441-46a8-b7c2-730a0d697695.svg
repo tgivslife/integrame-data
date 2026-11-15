@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Țări cu limba oficială spaniolă (I): a globe showing the Americas and Spain, a flag in the Spanish flag's
+       bands (lime between two grey) planted on top -->
+  <ellipse cx="94" cy="181" rx="54" ry="3" fill="#0F1115" opacity="0.12"/>
+  <rect x="86" y="164" width="12" height="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="64" y="172" width="56" height="8" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="112" r="56" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="92" cy="112" rx="24" ry="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M36 112H148" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M58 82C66 70 86 66 100 72C108 76 104 88 96 92C90 96 88 104 82 106C74 108 66 100 60 96C54 92 54 86 58 82Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M92 114C102 110 116 116 118 126C120 138 110 150 102 160C98 164 94 160 94 152C94 142 86 132 86 124C86 118 88 116 92 114Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M132 94C138 88 146 92 144 100C142 106 134 106 132 100Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="122" y1="66" x2="122" y2="24" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M122 22C140 16 160 28 178 22L178 58C160 64 140 52 122 58Z" fill="#D5D8DD"/>
+  <path d="M122 31C140 25 160 37 178 31L178 49C160 55 140 43 122 49Z" fill="#C6F432"/>
+  <path d="M122 22C140 16 160 28 178 22L178 58C160 64 140 52 122 58Z" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="122" cy="21" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

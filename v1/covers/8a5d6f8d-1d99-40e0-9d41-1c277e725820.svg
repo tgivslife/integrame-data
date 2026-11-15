@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cântec...: a handheld microphone, tilted as a singer holds it, with a song's notes rising beside it, one of them lime -->
+  <ellipse cx="106" cy="176" rx="56" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M92 98H128L119 166Q110 174 101 166Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-30 110 120)"/>
+  <rect x="105" y="116" width="10" height="20" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <circle cx="110" cy="62" r="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-30 110 120)"/>
+  <line x1="88" y1="62" x2="132" y2="62" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <line x1="91" y1="50" x2="129" y2="50" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <line x1="91" y1="74" x2="129" y2="74" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <line x1="110" y1="40" x2="110" y2="84" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <line x1="98" y1="43" x2="98" y2="81" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <line x1="122" y1="43" x2="122" y2="81" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-30 110 120)"/>
+  <rect x="88" y="86" width="44" height="13" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-30 110 120)"/>
+  <ellipse cx="0" cy="0" rx="9" ry="7" fill="#0F1115" transform="translate(130 66) rotate(-20)"/>
+  <ellipse cx="0" cy="0" rx="9" ry="7" fill="#0F1115" transform="translate(160 58) rotate(-20)"/>
+  <line x1="138" y1="63" x2="138" y2="32" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="168" y1="55" x2="168" y2="26" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M138 30L168 24L168 32L138 38Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="0" cy="0" rx="10" ry="8" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(154 126) rotate(-20)"/>
+  <line x1="163" y1="122" x2="163" y2="88" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M163 88Q177 94 175 110" fill="none" stroke="#0F1115" stroke-width="4"/>
+</svg>

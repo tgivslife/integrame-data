@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Diferențe: the cold outside and the cold in the house, a snowed-on house with frost in its window among snowflakes, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="172" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="124" y="66" width="12" height="28" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="121" y="61" width="18" height="8" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="66" y="104" width="80" height="66" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M56 108L106 62L156 108z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 82L106 62L128 82Q117 89 106 81Q95 89 84 82z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="96" y="134" width="20" height="36" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="111" cy="153" r="2.4" fill="#0F1115"/>
+  <rect x="73" y="116" width="16" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M81 116L81 132M73 124L89 124" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="122" y="114" width="20" height="20" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(132 124)"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(132 124) rotate(60)"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(132 124) rotate(120)"/>
+  <path d="M0 -20L0 20M-5 -15L0 -11L5 -15M-5 15L0 11L5 15" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(158 42)"/>
+  <path d="M0 -20L0 20M-5 -15L0 -11L5 -15M-5 15L0 11L5 15" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(158 42) rotate(60)"/>
+  <path d="M0 -20L0 20M-5 -15L0 -11L5 -15M-5 15L0 11L5 15" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(158 42) rotate(120)"/>
+  <circle cx="158" cy="42" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(34 106)"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(34 106) rotate(60)"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(34 106) rotate(120)"/>
+  <circle cx="34" cy="106" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M0 -11L0 11" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(168 132)"/>
+  <path d="M0 -11L0 11" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(168 132) rotate(60)"/>
+  <path d="M0 -11L0 11" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(168 132) rotate(120)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

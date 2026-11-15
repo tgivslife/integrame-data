@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- După despărțire: a heart broken in two, its halves leaning apart, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="118" cy="177" rx="48" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M118 86C114 77 106 70 94 70C77 70 63 82 63 100C63 122 84 142 118 168L120 152L111 137L124 120L109 104Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-5 118 168) translate(-4 0)"/>
+  <path d="M118 86C122 77 130 70 142 70C159 70 173 82 173 100C173 122 152 142 118 168L120 152L111 137L124 120L109 104Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(5 118 168) translate(4 0)"/>
+  <path d="M88 86Q80 90 78 100" fill="none" stroke="#D5D8DD" stroke-width="4" transform="rotate(-5 118 168) translate(-4 0)"/>
+  <line x1="118" y1="62" x2="118" y2="52" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="104" y1="64" x2="98" y2="56" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="132" y1="64" x2="138" y2="56" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

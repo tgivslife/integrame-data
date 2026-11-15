@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Băutura, bat-o vina!: a glass of whisky with ice, the question it makes you forget drifting away above it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="176" rx="54" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M70 96L154 96L146 172L78 172Z" fill="#FFFFFF"/>
+  <path d="M75 128L149 128L147 162L77 162Z" fill="#C6F432"/>
+  <path d="M75 128L149 128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="92" y="120" width="18" height="18" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-12 101 129)"/>
+  <rect x="118" y="122" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(10 126 130)"/>
+  <path d="M77 162L147 162L146 172L78 172Z" fill="#D5D8DD"/>
+  <path d="M77 162L147 162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M84 106L86 120" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M70 96L78 172L146 172L154 96" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="112" cy="96" rx="42" ry="5" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M120 34C120 14 160 14 160 36C160 52 140 52 140 66" fill="none" stroke="#0F1115" stroke-width="6" transform="rotate(12 140 48)"/>
+  <circle cx="140" cy="80" r="4.5" fill="#0F1115" transform="rotate(12 140 48)"/>
+  <circle cx="102" cy="82" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="95" cy="71" r="2.2" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

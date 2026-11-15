@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Copilul care plânge: a wailing baby with lime tears, the song his father threatens him with, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="179" rx="56" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- his little body in a romper -->
+  <path d="M76 178C78 160 92 152 112 152C132 152 146 160 148 178Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <!-- his head: ears, a curl of hair, raised brows, eyes squeezed shut, mouth wide open -->
+  <circle cx="64" cy="116" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="160" cy="116" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="112" cy="116" r="48" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M106 68C102 56 116 50 122 59" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M84 92Q92 84 101 88M140 92Q132 84 123 88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 100L99 107L86 114M138 100L125 107L138 114" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="112" cy="137" rx="13" ry="12" fill="#0F1115"/>
+  <path d="M102 144Q112 136 122 144Q112 150 102 144Z" fill="#D5D8DD"/>
+  <!-- his tears, two on his cheeks and two flying off -->
+  <path d="M80 116C74 126 74 133 80 133C86 133 86 126 80 116Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M144 116C138 126 138 133 144 133C150 133 150 126 144 116Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M38 94C34 101 34 106 38 106C42 106 42 101 38 94Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M186 94C182 101 182 106 186 106C190 106 190 101 186 94Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(-6 0)"/>
+  <!-- the song: two beamed notes -->
+  <ellipse cx="0" cy="0" rx="6.5" ry="4.8" fill="#0F1115" transform="translate(152 66) rotate(-20)"/>
+  <ellipse cx="0" cy="0" rx="6.5" ry="4.8" fill="#0F1115" transform="translate(174 58) rotate(-20)"/>
+  <line x1="157.5" y1="64" x2="157.5" y2="32" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="179.5" y1="56" x2="179.5" y2="24" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M157.5 32L179.5 24V31L157.5 39Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

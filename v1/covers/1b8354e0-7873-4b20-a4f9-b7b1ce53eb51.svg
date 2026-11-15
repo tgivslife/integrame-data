@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nuvele de Ioan Slavici (II): a watermill by its stream, for "Moara cu noroc" -->
+  <ellipse cx="128" cy="164" rx="52" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M76 94L125 52L174 94Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="86" y="92" width="78" height="68" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="140" y="104" width="16" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M148 104V120M140 112H156" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M118 160V132C118 126 136 126 136 132V160" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="125" cy="76" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="62" cy="124" r="38" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="62" cy="124" r="27" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 86V162M24 124H100M35 97L89 151M89 97L35 151" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="62" cy="124" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M20 150Q31 143 42 150T64 150T86 150T108 150V172H20Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M32 162Q40 157 48 162M66 164Q74 159 82 164" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Jocul de table: an open backgammon board with its checkers, and above it two dice that are only dashed outlines with hollow pips (a double six played on trust), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="176" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="28" y="106" width="152" height="64" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="100" y="106" width="8" height="64" fill="#0F1115"/>
+  <path d="M46 110L51 132L56 110ZM66 110L71 132L76 110ZM86 110L91 132L96 110ZM122 110L127 132L132 110ZM142 110L147 132L152 110ZM162 110L167 132L172 110ZM36 166L41 144L46 166ZM56 166L61 144L66 166ZM76 166L81 144L86 166ZM112 166L117 144L122 166ZM132 166L137 144L142 166ZM152 166L157 144L162 166Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M36 110L41 132L46 110ZM56 110L61 132L66 110ZM76 110L81 132L86 110ZM112 110L117 132L122 110ZM132 110L137 132L142 110ZM152 110L157 132L162 110ZM46 166L51 144L56 166ZM66 166L71 144L76 166ZM86 166L91 144L96 166ZM122 166L127 144L132 166ZM142 166L147 144L152 166ZM162 166L167 144L172 166Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="41" cy="160" r="5.5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="41" cy="149" r="5.5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="61" cy="160" r="5.5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="167" cy="116" r="5.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="167" cy="127" r="5.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="147" cy="116" r="5.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M-14 -8V-14H-8M-3 -14H3M8 -14H14V-8M14 -3V3M14 8V14H8M3 14H-3M-8 14H-14V8M-14 3V-3" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(106 66) rotate(-14)"/>
+  <path d="M-9.4 -8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M-9.4 0a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M-9.4 8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 -8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 0a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(106 66) rotate(-14)"/>
+  <path d="M-14 -8V-14H-8M-3 -14H3M8 -14H14V-8M14 -3V3M14 8V14H8M3 14H-3M-8 14H-14V8M-14 3V-3" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(146 78) rotate(12)"/>
+  <path d="M-9.4 -8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M-9.4 0a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M-9.4 8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 -8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 0a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0M4.6 8a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(146 78) rotate(12)"/>
+  <path d="M78 92L86 88M80 100L89 98" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

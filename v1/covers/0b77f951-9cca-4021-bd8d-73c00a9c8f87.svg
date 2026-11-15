@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Trifoiul norocos: a big four-leaf clover and, beside it, another one just found, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="176" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the small clover, the one found today: its stem, its four leaves, their veins -->
+  <path d="M50 150C49 158 51 166 56 173" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="6" transform="translate(50 146) rotate(-45) scale(0.5)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="6" transform="translate(50 146) rotate(45) scale(0.5)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="6" transform="translate(50 146) rotate(135) scale(0.5)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="6" transform="translate(50 146) rotate(-135) scale(0.5)"/>
+  <!-- the big clover: its stem, its four lime leaves, their veins, its heart -->
+  <path d="M116 96C112 124 118 152 130 172" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(116 92) rotate(-45)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(116 92) rotate(45)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(116 92) rotate(135)"/>
+  <path d="M0 0C-6-8-26-18-24-34C-22-46-6-48 0-36C6-48 22-46 24-34C26-18 6-8 0 0Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(116 92) rotate(-135)"/>
+  <line x1="0" y1="-6" x2="0" y2="-28" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(116 92) rotate(-45)"/>
+  <line x1="0" y1="-6" x2="0" y2="-28" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(116 92) rotate(45)"/>
+  <line x1="0" y1="-6" x2="0" y2="-28" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(116 92) rotate(135)"/>
+  <line x1="0" y1="-6" x2="0" y2="-28" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(116 92) rotate(-135)"/>
+  <circle cx="116" cy="92" r="4" fill="#0F1115"/>
+  <!-- a glint of luck -->
+  <path d="M170 28v16M162 36h16" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

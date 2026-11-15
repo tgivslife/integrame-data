@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În familie: a hundred-lei note on another, under a crescent moon and stars (the son was paid a hundred "pentru
+       noaptea întreagă"), with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="42" y="96" width="124" height="64" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(7 104 128)"/>
+  <rect x="38" y="104" width="128" height="64" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 102 136)"/>
+  <rect x="47" y="112" width="110" height="48" rx="4" fill="none" stroke="#D5D8DD" stroke-width="3" transform="rotate(-6 102 136)"/>
+  <circle cx="72" cy="136" r="14" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-6 102 136)"/>
+  <path d="M102 127L107 123L107 149" fill="none" stroke="#0F1115" stroke-width="3.5" transform="rotate(-6 102 136)"/>
+  <ellipse cx="123" cy="136" rx="7" ry="12" fill="none" stroke="#0F1115" stroke-width="3.5" transform="rotate(-6 102 136)"/>
+  <ellipse cx="143" cy="136" rx="7" ry="12" fill="none" stroke="#0F1115" stroke-width="3.5" transform="rotate(-6 102 136)"/>
+  <path d="M160 31.2A24 24 0 1 0 160 72.8A24 24 0 0 1 160 31.2Z" fill="#C6F432" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(104 34)"/>
+  <path d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(174 86)"/>
+  <path d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(98 70) scale(.8)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

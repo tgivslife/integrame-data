@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …bune…: a thumbs-up hand in a grey cuff, beside a lime badge with a check mark -->
+  <ellipse cx="100" cy="178" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="150" cy="50" r="24" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M138 50L147 59L163 41" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 34L64 44M46 56L57 61M42 80L54 81" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="46" y="98" width="30" height="78" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M86 172Q74 172 74 160L74 106Q74 96 82 92L84 52Q86 36 98 36Q112 36 110 52L106 90L128 90L128 172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 50Q98 45 105 50" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="114" y="90" width="42" height="21" rx="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="114" y="111" width="42" height="21" rx="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="114" y="132" width="42" height="21" rx="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="114" y="153" width="38" height="19" rx="9.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+</svg>

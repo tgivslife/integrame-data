@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Aniversare: a birthday cake with lit candles, a dumbbell beside it for the joke's weights, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="114" cy="178" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="92" cy="166" rx="52" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="50" y="124" width="84" height="40" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 134q6 8 12 0q6 8 12 0q6 8 12 0q6 8 12 0q6 8 12 0q6 8 12 0q6 8 12 0" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="64" cy="152" r="3" fill="#0F1115"/>
+  <circle cx="82" cy="152" r="3" fill="#0F1115"/>
+  <circle cx="100" cy="152" r="3" fill="#0F1115"/>
+  <circle cx="118" cy="152" r="3" fill="#0F1115"/>
+  <rect x="64" y="92" width="56" height="32" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 101q7 7 14 0q7 7 14 0q7 7 14 0q7 7 14 0" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="74" y="72" width="8" height="20" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="88" y="68" width="8" height="24" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="102" y="72" width="8" height="20" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M78 52C85 59 85 67 78 67C71 67 71 59 78 52z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M92 48C99 55 99 63 92 63C85 63 85 55 92 48z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M106 52C113 59 113 67 106 67C99 67 99 59 106 52z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="144" y="162" width="40" height="6" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="149" y="151" width="9" height="28" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="170" y="151" width="9" height="28" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 -11L3 -3L11 0L3 3L0 11L-3 3L-11 0L-3 -3z" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="translate(150 64)"/>
+  <path d="M0 -11L3 -3L11 0L3 3L0 11L-3 3L-11 0L-3 -3z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="translate(162 104) scale(.6)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

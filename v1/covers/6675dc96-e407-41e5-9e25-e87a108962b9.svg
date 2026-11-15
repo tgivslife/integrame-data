@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La măcelărie: a ham hock on a chopping board under a butcher's cleaver with a lime handle, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="172" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="36" y="132" width="140" height="34" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="162" cy="149" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="54" y="112" width="26" height="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="52" cy="110" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="52" cy="124" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M78 110C92 90 132 84 150 102C164 116 158 138 140 142C118 148 94 138 78 126Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 116C102 104 124 100 138 106" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="146" cy="121" rx="9" ry="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="146" cy="121" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="70" y="40" width="46" height="14" rx="7" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(-20 140 52)"/>
+  <circle cx="84" cy="47" r="2.5" fill="#0F1115" transform="rotate(-20 140 52)"/>
+  <circle cx="100" cy="47" r="2.5" fill="#0F1115" transform="rotate(-20 140 52)"/>
+  <rect x="112" y="30" width="60" height="40" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-20 140 52)"/>
+  <line x1="116" y1="62" x2="168" y2="62" fill="none" stroke="#D5D8DD" stroke-width="4" transform="rotate(-20 140 52)"/>
+  <circle cx="162" cy="40" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-20 140 52)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

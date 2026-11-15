@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Permisul: a driving licence and the policeman's peaked cap resting on it, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="179" rx="66" ry="4" fill="#0F1115" opacity="0.12"/>
+  <rect x="50" y="96" width="116" height="72" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-8 108 132)"/>
+  <rect x="58" y="104" width="100" height="12" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="rotate(-8 108 132)"/>
+  <rect x="60" y="124" width="30" height="36" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5" transform="rotate(-8 108 132)"/>
+  <circle cx="75" cy="137" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="rotate(-8 108 132)"/>
+  <path d="M65 158Q65 146 75 146Q85 146 85 158" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="rotate(-8 108 132)"/>
+  <path d="M100 130H154M100 140H146M100 150H138" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-8 108 132)"/>
+  <path d="M94 70Q88 40 130 36Q172 40 166 70Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-8 130 70)"/>
+  <rect x="96" y="66" width="68" height="14" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-8 130 70)"/>
+  <path d="M96 80Q130 100 164 80Q130 88 96 80Z" fill="#0F1115" stroke="#0F1115" stroke-width="4" transform="rotate(-8 130 70)"/>
+  <circle cx="130" cy="54" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="rotate(-8 130 70)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Compozitori italieni de muzică clasică (II): a violin leaning among two fallen leaves, its lime bow across it -->
+  <ellipse cx="108" cy="172" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(42 166) rotate(-62) scale(.75)"/>
+  <path d="M0 -16C12 -10 12 10 0 16C-12 10 -12 -10 0 -16z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(160 166) rotate(68) scale(.7)"/>
+  <path d="M0 -20C14 -20 26 -14 25 -2C24 8 15 12 15 22C15 30 31 32 31 48C31 62 16 68 0 68C-16 68 -31 62 -31 48C-31 32 -15 30 -15 22C-15 12 -24 8 -25 -2C-26 -14 -14 -20 0 -20Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(94 104) rotate(-20)"/>
+  <path d="M-4 -62L4 -62L6 28L-6 28Z" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(94 104) rotate(-20)"/>
+  <rect x="-6" y="-76" width="12" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(94 104) rotate(-20)"/>
+  <path d="M-6 -72H-12M-6 -65H-12M6 -72H12M6 -65H12" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(94 104) rotate(-20)"/>
+  <circle cx="0" cy="-82" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(94 104) rotate(-20)"/>
+  <path d="M10 16C15 22 7 34 13 41M-10 16C-15 22 -7 34 -13 41" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(94 104) rotate(-20)"/>
+  <path d="M-10 36H10M-2.5 28V46M2.5 28V46" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(94 104) rotate(-20)"/>
+  <path d="M-5 45L5 45L3 62L-3 62Z" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(94 104) rotate(-20)"/>
+  <path d="M-60 11L72 5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(112 104) rotate(-42)"/>
+  <rect x="-75" y="-4" width="150" height="8" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(112 104) rotate(-42)"/>
+  <rect x="-70" y="-2" width="14" height="14" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(112 104) rotate(-42)"/>
+  <path d="M68 -4L76 -4L74 8L68 6Z" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(112 104) rotate(-42)"/>
+</svg>

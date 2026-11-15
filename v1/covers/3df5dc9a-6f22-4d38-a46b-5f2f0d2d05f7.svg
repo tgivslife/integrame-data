@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Legume: a tomato vine with three tomatoes, the biggest one still green (lime), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="178" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M96 30C102 48 108 60 112 78" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M112 78C100 84 84 92 70 104" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M112 78C126 84 144 88 158 96" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M112 78C112 92 112 104 112 112" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 46C88 40 78 42 72 50C82 54 92 52 100 46Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M106 60C118 52 130 52 136 58C128 64 116 66 106 60Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="64" cy="128" r="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M56 106L64 112L72 106" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="122" r="24" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M152 100L160 106L168 100" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="112" cy="144" r="32" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 116L106 122L112 112L118 122L124 116" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 138C96 130 100 126 106 124" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

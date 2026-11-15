@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Actor canadian (I): a film clapperboard with a lime maple leaf on it, a star's sparkles above -->
+  <ellipse cx="100" cy="172" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="36" y="96" width="128" height="70" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="78" width="128" height="18" fill="#FFFFFF" stroke="none"/>
+  <path d="M48 78L64 78L56 96L40 96ZM80 78L96 78L88 96L72 96ZM112 78L128 78L120 96L104 96ZM144 78L160 78L152 96L136 96Z" fill="#0F1115" stroke="none"/>
+  <rect x="36" y="78" width="128" height="18" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="56" width="128" height="18" fill="#FFFFFF" stroke="none" transform="rotate(-12 38 74)"/>
+  <path d="M44 56L60 56L68 74L52 74ZM76 56L92 56L100 74L84 74ZM108 56L124 56L132 74L116 74ZM140 56L156 56L164 74L148 74Z" fill="#0F1115" stroke="none" transform="rotate(-12 38 74)"/>
+  <rect x="36" y="56" width="128" height="18" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(-12 38 74)"/>
+  <circle cx="38" cy="76" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 103L106 115L112 112L110 126L120 117L118 123L127 121L123 130L125 133L113 141L114 146L102 144L102 157L98 157L98 144L86 146L87 141L75 133L77 130L73 121L82 123L80 117L90 126L88 112L94 115Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M30 26V40M23 33H37M62 18V28M57 23H67" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

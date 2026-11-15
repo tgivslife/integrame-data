@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Înainte și acum: this year winter comes through the radiator, a snowed-on radiator with icicles under it and snowflakes rising from it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="174" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="26" y="98" width="30" height="12" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="37" y1="98" x2="37" y2="90" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="37" cy="86" rx="10" ry="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="52" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="72" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="92" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="112" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="132" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="152" y="90" width="18" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="61" y1="104" x2="61" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="81" y1="104" x2="81" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="101" y1="104" x2="101" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="121" y1="104" x2="121" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="141" y1="104" x2="141" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="161" y1="104" x2="161" y2="150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M48 96C50 84 68 80 80 87C90 78 110 78 120 87C130 78 150 78 160 87C170 82 178 88 174 96Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="56" y="160" width="10" height="11" rx="2" fill="#0F1115"/>
+  <rect x="156" y="160" width="10" height="11" rx="2" fill="#0F1115"/>
+  <path d="M77 160L80 169L83 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M97 160L101 171L105 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M117 160L120 168L123 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M137 160L141 171L145 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(128 50)"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(128 50) rotate(60)"/>
+  <path d="M0 -14L0 14M-4 -10L0 -7L4 -10M-4 10L0 7L4 10" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(128 50) rotate(120)"/>
+  <path d="M0 -9L0 9" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(166 62)"/>
+  <path d="M0 -9L0 9" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(166 62) rotate(60)"/>
+  <path d="M0 -9L0 9" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(166 62) rotate(120)"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(94 64)"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(94 64) rotate(60)"/>
+  <path d="M0 -7L0 7" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(94 64) rotate(120)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În tren: a sheep whose four legs are the accent (count them), a division sign (divide by four), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="176" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="76" y="126" width="11" height="46" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="96" y="130" width="11" height="44" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="118" y="130" width="11" height="44" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="136" y="126" width="11" height="46" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="58" cy="104" r="11" fill="#0F1115"/>
+  <circle cx="78" cy="112" r="23" fill="#0F1115"/>
+  <circle cx="96" cy="96" r="25" fill="#0F1115"/>
+  <circle cx="122" cy="94" r="25" fill="#0F1115"/>
+  <circle cx="142" cy="110" r="23" fill="#0F1115"/>
+  <circle cx="128" cy="128" r="23" fill="#0F1115"/>
+  <circle cx="100" cy="130" r="23" fill="#0F1115"/>
+  <circle cx="58" cy="104" r="8" fill="#FFFFFF"/>
+  <circle cx="78" cy="112" r="20" fill="#FFFFFF"/>
+  <circle cx="96" cy="96" r="22" fill="#FFFFFF"/>
+  <circle cx="122" cy="94" r="22" fill="#FFFFFF"/>
+  <circle cx="142" cy="110" r="20" fill="#FFFFFF"/>
+  <circle cx="128" cy="128" r="20" fill="#FFFFFF"/>
+  <circle cx="100" cy="130" r="20" fill="#FFFFFF"/>
+  <circle cx="110" cy="112" r="24" fill="#FFFFFF"/>
+  <ellipse cx="148" cy="92" rx="10" ry="5" transform="rotate(-30 148 92)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="160" cy="106" rx="15" ry="19" transform="rotate(-15 160 106)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="155" cy="88" r="9" fill="#0F1115"/>
+  <circle cx="155" cy="88" r="6" fill="#FFFFFF"/>
+  <circle cx="164" cy="102" r="2.5" fill="#0F1115"/>
+  <path d="M160 116C163 118 166 118 168 116" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="146" y="41" width="30" height="7" rx="3.5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="161" cy="30" r="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="161" cy="59" r="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

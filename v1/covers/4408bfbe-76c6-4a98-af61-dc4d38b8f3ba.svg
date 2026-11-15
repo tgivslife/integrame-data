@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Protecția animalelor: a turtle walking under the shell that protects it -->
+  <ellipse cx="96" cy="162" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M34 124L20 134L36 136Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="50" y="130" width="24" height="30" rx="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="110" y="130" width="24" height="30" rx="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M134 132C146 128 144 108 146 96L172 102C172 118 164 136 146 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="160" cy="88" rx="20" ry="16" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="166" cy="84" r="4" fill="#0F1115"/>
+  <path d="M164 96Q172 97 177 92" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M36 128C36 84 60 54 92 54C124 54 148 84 148 128Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 74L112 86L112 106L92 118L72 106L72 86Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="92" y1="74" x2="92" y2="54" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="112" y1="86" x2="130" y2="74" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="72" y1="86" x2="54" y2="74" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="112" y1="106" x2="146" y2="112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="72" y1="106" x2="38" y2="112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="92" y1="118" x2="92" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="28" y="122" width="128" height="14" rx="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

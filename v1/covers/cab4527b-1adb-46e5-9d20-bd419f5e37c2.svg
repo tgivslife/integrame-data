@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Argumente: a balance weighing them, the heavy lime one tipping its pan down -->
+  <ellipse cx="100" cy="172" rx="62" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M68 168L132 168L124 154L76 154Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="94" y="52" width="12" height="102" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="44" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="40" y1="68" x2="20" y2="118" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="40" y1="68" x2="60" y2="118" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="160" y1="58" x2="140" y2="108" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="160" y1="58" x2="180" y2="108" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="36" y="58" width="128" height="10" rx="5" transform="rotate(-5 100 63)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="63" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M28 118L52 118L48 102L32 102Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M35 102Q40 94 45 102" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M18 118Q40 140 62 118Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="160" cy="102" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 108Q160 130 182 108Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- As de treflă: the title's ace of clubs, its big club in lime, a card's back fanned behind it -->
+  <ellipse cx="104" cy="176" rx="62" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="60" y="36" width="96" height="132" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(10 108 102)"/>
+  <rect x="70" y="46" width="76" height="112" rx="5" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(10 108 102)"/>
+  <rect x="52" y="34" width="96" height="132" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-8 100 100)"/>
+  <path d="M100 100L88 134H112Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(-8 100 100)"/>
+  <circle cx="100" cy="80" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="6" transform="rotate(-8 100 100)"/>
+  <circle cx="82" cy="106" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="6" transform="rotate(-8 100 100)"/>
+  <circle cx="118" cy="106" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="6" transform="rotate(-8 100 100)"/>
+  <circle cx="100" cy="80" r="17" fill="#C6F432" transform="rotate(-8 100 100)"/>
+  <circle cx="82" cy="106" r="17" fill="#C6F432" transform="rotate(-8 100 100)"/>
+  <circle cx="118" cy="106" r="17" fill="#C6F432" transform="rotate(-8 100 100)"/>
+  <circle cx="100" cy="98" r="12" fill="#C6F432" transform="rotate(-8 100 100)"/>
+  <polyline points="58,58 64,42 70,58" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-8 100 100)"/>
+  <line x1="60.5" y1="52" x2="67.5" y2="52" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-8 100 100)"/>
+  <circle cx="64" cy="66" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <circle cx="60" cy="71" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <circle cx="68" cy="71" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <path d="M64 70L61.5 77H66.5Z" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <polyline points="142,142 136,158 130,142" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-8 100 100)"/>
+  <line x1="139.5" y1="148" x2="132.5" y2="148" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-8 100 100)"/>
+  <circle cx="136" cy="134" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <circle cx="140" cy="129" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <circle cx="132" cy="129" r="3.5" fill="#0F1115" transform="rotate(-8 100 100)"/>
+  <path d="M136 130L138.5 123H133.5Z" fill="#0F1115" transform="rotate(-8 100 100)"/>
+</svg>

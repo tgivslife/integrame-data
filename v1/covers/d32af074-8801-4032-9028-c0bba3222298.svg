@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pană: a flat tyre with a nail in it beside a phone calling someone who doesn't answer, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="170" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M90 72A46 46 0 0 1 134 132C140 150 132 164 118 166H62C48 164 40 150 46 132A46 46 0 0 1 90 72z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="90" cy="124" r="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="90" cy="124" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="90" cy="108" r="2.2" fill="#0F1115"/>
+  <circle cx="105.2" cy="119.1" r="2.2" fill="#0F1115"/>
+  <circle cx="99.4" cy="136.9" r="2.2" fill="#0F1115"/>
+  <circle cx="80.6" cy="136.9" r="2.2" fill="#0F1115"/>
+  <circle cx="74.8" cy="119.1" r="2.2" fill="#0F1115"/>
+  <line x1="90" y1="84" x2="90" y2="77" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="107" y1="88.6" x2="110.5" y2="82.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="119.4" y1="107" x2="125.5" y2="103.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="59.4" y1="92.3" x2="50.2" y2="84.6" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="45.1" y1="90.7" x2="55.3" y2="78.5" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="36" y1="156" x2="26" y2="158" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="34" y1="146" x2="24" y2="144" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="133" y="57" width="38" height="70" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(12 152 92)"/>
+  <rect x="139" y="66" width="26" height="44" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2" transform="rotate(12 152 92)"/>
+  <circle cx="152" cy="81" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="rotate(12 152 92)"/>
+  <path d="M144 98a8 7 0 0 1 16 0z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="rotate(12 152 92)"/>
+  <circle cx="152" cy="118" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(12 152 92)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

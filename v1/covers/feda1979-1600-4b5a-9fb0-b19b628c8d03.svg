@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Dilemă: a new high-heeled shoe under a cracking globe, the end of the world, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="172" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="140" cy="58" r="30" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 48C126 38 138 40 140 48C142 56 132 62 124 58Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M146 64C152 60 162 64 160 72C156 80 146 78 146 72Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <polyline points="136,28 144,42 134,54 146,68 138,88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M172 32L180 28L178 38Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M106 34L100 28L110 26Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M150 131L166 128L162 166L156 166Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 158C38 146 64 142 88 140C112 140 140 124 160 104C166 110 168 120 166 128C140 132 112 150 96 164L44 166C36 166 33 162 34 158Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 140C110 134 138 116 158 100L160 104C140 124 112 140 88 140Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="154" y1="168" x2="164" y2="168" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

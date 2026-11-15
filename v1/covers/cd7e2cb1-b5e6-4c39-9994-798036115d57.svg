@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Promisiunea: a toy crane truck, the gift Moș Crăciun promised, lifting a wrapped present on its hook, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="170" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M95.1 108.6L143.3 39.8L153.1 46.6L104.9 115.4Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="109.5,108.9 105.4,93.9 121,92.5 116.9,77.5 132.5,76.1 128.4,61.1 143.9,59.7 139.9,44.7" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="155" y1="46" x2="155" y2="82" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="148.2" cy="43.2" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M155 82v8a5 5 0 0 1-10 0" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="142" y="100" width="28" height="24" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="152" y="100" width="8" height="24" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M156 100c-6-10-16-9-13-3c2 4 8 4 13 3zM156 100c6-10 16-9 13-3c-2 4-8 4-13 3z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <rect x="28" y="132" width="112" height="18" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 132V104a4 4 0 0 1 4-4H56L64 116V132Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M38 106H54L59 116H38Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="72" y="110" width="52" height="22" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="80" y="115" width="14" height="10" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="50" cy="154" r="12" fill="#0F1115"/>
+  <circle cx="84" cy="154" r="12" fill="#0F1115"/>
+  <circle cx="118" cy="154" r="12" fill="#0F1115"/>
+  <circle cx="50" cy="154" r="4.5" fill="#FFFFFF"/>
+  <circle cx="84" cy="154" r="4.5" fill="#FFFFFF"/>
+  <circle cx="118" cy="154" r="4.5" fill="#FFFFFF"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

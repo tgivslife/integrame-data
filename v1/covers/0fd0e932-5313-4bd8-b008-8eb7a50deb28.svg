@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="100" cy="176" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M62 66H130V76C140 82 144 92 144 104V160C144 168 138 174 130 174H62C54 174 48 168 48 160V104C48 92 52 82 62 76Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52 112C70 106 82 118 96 112C110 106 124 116 140 110V160C140 166 136 170 130 170H62C56 170 52 166 52 160Z" fill="#D5D8DD" stroke="none"/>
+  <rect x="56" y="44" width="80" height="24" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="70" y1="50" x2="70" y2="62" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="86" y1="50" x2="86" y2="62" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="102" y1="50" x2="102" y2="62" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="118" y1="50" x2="118" y2="62" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="64" y="122" width="64" height="30" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="96" cy="137" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 129C97 125 99 123 102 122" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M60 92C60 86 64 82 70 82" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M150 104C152 96 158 92 166 92C164 100 158 104 150 104Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M150 104C148 110 148 116 150 120" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="142" cy="128" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="128" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="151" cy="144" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="169" cy="144" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="160" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="36" cy="156" rx="16" ry="19" transform="rotate(-14 36 156)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M32 138C26 148 26 164 34 174" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M38 137C40 131 44 128 48 127" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

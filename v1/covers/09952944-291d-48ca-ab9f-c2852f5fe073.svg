@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mașină...: an SUV in profile with a roof rack, its headlight casting a lime beam -->
+  <ellipse cx="96" cy="158" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M164 106L182 97L182 123L164 114Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 58L124 58M78 58L78 64M116 58L116 64" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M24 134L24 112Q24 102 34 100L50 98L64 70Q67 64 74 64L120 64Q126 64 130 70L144 98L152 100Q160 102 160 112L160 134Q160 140 154 140L30 140Q24 140 24 134Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 96L68 75Q70 72 74 72L90 72L90 96Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 72L120 72Q123 72 125 76L135 96L96 96Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M93 100L93 130M76 107L84 107M104 107L112 107" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="150" y="105" width="10" height="9" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="24" y="106" width="6" height="9" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="54" cy="140" r="17" fill="#0F1115" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="54" cy="140" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="132" cy="140" r="17" fill="#0F1115" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="132" cy="140" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+</svg>

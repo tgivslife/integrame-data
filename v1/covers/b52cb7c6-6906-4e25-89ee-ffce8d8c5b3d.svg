@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Înainte de culcare: a phone whose Wi-Fi is cut (the punchline) under a bedtime moon, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="176" rx="42" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="78" y="52" width="60" height="116" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="86" y="64" width="44" height="84" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="100" y1="58" x2="116" y2="58" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="108" cy="158" r="4" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M101.6 111.6A9 9 0 0 1 114.4 111.6M96 106A17 17 0 0 1 120 106M90.3 100.3A25 25 0 0 1 125.7 100.3" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="108" cy="119" r="3.5" fill="#0F1115"/>
+  <rect x="80" y="107" width="56" height="8" rx="4" transform="rotate(-52.7 108 111)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M159.7 28A16 16 0 1 0 175.3 48.8A13 13 0 0 1 159.7 28Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="124,34 134,34 124,44 134,44" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="136,20 142,20 136,26 142,26" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

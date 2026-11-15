@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Prăjituri: three glazed cakes piled on a plate, a cherry on each, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="96" cy="172" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M24 152H168C164 164 150 168 138 168H54C42 168 28 164 24 152z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="38" y="116" width="44" height="36" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="38" y1="134" x2="82" y2="134" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M38 124C38 118 42 116 46 116H74C78 116 82 118 82 124C78 130 74 130 70 125C66 131 60 131 56 125C52 131 44 131 38 124z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="110" y="116" width="44" height="36" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="110" y1="134" x2="154" y2="134" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 124C110 118 114 116 118 116H146C150 116 154 118 154 124C150 130 146 130 142 125C138 131 132 131 128 125C124 131 116 131 110 124z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="72" y="76" width="48" height="40" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="72" y1="96" x2="120" y2="96" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 85C72 79 76 76 80 76H112C116 76 120 79 120 85C116 91 112 91 108 86C104 92 98 92 94 86C90 92 78 92 72 85z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="96" cy="66" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 57C96 50 100 46 106 44" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="60" cy="108" r="7" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="132" cy="108" r="7" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M134 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-6v10l-10-10h-24a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="144" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="154" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="164" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

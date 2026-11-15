@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Culmea auzului: an ear listening to the day cracking, a rising sun split by a crack, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="170" rx="64" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="140" y1="118" x2="140" y2="110" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="159" y1="123" x2="163" y2="116" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="173" y1="137" x2="180" y2="133" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="121" y1="123" x2="117" y2="116" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M108 156a32 32 0 0 1 64 0z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M140 124l-5 8 7 7-6 8 4 9" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="102" y1="156" x2="178" y2="156" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M46 110C46 88 60 76 74 76C90 76 100 90 100 104C100 118 92 124 86 130C80 136 80 146 74 152C68 158 56 158 52 150C48 142 46 128 46 110z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 112C60 98 68 90 76 90C84 90 88 98 86 106C84 112 78 114 76 120C74 126 70 130 66 128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 84q-8 12 0 24" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M120 76q-12 18 0 36" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

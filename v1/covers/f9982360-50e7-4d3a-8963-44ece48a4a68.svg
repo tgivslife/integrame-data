@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mai mișcă?: the Earth in a soldier's cap, still moving, with Galileo's telescope beside it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="168" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="42" y1="128" x2="28" y2="162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="128" x2="56" y2="162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="128" x2="42" y2="162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="22" y="114" width="40" height="12" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-28 42 120)"/>
+  <rect x="56" y="111" width="8" height="18" rx="2" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-28 42 120)"/>
+  <circle cx="114" cy="120" r="42" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 98c10-2 18 4 18 12c0 8-8 10-6 17c2 7 8 10 5 18c-3 7-11 7-15 2c-4-6 0-13-6-19c-6-5-11-6-11-13c0-9 7-15 15-17z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 108c6-2 11 2 9 8c-2 6 4 10 2 16c-2 6-8 6-10 0c-2-6-7-8-7-14c0-6 2-9 6-10z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="166" y1="104" x2="182" y2="104" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="168" y1="120" x2="182" y2="120" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="166" y1="136" x2="180" y2="136" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M81 61L92 86H138L149 61z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(8 115 86)"/>
+  <ellipse cx="115" cy="60" rx="34" ry="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(8 115 86)"/>
+  <rect x="92" y="72" width="46" height="14" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(8 115 86)"/>
+  <path d="M115 73.5L116.35 77.14L120.23 77.3L117.19 79.71L118.23 83.45L115 81.3L111.77 83.45L112.81 79.71L109.77 77.3L113.65 77.14z" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(8 115 86)"/>
+  <path d="M92 86C100 96 124 98 138 86z" fill="#0F1115" stroke="#0F1115" stroke-width="3" transform="rotate(8 115 86)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

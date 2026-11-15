@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Donald: a drake in a cowboy's hat beside a cactus, the hat's band, its neckerchief and its bill in the accent colour -->
+  <ellipse cx="96" cy="176" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M146 174V140H136C128 140 124 135 124 128V112C124 106 134 106 134 112V126C134 129 135 130 138 130H146V98C146 86 164 86 164 98V120H170C173 120 174 119 174 116V104C174 98 184 98 184 104V120C184 127 180 132 172 132H164V174z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(-6 0)"/>
+  <path d="M44 124L22 106C22 122 28 140 46 150z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 164V172M92 164V172" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="78" cy="132" rx="38" ry="38" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 174C54 168 70 168 74 174zM80 174C84 168 100 168 104 174z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 124C50 138 56 150 70 154C78 146 78 132 72 122C66 118 60 119 56 124z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="78" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 100H106L84 122z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M108 70C122 68 138 72 142 80C138 90 120 92 106 88C110 82 110 76 108 70z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="94" cy="70" r="4" fill="#0F1115"/>
+  <path d="M58 56C58 30 66 20 84 20C102 20 110 30 110 56z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M59 44C74 49 94 49 109 44L110 56H58z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="84" cy="56" rx="50" ry="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

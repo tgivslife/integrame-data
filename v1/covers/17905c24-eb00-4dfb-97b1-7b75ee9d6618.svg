@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mesaj: a phone with a sent message on its screen beside an open bottle of pills and a capsule, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="177" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="94" y="36" width="68" height="136" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="102" y="52" width="52" height="98" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M118 44H138" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="128" cy="161" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="107" y="62" width="30" height="16" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M113 70H131" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M116 88h26a6 6 0 0 1 6 6v14a6 6 0 0 1-6 6h-2l2 6-8-6h-18a6 6 0 0 1-6-6v-14a6 6 0 0 1 6-6z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M117 97H141M117 105H133" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="46" y="104" width="26" height="12" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M42 116H76V169a4 4 0 0 1-4 4H46a4 4 0 0 1-4-4Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="48" y="128" width="22" height="28" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M59 135V149M52 142H66" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="18" y="163" width="20" height="10" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M28 163h5a5 5 0 0 1 0 10h-5z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

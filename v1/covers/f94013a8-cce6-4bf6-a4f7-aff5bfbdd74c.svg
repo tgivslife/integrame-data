@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="148" cy="152" rx="34" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M110 88L184 88L184 98L110 98Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 120L184 120L184 130L110 130Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M118 74L127 64L136 74L136 150L118 150Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M142 74L151 64L160 74L160 150L142 150Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166 74L175 64L184 74L184 150L166 150Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="148" y1="56" x2="148" y2="65" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="154" y1="56" x2="154" y2="65" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M138 48L120 58L140 56Z" fill="#0F1115"/>
+  <ellipse cx="151" cy="49" rx="16" ry="10" fill="#0F1115"/>
+  <circle cx="165" cy="39" r="8" fill="#0F1115"/>
+  <path d="M171 36L182 40L171 44Z" fill="#0F1115"/>
+  <circle cx="167" cy="37" r="1.8" fill="#FFFFFF"/>
+  <path d="M44 166L92 166L92 184L44 184Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M48 106L28 90L34 112Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="68" cy="112" rx="25" ry="17" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="90" cy="95" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 91L110 95L100 100Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="93" cy="92" r="2.2" fill="#0F1115"/>
+  <path d="M54 108Q68 100 80 112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M98 124Q102 104 114 104Q122 108 112 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M22 124Q24 168 64 168Q104 168 110 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 140Q50 150 62 150M76 146Q88 144 94 136" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

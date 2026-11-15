@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Discuție între prieteni: two glasses clinking at a party, a lime heart for the couple kissing, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="105" cy="172" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M46 72L86 72C86 100 78 118 66 118C54 118 46 100 46 72Z" fill="#FFFFFF" transform="rotate(14 66 152)"/>
+  <path d="M47.5 88L84.5 88C83 106 76 116 66 116C56 116 49 106 47.5 88Z" fill="#D5D8DD" transform="rotate(14 66 152)"/>
+  <path d="M47.5 88L84.5 88" fill="none" stroke="#0F1115" stroke-width="2.5" transform="rotate(14 66 152)"/>
+  <path d="M46 72L86 72C86 100 78 118 66 118C54 118 46 100 46 72Z" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(14 66 152)"/>
+  <line fill="none" x1="66" y1="118" x2="66" y2="150" stroke="#0F1115" stroke-width="4" transform="rotate(14 66 152)"/>
+  <ellipse cx="66" cy="152" rx="16" ry="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5" transform="rotate(14 66 152)"/>
+  <path d="M124 72L164 72C164 100 156 118 144 118C132 118 124 100 124 72Z" fill="#FFFFFF" transform="rotate(-14 144 152)"/>
+  <path d="M125.5 88L162.5 88C161 106 154 116 144 116C134 116 127 106 125.5 88Z" fill="#D5D8DD" transform="rotate(-14 144 152)"/>
+  <path d="M125.5 88L162.5 88" fill="none" stroke="#0F1115" stroke-width="2.5" transform="rotate(-14 144 152)"/>
+  <path d="M124 72L164 72C164 100 156 118 144 118C132 118 124 100 124 72Z" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(-14 144 152)"/>
+  <line fill="none" x1="144" y1="118" x2="144" y2="150" stroke="#0F1115" stroke-width="4" transform="rotate(-14 144 152)"/>
+  <ellipse cx="144" cy="152" rx="16" ry="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5" transform="rotate(-14 144 152)"/>
+  <line fill="none" x1="96" y1="66" x2="91" y2="59" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="105" y1="63" x2="105" y2="54" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="114" y1="66" x2="119" y2="59" stroke="#0F1115" stroke-width="3"/>
+  <path d="M152 54C132 41 134 24 145 24C149 24 152 28 152 31C152 28 155 24 159 24C170 24 172 41 152 54Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cadoul: a puppy peeking out of a gift box tied with a ribbon, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="174" rx="62" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M58 110L40 88L54 72L66 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M162 110L180 88L166 72L154 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M66 96L154 96L162 110L58 110z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 92L90 110L130 110L126 92z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="110" cy="76" r="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 70C90 60 99 54 108 54L108 76C102 80 94 80 90 76z" fill="#D5D8DD"/>
+  <path d="M92 60L72 52L80 76Q86 66 92 60z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 60L148 52L140 76Q134 66 128 60z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="110" cy="87" rx="12" ry="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="101" cy="71" r="3" fill="#0F1115"/>
+  <circle cx="119" cy="71" r="3" fill="#0F1115"/>
+  <ellipse cx="110" cy="83" rx="4.5" ry="3.5" fill="#0F1115"/>
+  <path d="M110 86L110 89M110 89Q105 93 101 90M110 89Q115 93 119 90" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="58" y="110" width="104" height="62" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="58" y="134" width="104" height="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="104" y="110" width="12" height="62" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 140C98 126 84 132 90 141C84 150 98 154 110 140z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 140C122 126 136 132 130 141C136 150 122 154 110 140z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="110" cy="140" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="97" cy="111" rx="8" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="123" cy="111" rx="8" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

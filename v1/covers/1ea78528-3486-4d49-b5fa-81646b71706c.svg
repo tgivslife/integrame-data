@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Creioane: a pot of pencils, the middle one in the accent colour, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="174" rx="52" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M84 130V58L92 36L100 58V130z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-4 92 130)"/>
+  <path d="M84 58H100M89 44L92 36L95 44" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-4 92 130)"/>
+  <path d="M124 130V62L132 40L140 62V130z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(11 132 130)"/>
+  <path d="M124 62H140M129 48L132 40L135 48" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(11 132 130)"/>
+  <path d="M102 130V46L112 20L122 46V130z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M102 46H122M108 30L112 20L116 30" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M112 50V112" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M72 106H152L146 166C146 171 142 174 137 174H87C82 174 78 171 78 166z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 122H140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

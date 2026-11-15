@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În miez de iarnă: a snow shovel with a lime blade stuck in a snow drift, two flakes, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="177" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the shovel, leaning right: its grip, its handle, its socket and its blade -->
+  <rect x="126" y="38" width="8" height="78" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(14 130 150)"/>
+  <rect x="114" y="28" width="32" height="12" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(14 130 150)"/>
+  <path d="M106 112H154L160 168H100Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(14 130 150)"/>
+  <rect x="123" y="104" width="14" height="14" rx="2" fill="#0F1115" transform="rotate(14 130 150)"/>
+  <!-- the drift in front, burying the blade's lower half -->
+  <path d="M34 174Q38 150 62 148Q74 130 98 138Q112 144 124 142Q144 132 160 148Q180 152 180 174Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 162Q82 156 94 160M132 158Q144 152 156 158" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <!-- two snowflakes -->
+  <path d="M40 98V114M33 102L47 110M33 110L47 102" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M92 70V84M86 73.5L98 80.5M86 80.5L98 73.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

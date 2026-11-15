@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Truc: a child with closed eyes, the sums of the trick floating beside the head, and the speech bubble of a cu-poantă puzzle -->
+  <path d="M46 182Q48 152 96 150Q144 152 146 182Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="56" cy="118" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="136" cy="118" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="96" cy="114" r="40" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M57 106Q58 72 96 73Q134 72 135 106Q120 90 96 92Q72 90 57 106Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M74 116Q82 123 90 116M102 116Q110 123 118 116" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M77 120L74 124M82 121V126M87 120L90 124M105 120L102 124M110 121V126M115 120L118 124" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M84 136Q96 144 108 136" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="124" cy="34" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M118 34H130M124 28V40" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="154" cy="46" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M149.5 41.5L158.5 50.5M158.5 41.5L149.5 50.5" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="171" cy="74" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M165 74H177" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="171" cy="68.5" r="1.8" fill="#0F1115"/>
+  <circle cx="171" cy="79.5" r="1.8" fill="#0F1115"/>
+  <circle cx="164" cy="104" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M158 104H170" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

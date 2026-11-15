@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …cu carte…: an open book on a stack of three books, one with a lime band on its spine -->
+  <ellipse cx="100" cy="176" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="138" width="130" height="34" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="52" y1="138" x2="52" y2="172" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="146" y1="138" x2="146" y2="172" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="84" y="148" width="32" height="14" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="46" y="106" width="114" height="32" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="62" y="106" width="16" height="32" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="94" y1="117" x2="142" y2="117" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="94" y1="127" x2="126" y2="127" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="38" y="78" width="120" height="28" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="56" y1="78" x2="56" y2="106" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="140" y1="78" x2="140" y2="106" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="78" y1="92" x2="120" y2="92" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M100 78C86 69 64 67 40 71L40 34C64 30 86 32 100 42C114 32 136 30 160 34L160 71C136 67 114 69 100 78Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 73C86 64 66 62 46 65L46 28C66 25 86 27 100 37Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 73C114 64 134 62 154 65L154 28C134 25 114 27 100 37Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 38C70 36 82 38 92 44" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M56 48C70 46 82 48 92 54" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M144 38C130 36 118 38 108 44" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M144 48C130 46 118 48 108 54" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="100" y1="37" x2="100" y2="73" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+</svg>

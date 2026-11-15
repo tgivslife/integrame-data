@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La service: a spark plug with a lime spark at its tip, a wrench behind it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="177" rx="74" ry="5"fill="#0F1115" opacity="0.12"/>
+  <!-- the wrench, a ring at each end, lying behind the plug -->
+  <rect x="-36" y="-7" width="66" height="14" rx="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(62 148) rotate(-35)"/>
+  <circle cx="91.5" cy="127.4" r="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="91.5" cy="127.4" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="29.2" cy="170.9" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="29.2" cy="170.9" r="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <!-- the spark plug: its terminal, its ribbed insulator, its hex nut, its thread and electrodes -->
+  <rect x="110" y="22" width="16" height="10" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="114" y="32" width="8" height="8" fill="#0F1115"/>
+  <path d="M108 100L111 44Q111 40 115 40H121Q125 40 125 44L128 100Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110.6 52H125.4M110.2 60H125.8M109.8 68H126.2" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="94" y="100" width="48" height="22" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 102V120M126 102V120" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="98" y="122" width="40" height="5" rx="2" fill="#0F1115"/>
+  <rect x="105" y="127" width="26" height="30" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M105 134L131 131M105 141L131 138M105 148L131 145" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M118 157V163" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M129 157V170H119" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <!-- the spark -->
+  <path d="M150 146L153.5 156.5L164 160L153.5 163.5L150 174L146.5 163.5L136 160L146.5 156.5Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 136L170 130M168 148L176 147M160 128L161 120" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

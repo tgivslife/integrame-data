@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cu roți mari: a monster truck, a small pickup body high on huge wheels -->
+  <ellipse cx="100" cy="172" rx="82" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="56" y1="104" x2="70" y2="132" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="144" y1="104" x2="130" y2="132" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="70" y1="132" x2="130" y2="132" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M24 100L24 84Q24 78 30 78L74 78L88 52Q90 48 95 48L128 48Q133 48 135 52L146 78L170 78Q176 78 176 84L176 100Q176 106 170 106L30 106Q24 106 24 100Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M94 56L126 56L136 78L84 78Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="110" y1="56" x2="110" y2="78" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="24" y1="92" x2="176" y2="92" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="164" y="82" width="10" height="7" rx="2" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="56" cy="136" r="34" fill="#0F1115"/>
+  <circle cx="56" cy="136" r="27" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <circle cx="56" cy="136" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="56" cy="136" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="144" cy="136" r="34" fill="#0F1115"/>
+  <circle cx="144" cy="136" r="27" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <circle cx="144" cy="136" r="17" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="144" cy="136" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

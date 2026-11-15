@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Tenis: a tennis racket and a ball, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M-22 44L-5 74M22 44L5 74" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(122 84) rotate(35)"/>
+  <rect x="-7" y="72" width="14" height="42" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(122 84) rotate(35)"/>
+  <ellipse cx="0" cy="0" rx="36" ry="48" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(122 84) rotate(35)"/>
+  <path d="M-20 -31.3V31.3M-10 -39.6V39.6M0 -42V42M10 -39.6V39.6M20 -31.3V31.3M-22.4 -28H22.4M-28.3 -14H28.3M-30 0H30M-28.3 14H28.3M-22.4 28H22.4" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(122 84) rotate(35)"/>
+  <circle cx="156" cy="160" r="13" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M147 151Q154 160 147 169M165 151Q158 160 165 169" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

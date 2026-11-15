@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Prelucrarea lemnului: a handsaw, its blade in the accent colour, cutting a plank laid on two trestles -->
+  <ellipse cx="100" cy="176" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M50 134L36 172M50 134L66 172M150 134L134 172M150 134L166 172" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <rect x="20" y="112" width="160" height="24" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M96 121C112 118 132 124 168 120M34 128C52 125 66 130 92 127M112 129C126 127 142 131 158 128" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M70 112L64 136" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M40 88L130 62L130 96L124 90L118 96L112 90L106 96L100 90L94 96L88 90L82 96L76 90L70 96L64 90L58 96L52 90L46 96z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(-28 100 80)"/>
+  <path d="M130 58C150 50 172 56 174 78C176 96 160 106 130 100z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-28 100 80)"/>
+  <ellipse cx="151" cy="79" rx="9" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-28 100 80)"/>
+  <circle cx="30" cy="150" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="84" cy="150" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="100" cy="162" r="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+</svg>

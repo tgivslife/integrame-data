@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Motivație: the title, an arrow in the bullseye of a target (ȚEL, the grid's first word) -->
+  <ellipse cx="92" cy="177" rx="52" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="92" cy="104" r="64" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="92" cy="104" r="46" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="104" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="104" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="92" y1="104" x2="186" y2="104" transform="rotate(-43 92 104)" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M168 104L178 91L192 91L184 104Z" transform="rotate(-43 92 104)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M168 104L178 117L192 117L184 104Z" transform="rotate(-43 92 104)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

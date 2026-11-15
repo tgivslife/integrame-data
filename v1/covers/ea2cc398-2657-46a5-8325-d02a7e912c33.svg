@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Apărători: a goalkeeper in the goal, gloves up on the ball; the jersey and the ball's patch in the accent colour -->
+  <ellipse cx="100" cy="176" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M28 70H172M28 96H172M28 122H172M28 148H172M52 44V172M76 44V172M100 44V172M124 44V172M148 44V172" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <path d="M28 172V44H172V172" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M86 134H98L84 168H70z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M114 134H102L116 168H130z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 172H84M116 172H138" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M82 118H118L122 138H78z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M82 98L70 56L82 50L94 90z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M118 98L130 56L118 50L106 90z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 88H116L118 120H82z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="76" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="35" r="17" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 26L108 32L105 41H95L92 32z" fill="#0F1115"/>
+  <circle cx="77" cy="48" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="123" cy="48" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

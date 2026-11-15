@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Operația: a fridge locked with a lime padlock on its handle, a note stuck on its door, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="122" cy="176" rx="56" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the fridge's feet, its body, and the line between the freezer and the fridge -->
+  <rect x="90" y="166" width="12" height="9" rx="2" fill="#0F1115"/>
+  <rect x="142" y="166" width="12" height="9" rx="2" fill="#0F1115"/>
+  <rect x="80" y="40" width="84" height="130" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line fill="none" x1="80" y1="84" x2="164" y2="84" stroke="#0F1115" stroke-width="4"/>
+  <!-- a note stuck on the door -->
+  <rect x="94" y="100" width="24" height="28" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-8 106 114)"/>
+  <line fill="none" x1="99" y1="110" x2="112" y2="108" stroke="#0F1115" stroke-width="2"/>
+  <line fill="none" x1="100" y1="117" x2="113" y2="115" stroke="#0F1115" stroke-width="2"/>
+  <!-- the padlock's shackle, behind the handle it goes through -->
+  <path d="M142 134V123A9 9 0 0 1 160 123V134" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <!-- the handles -->
+  <rect x="148" y="52" width="6" height="22" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="148" y="96" width="6" height="46" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <!-- the padlock's body and keyhole -->
+  <rect x="136" y="132" width="30" height="26" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="151" cy="142" r="3.5" fill="#0F1115"/>
+  <line fill="none" x1="151" y1="144" x2="151" y2="150" stroke="#0F1115" stroke-width="3"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

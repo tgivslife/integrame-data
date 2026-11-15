@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gemeni în câmp: two twin sprouts with lime leaves in a furrowed mound, seeds falling between them, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="177" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the first sprout: its stem and two leaves -->
+  <path d="M76 146V98" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 120Q54 118 48 96Q70 94 76 120Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 106Q96 98 102 76Q80 78 76 106Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <!-- its twin, the same sprout moved right -->
+  <path d="M76 146V98" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(56 0)"/>
+  <path d="M76 120Q54 118 48 96Q70 94 76 120Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(56 0)"/>
+  <path d="M76 106Q96 98 102 76Q80 78 76 106Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(56 0)"/>
+  <!-- the mound of ploughed earth and its furrows -->
+  <path d="M26 174Q36 142 100 140Q164 142 174 174Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M56 158Q100 150 144 158M44 167Q100 159 156 167" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <!-- seeds falling -->
+  <ellipse cx="104" cy="34" rx="3" ry="4.5" fill="#0F1115" transform="rotate(20 104 34)"/>
+  <ellipse cx="120" cy="48" rx="3" ry="4.5" fill="#0F1115" transform="rotate(-15 120 48)"/>
+  <ellipse cx="98" cy="56" rx="3" ry="4.5" fill="#0F1115" transform="rotate(30 98 56)"/>
+  <ellipse cx="140" cy="30" rx="3" ry="4.5" fill="#0F1115" transform="rotate(-25 140 30)"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

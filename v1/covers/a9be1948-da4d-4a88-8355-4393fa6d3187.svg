@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …fără câine…: a shepherd dog with pricked ears and a lime collar, beside a lime bone -->
+  <ellipse cx="108" cy="172" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M68 74L58 26L96 54z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M72 62L66 38L86 54z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M132 74L142 26L104 54z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M128 62L134 38L114 54z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M66 172Q62 128 82 108L118 108Q138 128 134 172z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 172Q82 140 100 128Q118 140 116 172z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 120Q100 130 124 120L127 130Q100 141 73 130z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="82" rx="36" ry="32" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M95 51Q100 68 105 51" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="100" cy="100" rx="19" ry="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M95 107Q95 121 100 121Q105 121 105 107z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M88 103Q100 112 112 103" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 97L100 104" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="100" cy="92" rx="8" ry="5.5" fill="#0F1115"/>
+  <circle cx="86" cy="78" r="3.5" fill="#0F1115"/>
+  <circle cx="114" cy="78" r="3.5" fill="#0F1115"/>
+  <path d="M153.4 156H166.6A5.5 5.5 0 1 1 174.3 160A5.5 5.5 0 1 1 166.6 164H153.4A5.5 5.5 0 1 1 145.7 160A5.5 5.5 0 1 1 153.4 156z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-20 160 160)"/>
+</svg>

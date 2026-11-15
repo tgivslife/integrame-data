@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Interdicție medicală: two grilled sausages skewered on a fork, a lime rosemary sprig, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="178" rx="44" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 44V128M107 42V128M114 42V128M121 44V128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 126H125Q125 141 115 144H106Q96 141 96 126z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="106" y="142" width="9" height="34" rx="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="46" y="62" width="132" height="30" rx="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 112 77)"/>
+  <rect x="60" y="67" width="98" height="5" rx="2.5" fill="#D5D8DD" transform="rotate(-6 112 77)"/>
+  <path d="M68 75L74 86M92 75L98 86M116 75L122 86M140 75L146 86M162 76L166 84" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-6 112 77)"/>
+  <rect x="44" y="102" width="136" height="30" rx="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(5 112 117)"/>
+  <rect x="58" y="107" width="102" height="5" rx="2.5" fill="#D5D8DD" transform="rotate(5 112 117)"/>
+  <path d="M64 115L70 126M88 115L94 126M112 115L118 126M136 115L142 126M160 116L164 124" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(5 112 117)"/>
+  <ellipse cx="139" cy="55" rx="8" ry="3.5" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(-50 139 55)"/>
+  <ellipse cx="143" cy="64" rx="8" ry="3.5" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(30 143 64)"/>
+  <ellipse cx="155" cy="49" rx="8" ry="3.5" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(-60 155 49)"/>
+  <ellipse cx="159" cy="59" rx="8" ry="3.5" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="rotate(20 159 59)"/>
+  <path d="M126 66Q146 56 170 52" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

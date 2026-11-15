@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Slogan: "you can do more!", so three cakes on a plate and the dumbbell left on the floor, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="177" rx="80" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="157" width="40" height="8" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="22" y="145" width="14" height="30" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="72" y="145" width="14" height="30" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="135" cy="162" rx="47" ry="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M96 163Q135 168 174 163" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <rect x="94" y="128" width="26" height="30" rx="3" fill="#FFFFFF"/>
+  <line x1="96" y1="143" x2="118" y2="143" fill="none" stroke="#D5D8DD" stroke-width="6"/>
+  <rect x="94" y="128" width="26" height="30" rx="3" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 128C94 117 120 117 120 128Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M107 114Q109 107 114 105" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="107" cy="116" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="122" y="128" width="26" height="30" rx="3" fill="#FFFFFF"/>
+  <line x1="124" y1="143" x2="146" y2="143" fill="none" stroke="#D5D8DD" stroke-width="6"/>
+  <rect x="122" y="128" width="26" height="30" rx="3" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M122 128C122 117 148 117 148 128Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M135 114Q137 107 142 105" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="135" cy="116" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="150" y="128" width="26" height="30" rx="3" fill="#FFFFFF"/>
+  <line x1="152" y1="143" x2="174" y2="143" fill="none" stroke="#D5D8DD" stroke-width="6"/>
+  <rect x="150" y="128" width="26" height="30" rx="3" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M150 128C150 117 176 117 176 128Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M163 114Q165 107 170 105" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="163" cy="116" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

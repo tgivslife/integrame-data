@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mărioara…: the title, the glove puppet in a headscarf, with braids and an embroidered blouse, a flower in her hand, over the stage's ledge -->
+  <ellipse cx="100" cy="178" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="46" y1="96" x2="38" y2="56" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M42 78Q52 66 60 72Q52 82 42 78Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M58 156Q60 126 84 118L116 118Q140 126 142 156Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 124L105 129L100 134L95 129Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 137L105 142L100 147L95 142Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M84 134L88 138L84 142L80 138Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M116 134L120 138L116 142L112 138Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M76 124Q58 120 46 104L54 98Q64 112 82 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M124 124Q142 120 152 106L144 100Q136 112 118 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="47" cy="99" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="152" cy="102" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="77" cy="106" rx="5" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="76" cy="118" rx="5" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="123" cy="106" rx="5" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="124" cy="118" rx="5" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="100" cy="92" rx="24" ry="27" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M72 102Q66 58 100 54Q134 58 128 102Q124 80 100 76Q76 80 72 102Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="90" cy="64" r="2.5" fill="#FFFFFF"/>
+  <circle cx="110" cy="64" r="2.5" fill="#FFFFFF"/>
+  <circle cx="100" cy="61" r="2.5" fill="#FFFFFF"/>
+  <circle cx="79" cy="78" r="2.5" fill="#FFFFFF"/>
+  <circle cx="121" cy="78" r="2.5" fill="#FFFFFF"/>
+  <circle cx="91" cy="92" r="3" fill="#0F1115"/>
+  <circle cx="109" cy="92" r="3" fill="#0F1115"/>
+  <circle cx="84" cy="103" r="5" fill="#D5D8DD"/>
+  <circle cx="116" cy="103" r="5" fill="#D5D8DD"/>
+  <path d="M92 107Q100 115 108 107" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="22" y="152" width="156" height="22" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 163L170 163" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="38" cy="42" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="45.6" cy="47.5" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="42.7" cy="56.5" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="33.3" cy="56.5" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="30.4" cy="47.5" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="38" cy="50" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

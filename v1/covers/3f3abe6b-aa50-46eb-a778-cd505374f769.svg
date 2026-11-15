@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La doctor: a bottle with a stethoscope hung round its neck, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="176" rx="58" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 66C84 70 72 86 70 110" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 66C140 72 152 96 152 124" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 46L120 46L120 76C120 86 134 90 134 104L134 164C134 169 130 172 126 172L94 172C90 172 86 169 86 164L86 104C86 90 100 86 100 76Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="97" y="34" width="26" height="14" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="90" y="118" width="40" height="32" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M98 128L122 128M102 138L118 138" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M98 70Q110 78 122 70" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 110L62 126M70 110L78 126" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="61" cy="129" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="79" cy="129" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="152" cy="138" r="14" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="152" cy="138" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

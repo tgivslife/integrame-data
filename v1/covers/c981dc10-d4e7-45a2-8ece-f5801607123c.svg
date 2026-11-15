@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Castelul din Carpați: a castle with a spired tower before the mountains, a fir tree beside it -->
+  <ellipse cx="100" cy="166" rx="80" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M18 120L58 62L84 96L108 58L150 112L182 84L182 120Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M50 74L58 62L66 73L60 70L55 76Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M99 72L108 58L118 72L112 69L106 75Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="40" y="110" width="44" height="52" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M34 112L48 92L76 92L90 112Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="116" y="104" width="38" height="58" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 106L135 80L160 106Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="84" y="78" width="32" height="84" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 80L100 30L120 80Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="100" y1="30" x2="100" y2="16" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 17L116 21L100 26Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="100" cy="96" r="7" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M92 162L92 140Q100 128 108 140L108 162" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="94" y="110" width="12" height="14" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="50" y="122" width="10" height="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="66" y="122" width="10" height="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="124" y="118" width="10" height="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="138" y="118" width="10" height="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M170 102L182 132L175 132L184 156L156 156L165 132L158 132Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="170" y1="156" x2="170" y2="166" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="18" y1="162" x2="184" y2="162" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

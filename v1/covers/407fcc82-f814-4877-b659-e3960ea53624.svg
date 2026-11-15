@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Rezultate: a school slate with the four operations, and a lime round mark with a 10 on its corner -->
+  <ellipse cx="100" cy="177" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="24" y="30" width="148" height="124" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="42" width="124" height="100" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 56L70 84M56 70L84 70" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M108 70L136 70" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M60 100L80 120M80 100L60 120" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <path d="M100 110L122 110" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <circle cx="111" cy="100" r="3.5" fill="#0F1115"/>
+  <circle cx="111" cy="120" r="3.5" fill="#0F1115"/>
+  <circle cx="152" cy="146" r="28" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M136 138L143 132L143 160" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="160" cy="146" rx="8" ry="14" fill="none" stroke="#0F1115" stroke-width="4"/>
+</svg>

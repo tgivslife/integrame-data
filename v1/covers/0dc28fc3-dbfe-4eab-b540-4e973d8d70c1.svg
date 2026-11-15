@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …și Vasilache: the title, the glove puppet in a tall căciulă, moustached, a club in his hand, over the stage's ledge -->
+  <ellipse cx="100" cy="178" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="152" y="46" width="11" height="66" rx="5" transform="rotate(12 157 104)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M58 156Q60 126 84 118L116 118Q140 126 142 156Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M61 138Q100 146 139 138L141 148Q100 156 59 148Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 120L100 136" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M76 124Q58 120 46 104L54 98Q64 112 82 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M124 124Q142 120 152 106L144 100Q136 112 118 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="47" cy="99" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="152" cy="102" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="93" rx="24" ry="27" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M75 80L81 30Q100 22 119 30L125 80Q100 70 75 80Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 44L90 70M100 40L100 68M112 44L110 70" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="91" cy="89" r="3" fill="#0F1115"/>
+  <circle cx="109" cy="89" r="3" fill="#0F1115"/>
+  <circle cx="84" cy="101" r="5" fill="#D5D8DD"/>
+  <circle cx="116" cy="101" r="5" fill="#D5D8DD"/>
+  <path d="M100 107Q88 100 77 109Q86 116 100 110Q114 116 123 109Q112 100 100 107Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="100" cy="100" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 115Q100 119 106 115" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="22" y="152" width="156" height="22" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 163L170 163" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

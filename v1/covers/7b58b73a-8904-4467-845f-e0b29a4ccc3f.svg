@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La târg: a cow's head on a tow rope, her tongue out to the left like a lime turn signal, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M132 148Q158 160 182 142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="68" cy="86" rx="20" ry="10" transform="rotate(-14 68 86)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="152" cy="86" rx="20" ry="10" transform="rotate(14 152 86)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 64C84 50 86 38 94 32C96 44 100 54 106 60Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 64C136 50 134 38 126 32C124 44 120 54 114 60Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M80 74C80 56 140 56 140 74L137 128C136 146 132 156 128 160L92 160C88 156 84 146 83 128Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M114 63C126 63 134 67 135 77L134 94C126 86 119 76 114 63Z" fill="#D5D8DD"/>
+  <circle cx="95" cy="100" r="5" fill="#0F1115"/>
+  <circle cx="125" cy="100" r="5" fill="#0F1115"/>
+  <path d="M84 112L89 142M136 112L131 142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 160C80 172 66 172 58 164C64 156 80 156 94 158Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <ellipse cx="110" cy="152" rx="30" ry="19" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M86 140Q110 150 134 140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="99" cy="154" rx="3" ry="5" fill="#0F1115"/>
+  <ellipse cx="121" cy="154" rx="3" ry="5" fill="#0F1115"/>
+  <path d="M20 136L36 122V130H48V142H36V150Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

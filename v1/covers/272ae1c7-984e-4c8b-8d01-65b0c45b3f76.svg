@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Despre câini: two identical school compositions beside the one dog they are both about, with a lime collar, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="176" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="28" y="84" width="50" height="66" rx="3" transform="rotate(-8 53 117)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="36" y1="102" x2="68" y2="98" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="50" y="100" width="50" height="66" rx="3" transform="rotate(6 75 133)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="60" y1="114" x2="90" y2="117" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="59" y1="126" x2="89" y2="129" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="58" y1="138" x2="88" y2="141" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="57" y1="150" x2="76" y2="152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M166 166C180 162 184 148 178 138" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M112 172C104 136 116 110 140 106C164 110 176 136 168 172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="132" y1="142" x2="132" y2="172" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="148" y1="142" x2="148" y2="172" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M122 108C134 116 146 116 158 108L158 116C146 124 134 124 122 116Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="140" cy="88" r="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 70C108 78 108 100 116 108C124 98 126 82 120 70Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M160 70C172 78 172 100 164 108C156 98 154 82 160 70Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="140" cy="100" rx="11" ry="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="140" cy="96" r="4" fill="#0F1115"/>
+  <circle cx="131" cy="84" r="3" fill="#0F1115"/>
+  <circle cx="149" cy="84" r="3" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

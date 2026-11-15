@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="102" cy="152" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M86 120L84 142Q84 146 88 146L98 146Q100 143 96 141L95 121z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M146 122L145 142Q145 146 149 146L158 146Q160 143 156 141L155 120z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 118L66 144Q66 149 71 149L84 149Q87 145 82 143L81 120z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M128 122L125 146Q125 151 130 151L143 151Q146 147 141 145L140 122z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="92,87 97,79 102,85 108,78 113,84 119,78 124,85 130,79 135,86 141,81 146,89 151,85 155,93" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M20 96L62 90Q66 78 76 81Q82 84 86 88C110 82 140 84 160 96Q172 104 180 90Q178 112 160 118C140 128 100 130 80 124Q66 120 56 114L22 108Q16 103 20 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M23 103L58 105" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="28,103.5 31,99 34,104 37,99.5 40,104.2 43,100 46,104.5 49,100.5 52,104.7" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="25" cy="96" r="2" fill="#0F1115"/>
+  <circle cx="75" cy="87" r="3.5" fill="#0F1115"/>
+  <path d="M128 107L141 97L141 117z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="112" cy="107" rx="19" ry="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="101" cy="104" r="2.5" fill="#0F1115"/>
+  <path d="M116 99Q120 107 116 115" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

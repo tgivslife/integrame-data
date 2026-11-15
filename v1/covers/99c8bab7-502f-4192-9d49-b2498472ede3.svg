@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Animale domestice: a cow's head with a bell in the accent colour -->
+  <ellipse cx="100" cy="178" rx="56" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M72 56C56 50 48 38 52 22C60 34 72 40 88 44z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M128 56C144 50 152 38 148 22C140 34 128 40 112 44z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="42" cy="82" rx="24" ry="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(14 42 82)"/>
+  <ellipse cx="158" cy="82" rx="24" ry="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-14 158 82)"/>
+  <path d="M68 44H132C146 44 154 58 152 76C150 96 142 108 140 124H60C58 108 50 96 48 76C46 58 54 44 68 44z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 46H132C144 46 151 58 150 72C134 78 116 68 110 46z" fill="#0F1115"/>
+  <path d="M54 62C64 58 74 62 78 72C74 80 62 82 50 78C50 72 52 66 54 62z" fill="#D5D8DD"/>
+  <circle cx="76" cy="88" r="6" fill="#0F1115"/>
+  <circle cx="124" cy="88" r="6" fill="#0F1115"/>
+  <path d="M88 156C88 148 112 148 112 156L118 174H82z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="177" r="3" fill="#0F1115"/>
+  <ellipse cx="100" cy="128" rx="44" ry="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="84" cy="124" r="5" fill="#0F1115"/>
+  <circle cx="116" cy="124" r="5" fill="#0F1115"/>
+  <path d="M82 140C92 146 108 146 118 140" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bradul: the artificial fir thrown out, leaning in a dustbin with its star still on, the bin's lid on the ground, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="176" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M110 74L76 114L144 114Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(10 110 150)"/>
+  <path d="M110 52L82 90L138 90Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(10 110 150)"/>
+  <path d="M110 34L90 66L130 66Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(10 110 150)"/>
+  <path d="M110 48L102 60M110 48L118 60M110 68L96 84M110 68L124 84M110 90L90 108M110 90L130 108" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(10 110 150)"/>
+  <path d="M110 20L112.5 26.6L119.5 26.9L114 31.3L115.9 38.1L110 34.2L104.1 38.1L106 31.3L100.5 26.9L107.5 26.6Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(10 110 150)"/>
+  <path d="M80 120L140 120L134 174L86 174Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 130L99 164M110 130L110 164M122 130L121 164" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="74" y="112" width="72" height="10" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="50" cy="168" rx="26" ry="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="44" y="157" width="12" height="6" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

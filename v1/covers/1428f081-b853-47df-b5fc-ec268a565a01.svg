@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pe ciobanul…: a woolly sheep beside a lime shepherd's crook -->
+  <ellipse cx="108" cy="170" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M34 172L34 50A22 22 0 0 1 78 50L78 60A4.5 4.5 0 0 1 69 60L69 50A13 13 0 0 0 43 50L43 172A4.5 4.5 0 0 1 34 172z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="94" y="128" width="9" height="38" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="110" y="130" width="9" height="36" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="134" y="130" width="9" height="36" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="150" y="128" width="9" height="38" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M172 112A9 9 0 0 1 165.6 127A11 11 0 0 1 148 138A13 13 0 0 1 124 142A13 13 0 0 1 100 138A11 11 0 0 1 82.4 127A9 9 0 0 1 76 112A9 9 0 0 1 82.4 97A11 11 0 0 1 100 86A13 13 0 0 1 124 82A13 13 0 0 1 148 86A11 11 0 0 1 165.6 97A9 9 0 0 1 172 112z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M108 106q5-7 10 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M132 118q5-7 10 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M112 126q5-7 10 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="55" cy="92" rx="10" ry="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-25 55 92)"/>
+  <ellipse cx="84" cy="90" rx="10" ry="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(25 84 90)"/>
+  <ellipse cx="69" cy="104" rx="14" ry="19" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(18 69 104)"/>
+  <path d="M60 88A6 6 0 0 1 70 83A6 6 0 0 1 80 88A5 5 0 0 1 70 92A5 5 0 0 1 60 88z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="64" cy="101" r="2.5" fill="#0F1115"/>
+  <path d="M58 116q4 3 8 1" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

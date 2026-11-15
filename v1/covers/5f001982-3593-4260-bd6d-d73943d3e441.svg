@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- In-quarto: a printed sheet folded in four, one quarter in lime, resting on an old book -->
+  <ellipse cx="100" cy="168" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="28" y="148" width="144" height="14" rx="3" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <rect x="34" y="132" width="132" height="17" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="40" y1="138" x2="160" y2="138" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="40" y1="143" x2="160" y2="143" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="28" y="122" width="144" height="11" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="44" y="122" width="8" height="11" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <rect x="148" y="122" width="8" height="11" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M58 24L142 24L142 100L126 116L58 116Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 100 70)"/>
+  <path d="M100 24L142 24L142 70L100 70Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-6 100 70)"/>
+  <path d="M142 100L126 100L126 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-6 100 70)"/>
+  <line x1="100" y1="24" x2="100" y2="116" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="58" y1="70" x2="142" y2="70" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="36" x2="92" y2="36" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="45" x2="92" y2="45" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="54" x2="84" y2="54" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="108" y1="36" x2="134" y2="36" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="108" y1="45" x2="134" y2="45" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="108" y1="54" x2="126" y2="54" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="82" x2="92" y2="82" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="91" x2="92" y2="91" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="66" y1="100" x2="84" y2="100" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="108" y1="82" x2="134" y2="82" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+  <line x1="108" y1="91" x2="120" y2="91" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 100 70)"/>
+</svg>

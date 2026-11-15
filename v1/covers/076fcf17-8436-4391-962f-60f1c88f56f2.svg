@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Șoferița: a steering wheel before a sign for a curve, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="145" y="74" width="8" height="104" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M149 18L184 78H114z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M141 70C141 60 156 59 156 49V42" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M150 47L156 39L162 47" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="88" cy="128" r="52" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="88" cy="128" r="38" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M51 122H125V134H51z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M82 130H94V165H82z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="88" cy="128" r="16" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="88" cy="128" r="4" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

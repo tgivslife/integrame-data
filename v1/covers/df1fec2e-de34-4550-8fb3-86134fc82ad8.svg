@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Din curiozitate: two well-behaved children cheek to cheek, the older one in a bow tie hugging the younger, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M90 176Q94 136 132 132Q170 136 174 176Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="132" cy="90" r="34" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M99 84Q100 54 132 56Q164 56 165 84Q156 70 144 68Q134 76 122 70Q108 74 99 84Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M118 88Q123 82 128 88M136 88Q141 82 146 88" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M120 101Q132 116 144 101Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="150" cy="100" r="4" fill="#D5D8DD"/>
+  <path d="M118 127L132 134L118 141ZM146 127L132 134L146 141Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="132" cy="134" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M44 176Q48 140 82 136Q116 140 120 176Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M54 162H110M52 170H112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="82" cy="104" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M55 100Q54 76 82 76Q110 76 109 100Q102 88 92 87Q84 94 74 89Q62 92 55 100Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 104Q74 99 78 104M86 104Q90 99 94 104" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 115Q82 125 92 115" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="66" cy="114" r="4" fill="#D5D8DD"/>
+  <circle cx="98" cy="114" r="4" fill="#D5D8DD"/>
+  <path d="M106 140Q80 140 56 144Q46 147 48 154Q51 160 60 157Q82 152 108 154Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="52" cy="150" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

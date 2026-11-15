@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Accidentul: a car seen from the front with lime headlights, a warning triangle beside it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="171" rx="80" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="148" width="16" height="22" rx="5" fill="#0F1115"/>
+  <rect x="114" y="148" width="16" height="22" rx="5" fill="#0F1115"/>
+  <path d="M50 116L60 86Q62 82 67 82H97Q102 82 104 86L114 116z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M57 112L65 90H99L107 112z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="30" cy="118" rx="6" ry="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="134" cy="118" rx="6" ry="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M30 128Q32 116 44 114H120Q132 116 134 128L136 152Q136 160 128 160H36Q28 160 28 152z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M36 126L60 130L58 139L38 137z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 126L104 130L106 139L126 137z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="70" y="131" width="24" height="7" rx="3" fill="#0F1115"/>
+  <rect x="62" y="146" width="40" height="7" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M162 120L182 158H142z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M162 134L171 151H153z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M148 166H176" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

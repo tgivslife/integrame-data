@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- De tăiat: who cuts and with what: a kitchen knife, open scissors and a scalpel, fanned out -->
+  <ellipse cx="100" cy="176" rx="68" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M-11 -60V-148C8 -126 20 -92 20 -60z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(72 172) rotate(-16)"/>
+  <rect x="-11" y="-60" width="22" height="60" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(72 172) rotate(-16)"/>
+  <rect x="-6" y="-92" width="12" height="92" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(128 172) rotate(16)"/>
+  <path d="M-6 -92C-12 -112 -6 -132 6 -148V-92z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(128 172) rotate(16)"/>
+  <path d="M124 20L91 104L76 140L88 146L107 108z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 20L109 104L124 140L112 146L93 108z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="72" cy="158" r="18" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="72" cy="158" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="128" cy="158" r="18" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="128" cy="158" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="104" r="5" fill="#0F1115"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Doi pescari: a fishing rod with its float in the water, a coin tossed in the air, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M74 166Q84 160 94 166T114 166T134 166T154 166T174 166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="160" cy="146" rx="22" ry="5" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <ellipse cx="160" cy="146" rx="13" ry="3" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="170" y1="36" x2="160" y2="118" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="160" y1="118" x2="160" y2="126" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="136" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M150 136A10 10 0 0 1 170 136Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M44 162Q112 92 170 36" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="28" y1="180" x2="46" y2="160" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <circle cx="54" cy="150" r="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="54" y1="150" x2="62" y2="156" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="108" cy="64" rx="11" ry="18" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="108" cy="64" rx="5" ry="10" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M92 40Q100 32 110 34" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M126 50Q132 60 128 72" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Prevenție: the joke's cure before the illness, a capsule falling into a pot of sarmale, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M52 132C38 132 38 114 52 114" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M156 132C170 132 170 114 156 114" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="80" cy="94" rx="17" ry="10" transform="rotate(-14 80 94)" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="128" cy="94" rx="17" ry="10" transform="rotate(12 128 94)" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="104" cy="88" rx="18" ry="10.5" transform="rotate(-4 104 88)" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 92Q80 98 88 92" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M96 86Q104 92 112 86" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M120 92Q128 98 136 92" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M52 106H156C158 142 144 170 104 172C64 170 50 142 52 106Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 134C80 140 128 140 142 134" fill="none" stroke="#D5D8DD" stroke-width="6"/>
+  <rect x="44" y="98" width="120" height="12" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="-20" y="-9" width="40" height="18" rx="9" transform="translate(146 54) rotate(35)" fill="#FFFFFF"/>
+  <path d="M0 -9H-11A9 9 0 0 0 -11 9H0Z" transform="translate(146 54) rotate(35)" fill="#0F1115"/>
+  <rect x="-20" y="-9" width="40" height="18" rx="9" transform="translate(146 54) rotate(35)" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 30L172 22" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M174 44L182 38" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

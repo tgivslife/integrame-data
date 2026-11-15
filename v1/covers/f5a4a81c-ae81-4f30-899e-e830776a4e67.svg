@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Aprindere: a lit match above its matchbox, with sparks -->
+  <ellipse cx="100" cy="178" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="38" y="136" width="124" height="38" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="48" y="146" width="104" height="18" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M122 20C134 38 150 50 148 68C146 84 132 90 122 88C108 86 100 76 102 64C104 48 116 40 122 20Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M124 34C130 42 136 50 134 56C132 62 118 62 116 56C114 50 120 44 124 34Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="94" y="62" width="12" height="68" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(24 100 120)"/>
+  <ellipse cx="100" cy="60" rx="10" ry="13" fill="#0F1115" stroke="#0F1115" stroke-width="4" transform="rotate(24 100 120)"/>
+  <line x1="86" y1="36" x2="76" y2="28" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="82" y1="60" x2="70" y2="58" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="160" y1="40" x2="170" y2="31" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="162" y1="72" x2="174" y2="76" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

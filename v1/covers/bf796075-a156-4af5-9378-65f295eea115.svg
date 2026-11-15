@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …de motiv…: white cubes with the same motif on top, and one lime cube among them -->
+  <ellipse cx="56" cy="82" rx="28" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M56 30L80 44L56 58L32 44Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M32 44L56 58L56 86L32 72Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 58L80 44L80 72L56 86Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="56" cy="44" rx="9" ry="5" fill="#0F1115"/>
+  <ellipse cx="144" cy="82" rx="28" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M144 30L168 44L144 58L120 44Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M120 44L144 58L144 86L120 72Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M144 58L168 44L168 72L144 86Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="144" cy="44" rx="9" ry="5" fill="#0F1115"/>
+  <ellipse cx="100" cy="132" rx="28" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 80L124 94L100 108L76 94Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 94L100 108L100 136L76 122Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 108L124 94L124 122L100 136Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="94" rx="9" ry="5" fill="#0F1115"/>
+  <ellipse cx="56" cy="176" rx="28" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M56 124L80 138L56 152L32 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M32 138L56 152L56 180L32 166Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 152L80 138L80 166L56 180Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="56" cy="138" rx="9" ry="5" fill="#0F1115"/>
+  <ellipse cx="144" cy="176" rx="28" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M144 124L168 138L144 152L120 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M120 138L144 152L144 180L120 166Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M144 152L168 138L168 166L144 180Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="144" cy="138" rx="9" ry="5" fill="#0F1115"/>
+</svg>

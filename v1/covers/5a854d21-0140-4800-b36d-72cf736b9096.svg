@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nuvele de Ioan Slavici (III): a village church with a plum tree beside it, for "Popa Tanda" -->
+  <ellipse cx="104" cy="168" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="74" y="56" width="28" height="40" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 58L88 30L106 58Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 31V17M82 22H94" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M83 76V68C83 62 93 62 93 68V76Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="48" y="104" width="80" height="62" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 108L88 80L136 108Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="56" y="118" width="12" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="108" y="118" width="12" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M78 166V140C78 130 98 130 98 140V166" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M158 166V124M158 140L148 130" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="158" cy="108" r="20" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="150" cy="104" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="165" cy="99" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="163" cy="117" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

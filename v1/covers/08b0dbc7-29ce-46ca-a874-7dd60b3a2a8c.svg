@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Întrebare și răspuns: Meșterul Manole's brick wall with a little heart walled into it and a mason's trowel laying mortar on top, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="176" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the wall: three courses of bricks, one of them grey with the heart -->
+  <rect x="40" y="104" width="128" height="66" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="88" y="126" width="32" height="22" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M40 126h128M40 148h128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 104v22M104 104v22M136 104v22M56 126v22M88 126v22M120 126v22M152 126v22M72 148v22M104 148v22M136 148v22" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M104 143c-6-4-9-7-9-10a4 4 0 0 1 9-2a4 4 0 0 1 9 2c0 3-3 6-9 10z" fill="#0F1115"/>
+  <!-- a dollop of mortar on top -->
+  <path d="M94 104c2-8 10-10 16-7c6-3 14 0 16 7z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <!-- the trowel: its lime blade, its shank, its handle -->
+  <path d="M0 0C-6-14-16-30-18-40L18-40C16-30 6-14 0 0Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(120 96) rotate(35)"/>
+  <line x1="0" y1="-40" x2="0" y2="-56" fill="none" stroke="#0F1115" stroke-width="4" transform="translate(120 96) rotate(35)"/>
+  <rect x="-7" y="-86" width="14" height="32" rx="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(120 96) rotate(35)"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

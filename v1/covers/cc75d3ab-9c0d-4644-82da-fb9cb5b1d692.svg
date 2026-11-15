@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sticla de vin: a bottle of wine with a lime label beside a glass of wine, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="176" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M52 172V96C52 80 66 76 66 64V40H78V64C78 76 92 80 92 96V172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="64" y="30" width="16" height="22" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M58 98V104" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <rect x="56" y="112" width="32" height="36" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 124H82M66 134H78" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M108 92H148C148 118 140 132 128 134C116 132 108 118 108 92Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 108H146C144 124 137 131 128 131C119 131 112 124 110 108Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M128 134V164" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="128" cy="168" rx="16" ry="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M134 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="144" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="154" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="164" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

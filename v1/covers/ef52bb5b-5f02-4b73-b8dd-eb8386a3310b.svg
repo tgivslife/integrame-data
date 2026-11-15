@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Visul gâștei: a sitting goose asleep, dreaming of two apples (the apples of a roast goose), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="170" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M62 134C56 116 56 100 62 84L76 84C76 100 80 114 92 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 140C60 118 82 108 110 110C130 111 146 114 160 104C165 101 170 104 168 110C164 130 158 150 140 160C124 168 84 168 70 160C63 156 60 148 60 140Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 128C106 118 134 120 156 112C152 134 138 148 114 150C100 150 90 142 90 128Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M112 136Q126 134 140 126M108 144Q122 143 134 138" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M58 71L38 77Q35 79.5 38 82L58 83Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="68" cy="76" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M63 73Q67 76.5 71 73" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="41" y1="79.5" x2="52" y2="79.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="85" cy="61" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="98" cy="55" r="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="147" cy="48" rx="36" ry="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M132 42C127 37 118 39 118 49C118 58 126 63 132 60C138 63 146 58 146 49C146 39 137 37 132 42Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M160 42C155 37 146 39 146 49C146 58 154 63 160 60C166 63 174 58 174 49C174 39 165 37 160 42Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M132 42Q132 37 135 34M160 42Q160 37 163 34" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M134 36Q139 31 143 34Q138 38 134 36ZM162 36Q167 31 171 34Q166 38 162 36Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

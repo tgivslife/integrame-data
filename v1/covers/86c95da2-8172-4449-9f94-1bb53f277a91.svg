@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Telefoanele: two phones side by side, a mouth on one to talk into and an ear on the other to listen with, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="172" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="-22" y="-40" width="44" height="80" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(80 122) rotate(-10)"/>
+  <rect x="-16" y="-30" width="32" height="58" rx="2" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="translate(80 122) rotate(-10)"/>
+  <line x1="-6" y1="-35" x2="6" y2="-35" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(80 122) rotate(-10)"/>
+  <path d="M-10 -6Q0 12 10 -6Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(80 122) rotate(-10)"/>
+  <rect x="-22" y="-40" width="44" height="80" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(138 122) rotate(10)"/>
+  <rect x="-16" y="-30" width="32" height="58" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2" transform="translate(138 122) rotate(10)"/>
+  <line x1="-6" y1="-35" x2="6" y2="-35" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(138 122) rotate(10)"/>
+  <path d="M-8 -6C-8 -17 10 -18 10 -4C10 4 3 5 3 11C3 17 -6 18 -8 11" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(138 122) rotate(10)"/>
+  <path d="M-2 -5C-2 -11 5 -11 5 -4C5 0 1 1 1 4" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(138 122) rotate(10)"/>
+  <path d="M42 94Q34 100 36 110" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M32 86Q22 98 24 114" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166 74Q175 76 178 86" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 62Q180 64 184 80" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ora de engleză: an open school book, a flower growing out of it and a bee flying to the flower -->
+  <ellipse cx="100" cy="174" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 126C84 114 56 112 28 120V164C56 156 84 158 100 170z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 126C116 114 144 112 172 120V164C144 156 116 158 100 170z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M42 132C56 129 72 130 86 136M42 146C56 143 72 144 86 150" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M114 136C128 130 144 129 158 132M114 150C128 144 144 143 158 146" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M100 126C100 108 96 90 86 68" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 108C84 108 72 100 68 88C84 86 96 94 98 108z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="34" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="46" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="94" cy="65" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="74" cy="65" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="68" cy="46" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="51" r="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="146" cy="58" rx="9" ry="16" transform="rotate(-18 146 58)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="160" cy="58" rx="9" ry="16" transform="rotate(16 160 58)" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="154" cy="86" rx="24" ry="15" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 72C144 80 144 92 148 100M160 72C164 80 164 92 160 100" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="178" y1="86" x2="184" y2="86" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="129" cy="86" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M126 78L120 68M132 78L134 67" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

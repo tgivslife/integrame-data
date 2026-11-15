@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Estimare: a jar of sweets to guess the count of, one lime among them, an "about" tag hung from its lid -->
+  <ellipse cx="100" cy="172" rx="60" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M64 62H136V72C150 78 152 88 152 100V156C152 164 146 168 138 168H62C54 168 48 164 48 156V100C48 88 50 78 64 72Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="64" cy="154" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="83" cy="154" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="102" cy="154" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="121" cy="154" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="139" cy="154" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="73" cy="137" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="137" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="111" cy="137" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="130" cy="137" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="64" cy="120" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="83" cy="120" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="102" cy="120" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="121" cy="120" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="139" cy="120" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="103" r="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="111" cy="103" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="57" y1="86" x2="57" y2="100" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <rect x="60" y="40" width="80" height="22" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="76" y1="46" x2="76" y2="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="88" y1="46" x2="88" y2="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="100" y1="46" x2="100" y2="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="112" y1="46" x2="112" y2="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="124" y1="46" x2="124" y2="56" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M140 48C150 46 158 60 159 72" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M160 62H182V90H160L152 76Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="76" r="2.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M166 71Q169.5 67 173 71T180 71" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166 81Q169.5 77 173 81T180 81" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

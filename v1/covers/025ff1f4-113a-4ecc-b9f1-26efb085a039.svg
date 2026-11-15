@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Curiozități despre Bolivia (II): a llama with a lime saddle blanket before a snowy Andean peak -->
+  <ellipse cx="112" cy="174" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M104 172L148 60L182 172Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M139 84L148 60L156 84L151 80L147 86L143 80Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="76" y="126" width="11" height="46" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="92" y="126" width="11" height="46" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="134" y="126" width="11" height="46" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="150" y="126" width="11" height="46" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M162 100Q178 100 174 118Q167 115 162 108Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M72 138L72 64L52 62Q44 60 45 52Q47 42 58 40L72 37L75 16L82 34L88 16L95 39Q99 46 99 56L99 92L146 92Q165 92 165 112L165 124Q165 138 149 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="106" y="89" width="42" height="34" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M106 101H148M106 111H148" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M112 123V130M122 123V130M132 123V130M142 123V130" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="68" cy="48" r="3.5" fill="#0F1115"/>
+  <path d="M48 55Q51 57 54 55" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

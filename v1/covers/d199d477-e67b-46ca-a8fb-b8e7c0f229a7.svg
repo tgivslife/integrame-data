@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La spital: a tooth tied to a helium balloon, for the dentist's helium, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="98" cy="178" rx="40" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M146 92Q138 108 126 100T108 106" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="146" cy="60" rx="22" ry="27" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M146 87L141 93H151Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M134 52C134 45 138 40 144 38" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M66 120C66 102 80 99 88 105C94 109 102 109 108 105C116 99 130 102 130 120C130 134 126 142 124 153C122 165 118 174 112 174C106 174 106 165 104 157C102 149 94 149 92 157C90 165 90 174 84 174C78 174 74 165 72 153C70 142 66 134 66 120Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 120C76 114 79 111 84 111" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M100 108C104 112 112 112 116 107" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

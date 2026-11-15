@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …minunată!: a young woman amazed and delighted, eyes wide, mouth open in a smile, a hand on her cheek, among lime
+       sparkles of wonder -->
+  <ellipse cx="100" cy="178" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 30C62 30 44 60 46 98C47 124 40 146 34 166C60 172 140 172 166 166C160 146 153 124 154 98C156 60 138 30 100 30Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 172C60 154 78 144 100 144C122 144 140 154 142 172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="98" rx="36" ry="44" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 92C60 64 78 50 102 50C126 50 142 64 136 92C130 76 118 66 104 64C92 70 76 74 64 92Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M78 84C82 78 88 77 92 80M108 80C112 77 118 78 122 84" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="95" r="6.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="116" cy="95" r="6.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="95.5" r="2.6" fill="#0F1115"/>
+  <circle cx="116" cy="95.5" r="2.6" fill="#0F1115"/>
+  <path d="M84 114H116C116 127 108 134 100 134C92 134 84 127 84 114Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M88 116H112V119C104 121 96 121 88 119Z" fill="#FFFFFF"/>
+  <path d="M122 138C116 124 118 110 124 102L128 86C129 80 136 80 136 86L135 98L141 84C143 78 150 80 149 86L145 100L151 90C153 85 159 87 158 92L151 112C157 108 163 112 160 118L150 136C145 145 127 147 122 138Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5" transform="translate(4 6)"/>
+  <path d="M36 30Q36 44 50 44Q36 44 36 58Q36 44 22 44Q36 44 36 30Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 24Q164 37 177 37Q164 37 164 50Q164 37 151 37Q164 37 164 24Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M27 108Q27 117 36 117Q27 117 27 126Q27 117 18 117Q27 117 27 108Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+</svg>

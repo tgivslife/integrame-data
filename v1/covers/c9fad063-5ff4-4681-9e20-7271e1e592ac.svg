@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Două veverițe: two chipmunks sitting face to face, holding a lime acorn between them -->
+  <ellipse cx="100" cy="172" rx="80" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M50 166C18 160 14 118 22 92C28 70 46 62 52 78C56 92 40 110 48 138Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="66" cy="134" rx="26" ry="34" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M46 114C42 132 44 150 52 162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 112C84 126 84 150 76 162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="56" cy="168" rx="11" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="80" cy="168" rx="11" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="60" cy="62" rx="7" ry="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="70" cy="86" r="22" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 98C80 104 88 102 90 96" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="76" cy="82" r="4" fill="#0F1115"/>
+  <circle cx="91" cy="91" r="3.5" fill="#0F1115"/>
+  <path d="M50 166C18 160 14 118 22 92C28 70 46 62 52 78C56 92 40 110 48 138Z" transform="translate(200 0) scale(-1 1)" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="66" cy="134" rx="26" ry="34" transform="translate(200 0) scale(-1 1)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M46 114C42 132 44 150 52 162" transform="translate(200 0) scale(-1 1)" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 112C84 126 84 150 76 162" transform="translate(200 0) scale(-1 1)" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="56" cy="168" rx="11" ry="5" transform="translate(200 0) scale(-1 1)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="80" cy="168" rx="11" ry="5" transform="translate(200 0) scale(-1 1)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="60" cy="62" rx="7" ry="10" transform="translate(200 0) scale(-1 1)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="70" cy="86" r="22" transform="translate(200 0) scale(-1 1)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 98C80 104 88 102 90 96" transform="translate(200 0) scale(-1 1)" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="76" cy="82" r="4" transform="translate(200 0) scale(-1 1)" fill="#0F1115"/>
+  <circle cx="91" cy="91" r="3.5" transform="translate(200 0) scale(-1 1)" fill="#0F1115"/>
+  <ellipse cx="86" cy="126" rx="7" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="114" cy="126" rx="7" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="132" rx="9" ry="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M89 126C89 116 111 116 111 126Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="100" y1="117" x2="102" y2="111" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

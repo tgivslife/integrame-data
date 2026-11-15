@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Punk: the title's punk, a lime mohawk over dark glasses, a ring in the ear and a studded jacket -->
+  <ellipse cx="100" cy="176" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M34 172C38 154 58 146 84 143L116 143C142 146 162 154 166 172Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 143L100 166L116 143Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="84,143 70,158 88,161" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="116,143 130,158 112,161" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="52" cy="158" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="60" cy="153" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="140" cy="153" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="148" cy="158" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="88" y="120" width="24" height="30" fill="#FFFFFF"/>
+  <line x1="88" y1="122" x2="88" y2="148" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="112" y1="122" x2="112" y2="148" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M82 86L76 46L90 62L92 20L102 56L110 24L112 58L126 42L118 86Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="68" cy="108" rx="8" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="132" cy="108" rx="8" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="67" cy="125" r="5" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="104" rx="32" ry="38" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="74" y="94" width="22" height="13" rx="4" fill="#0F1115"/>
+  <rect x="104" y="94" width="22" height="13" rx="4" fill="#0F1115"/>
+  <line x1="96" y1="99" x2="104" y2="99" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 108L96 118H103" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 128Q100 132 110 125" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

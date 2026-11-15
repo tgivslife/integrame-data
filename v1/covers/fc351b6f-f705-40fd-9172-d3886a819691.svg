@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Banii: banknotes flying out of an open window, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="96" cy="178" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="76" width="80" height="92" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="42" y="84" width="28" height="76" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="122" x2="70" y2="122" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M114 80L140 90V156L114 166Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="123" x2="140" y2="123" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="28" y="166" width="92" height="8" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="-18" y="-10" width="36" height="20" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(92 120) rotate(-25)"/>
+  <circle cx="0" cy="0" r="5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(92 120) rotate(-25)"/>
+  <rect x="-18" y="-10" width="36" height="20" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(120 54) rotate(-12)"/>
+  <circle cx="0" cy="0" r="5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(120 54) rotate(-12)"/>
+  <rect x="-18" y="-10" width="36" height="20" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(160 44) rotate(18)"/>
+  <circle cx="0" cy="0" r="5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(160 44) rotate(18)"/>
+  <rect x="-18" y="-10" width="36" height="20" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(162 112) rotate(-8)"/>
+  <circle cx="0" cy="0" r="5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(162 112) rotate(-8)"/>
+  <path d="M146 76Q152 68 160 72" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 86Q104 76 112 78" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

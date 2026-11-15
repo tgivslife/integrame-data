@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Viața…: a swaddled newborn asleep beside a lime toy bunny -->
+  <ellipse cx="112" cy="170" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="118" cy="130" rx="58" ry="32" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(10 118 130)"/>
+  <path d="M88 124Q130 112 160 154" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="66" cy="108" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M39 101A28 28 0 0 1 93 99Q66 90 39 101z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="51" cy="83" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M53 110q4 4 8 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M71 110q4 4 8 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M63 121q3 2 6 0" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="146" cy="104" rx="15" ry="17" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="140" cy="57" rx="5" ry="13" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-12 140 57)"/>
+  <ellipse cx="153" cy="57" rx="5" ry="13" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(12 153 57)"/>
+  <circle cx="146" cy="80" r="12" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="142" cy="79" r="1.8" fill="#0F1115"/>
+  <circle cx="150" cy="79" r="1.8" fill="#0F1115"/>
+  <circle cx="146" cy="85" r="1.5" fill="#0F1115"/>
+  <ellipse cx="131" cy="110" rx="8" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="94,60 102,60 94,68 102,68" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="106,36 118,36 106,48 118,48" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

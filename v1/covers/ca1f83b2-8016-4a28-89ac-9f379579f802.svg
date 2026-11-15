@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Rugăciune: hands pressed together in prayer on a halo, an alarm clock for the waking up, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="114" cy="177" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="92" cy="96" r="36" fill="#C6F432"/>
+  <path d="M92 62C80 66 72 92 69 118C67 136 67 148 66 160L92 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 62C104 66 112 92 115 118C117 136 117 148 118 160L92 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M83 80L82 104M101 80L102 104" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M72 136C75 122 85 116 90 122L90 142M112 136C109 122 99 116 94 122L94 142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M64 160L92 160L92 178L58 178Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M92 160L120 160L126 178L92 178Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M73 162L71 176M82 162L81 176M102 162L103 176M111 162L113 176" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="138" cy="122" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="170" cy="122" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M142 164L136 172M166 164L172 172" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="154" cy="146" r="23" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M154 146L154 132M154 146L164 152" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="154" cy="146" r="2.5" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

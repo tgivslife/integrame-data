@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Apus: the sun going down into the sea, with rays above the horizon and waves below it -->
+  <line x1="100" y1="34" x2="100" y2="52" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="50" y1="52" x2="60" y2="67" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="150" y1="52" x2="140" y2="67" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="20" y1="94" x2="36" y2="101" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="180" y1="94" x2="164" y2="101" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52 124A48 48 0 0 1 148 124z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M20 124L180 124L180 170C150 178 50 178 20 170z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 140Q68 134 78 140T98 140T118 140T138 140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M40 156Q50 150 60 156T80 156" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M118 158Q128 152 138 158T158 158" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="100" cy="180" rx="62" ry="4" fill="#0F1115" opacity="0.12"/>
+</svg>

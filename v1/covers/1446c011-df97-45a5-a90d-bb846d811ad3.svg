@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- El și ea: a bathroom scale whose needle has swung to the far end of its dial, into the lime zone ("Te-ai îngrășat
+       foarte mult!"), with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="176" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="42" y="78" width="120" height="94" rx="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M68 122A34 34 0 0 1 136 122Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M123.4 104A28 28 0 0 1 130 122" fill="none" stroke="#C6F432" stroke-width="6"/>
+  <path d="M82.9 111L77.8 108M91 102.9L88 97.8M102 100V94M113 102.9L116 97.8" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="102" y1="122" x2="131" y2="115.8" fill="none" stroke="#0F1115" stroke-width="3.5"/>
+  <circle cx="102" cy="122" r="4.5" fill="#0F1115"/>
+  <path d="M142 100L150 94M145 112L154 110" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="60" y="132" width="34" height="30" rx="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="110" y="132" width="34" height="30" rx="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

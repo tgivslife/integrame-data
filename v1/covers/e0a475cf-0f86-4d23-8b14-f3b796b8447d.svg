@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Salamalec: a fez tipped in a deep, ceremonious bow, its tassel swinging -->
+  <ellipse cx="102" cy="170" rx="58" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M42 94Q34 112 42 130" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M28 86Q16 112 28 138" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 160L70 74Q100 64 130 74L144 160Q100 172 56 160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-10 100 120)"/>
+  <path d="M60 136Q100 146 140 136L144 160Q100 172 56 160Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-10 100 120)"/>
+  <ellipse cx="100" cy="73" rx="30" ry="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 120)"/>
+  <path d="M100 72Q130 56 146 84" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 120)"/>
+  <path d="M140 88L152 88L157 122L135 122Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 120)"/>
+  <line x1="141" y1="98" x2="139" y2="118" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-10 100 120)"/>
+  <line x1="146" y1="98" x2="146" y2="118" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-10 100 120)"/>
+  <line x1="151" y1="98" x2="153" y2="118" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-10 100 120)"/>
+  <circle cx="146" cy="86" r="5" fill="#0F1115" transform="rotate(-10 100 120)"/>
+</svg>

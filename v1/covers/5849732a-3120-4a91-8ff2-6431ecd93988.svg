@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sipet: a small dome-lidded chest with iron straps and a lime lock plate -->
+  <ellipse cx="100" cy="164" rx="76" ry="7" fill="#0F1115" opacity="0.12"/>
+  <rect x="42" y="152" width="14" height="10" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <rect x="144" y="152" width="14" height="10" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <rect x="34" y="94" width="132" height="62" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="34" y1="125" x2="166" y2="125" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M34 94L34 78Q34 50 100 50Q166 50 166 78L166 94Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="34" y1="78" x2="166" y2="78" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M52 94L52 56.4Q57 54.8 62 53.4L62 94Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M148 94L148 56.4Q143 54.8 138 53.4L138 94Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <rect x="52" y="94" width="10" height="62" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <rect x="138" y="94" width="10" height="62" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="57" cy="70" r="2.5" fill="#FFFFFF"/>
+  <circle cx="143" cy="70" r="2.5" fill="#FFFFFF"/>
+  <circle cx="57" cy="108" r="2.5" fill="#FFFFFF"/>
+  <circle cx="143" cy="108" r="2.5" fill="#FFFFFF"/>
+  <circle cx="57" cy="142" r="2.5" fill="#FFFFFF"/>
+  <circle cx="143" cy="142" r="2.5" fill="#FFFFFF"/>
+  <rect x="87" y="84" width="26" height="32" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="97" r="4" fill="#0F1115"/>
+  <path d="M98 99L102 99L103.5 108L96.5 108Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <line x1="166" y1="30" x2="166" y2="44" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="159" y1="37" x2="173" y2="37" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="34" y1="34" x2="34" y2="42" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="30" y1="38" x2="38" y2="38" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

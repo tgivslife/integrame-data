@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Motiv de divorț: a breakfast bowl of soap flakes foaming over, a spoon in it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="140" y1="108" x2="170" y2="64" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <circle cx="172" cy="60" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="92" cy="86" r="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="118" cy="84" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="62" cy="112" r="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="80" cy="104" r="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="104" cy="100" r="17" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="130" cy="104" r="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="152" cy="112" r="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 94a9 9 0 0 1 9-7" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M123 98a8 8 0 0 1 8-6" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M74 98a7 7 0 0 1 7-5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M84 116l8-4l5 5l-7 5z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M116 114l7-5l6 4l-6 6z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M48 118L168 118C166 150 142 170 108 170C74 170 50 150 48 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M56 136C80 145 136 145 160 136" fill="none" stroke="#C6F432" stroke-width="6"/>
+  <path d="M94 170L122 170L118 178L98 178Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="134" cy="52" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="110" cy="56" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="152" cy="34" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="96" cy="40" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

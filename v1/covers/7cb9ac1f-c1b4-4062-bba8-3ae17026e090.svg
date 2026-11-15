@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Chardonnay: a glass of white wine beside a bunch of grapes -->
+  <ellipse cx="110" cy="176" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M157 112Q158 100 166 92" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M161 101Q170 86 181 92Q176 106 161 101Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="140" cy="122" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="157" cy="120" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="173" cy="124" r="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="148" cy="138" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="166" cy="139" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="157" cy="155" r="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="84" cy="167" rx="28" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 112V162" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 30Q46 96 84 112Q122 96 118 30Z" fill="#FFFFFF"/>
+  <path d="M51.4 65Q67 59 84 65Q101 71 116.6 65Q110.6 100.8 84 112Q57.4 100.8 51.4 65Z" fill="#C6F432"/>
+  <path d="M51.4 65Q67 59 84 65Q101 71 116.6 65" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 38Q58 48 60 56" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M50 30Q46 96 84 112Q122 96 118 30Z" fill="none" stroke="#0F1115" stroke-width="4"/>
+</svg>

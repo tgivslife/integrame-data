@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Derivare: a rising curve on squared paper, its tangent at one point and the slope's step under it -->
+  <ellipse cx="102" cy="178" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="28" y="24" width="148" height="148" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="56" y1="30" x2="56" y2="166" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="84" y1="30" x2="84" y2="166" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="112" y1="30" x2="112" y2="166" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="140" y1="30" x2="140" y2="166" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="34" y1="52" x2="170" y2="52" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="34" y1="80" x2="170" y2="80" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="34" y1="108" x2="170" y2="108" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <line x1="34" y1="136" x2="170" y2="136" fill="none" stroke="#D5D8DD" stroke-width="2"/>
+  <polyline points="46,154 46,38" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="40,46 46,38 52,46" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="44,152 162,152" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="154,146 162,152 154,158" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M91.4 144.1H117.1V113.5Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M54 144C90 146 128 120 150 48" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="86.3" y1="150.3" x2="154" y2="69.2" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="117.1" cy="113.5" r="6" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+</svg>

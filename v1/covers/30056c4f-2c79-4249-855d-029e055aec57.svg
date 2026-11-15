@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Viziune: a wide-open eye with a lime iris under its lashes -->
+  <ellipse cx="100" cy="162" rx="56" ry="7" fill="#0F1115" opacity="0.12"/>
+  <path d="M24 100C56 50 144 50 176 100C144 150 56 150 24 100Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 100C66 74 134 74 160 100C134 126 66 126 40 100Z" fill="#FFFFFF"/>
+  <circle cx="100" cy="100" r="21" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="100" r="9" fill="#0F1115"/>
+  <circle cx="93" cy="93" r="4" fill="#FFFFFF"/>
+  <path d="M40 100C66 74 134 74 160 100C134 126 66 126 40 100Z" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="49" y1="76" x2="38" y2="62" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="73" y1="66" x2="66" y2="50" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="100" y1="62" x2="100" y2="45" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="127" y1="66" x2="134" y2="50" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="151" y1="76" x2="162" y2="62" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M68 124C86 131 114 131 132 124" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cadril: two couples dancing a quadrille, hand in hand, under a music note -->
+  <ellipse cx="100" cy="166" rx="82" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line fill="none" x1="37" y1="146" x2="36" y2="162" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="47" y1="146" x2="48" y2="162" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="115" y1="146" x2="114" y2="162" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="125" y1="146" x2="126" y2="162" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 112L71 162L79 162L81 126L83 162L91 162L92 112Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M148 112L149 162L157 162L159 126L161 162L169 162L170 112Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 76L50 76L49 100L62 146Q42 154 22 146L35 100Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M112 76L128 76L127 100L140 146Q120 154 100 146L113 100Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M69 74L93 74L95 116L67 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M147 74L171 74L173 116L145 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="81" y1="82" x2="81" y2="116" stroke="#0F1115" stroke-width="2"/>
+  <line fill="none" x1="159" y1="82" x2="159" y2="116" stroke="#0F1115" stroke-width="2"/>
+  <path d="M76 74L81 77L86 74L86 80L81 77L76 80Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M154 74L159 77L164 74L164 80L159 77L154 80Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <polyline points="50,80 60,62 70,78" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="92,78 102,62 112,80" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="128,80 138,62 148,78" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="34,80 26,94 32,104" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="170,78 178,94 172,104" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="60" cy="62" r="3.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="102" cy="62" r="3.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="138" cy="62" r="3.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="42" cy="48" r="5" fill="#0F1115"/>
+  <circle cx="120" cy="48" r="5" fill="#0F1115"/>
+  <circle cx="42" cy="62" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="81" cy="60" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="120" cy="62" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="159" cy="60" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="96" cy="40" rx="5.5" ry="4" fill="#0F1115" transform="rotate(-20 96 40)"/>
+  <line fill="none" x1="101" y1="38" x2="101" y2="20" stroke="#0F1115" stroke-width="3"/>
+  <path d="M101 20Q110 24 107 33" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

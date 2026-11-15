@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cuceritorii cerului: an astronaut's helmet with a lime visor, before a crescent moon and stars -->
+  <ellipse cx="96" cy="172" rx="60" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M134 22A30 30 0 1 0 172 66A24 24 0 1 1 134 22Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 34L37 42L45 45L37 48L34 56L31 48L23 45L31 42Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M170 104L172 110L178 112L172 114L170 120L168 114L162 112L168 110Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="54" cy="76" r="3" fill="#0F1115"/>
+  <path d="M42 168Q42 136 96 136Q150 136 150 168Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="58" y="134" width="76" height="14" rx="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="96" cy="94" r="46" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 96Q62 66 96 66Q130 66 130 96Q130 120 96 120Q62 120 62 96Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 86Q78 76 88 74" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <rect x="88" y="42" width="16" height="8" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="72" cy="158" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="104" y="152" width="22" height="12" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+</svg>

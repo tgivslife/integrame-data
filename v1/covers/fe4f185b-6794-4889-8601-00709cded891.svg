@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La pescuit: a fish swimming past an empty hook, over the stones of the joke, and the speech bubble -->
+  <ellipse cx="100" cy="172" rx="72" ry="8" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="62" cy="158" rx="23" ry="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="143" cy="157" rx="21" ry="15" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="103" cy="163" rx="18" ry="11" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M152 18L152 56A9 9 0 0 1 134 56L139 50" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 80C88 62 108 64 116 84z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 126C90 142 106 142 112 124z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M136 104L170 80L162 104L170 128z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M34 104C54 74 112 70 142 104C112 138 54 134 34 104z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 83C74 96 74 112 66 125" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="52" cy="99" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="52" cy="99" r="2" fill="#0F1115"/>
+  <path d="M90 92a8 8 0 0 1 0 12M108 92a8 8 0 0 1 0 12M99 106a8 8 0 0 1 0 12" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Desene cu desene: a sheet with a pear drawn on it and a lime pencil across its corner -->
+  <ellipse cx="100" cy="176" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="28" width="112" height="138" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 90 97)"/>
+  <path d="M90 60C100 60 102 74 102 84C102 96 122 106 120 126C118 144 100 150 88 148C72 148 58 138 60 122C62 104 78 96 78 84C78 72 80 60 90 60Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 60L94 46" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M94 50Q106 38 118 44Q106 56 94 50Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 120Q72 132 84 138" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M120 132L102 140L120 148Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(45 150 140)"/>
+  <path d="M108 137.3L102 140L108 142.7Z" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="rotate(45 150 140)"/>
+  <rect x="120" y="132" width="44" height="16" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(45 150 140)"/>
+  <rect x="164" y="132" width="8" height="16" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(45 150 140)"/>
+  <rect x="172" y="132" width="11" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(45 150 140)"/>
+</svg>

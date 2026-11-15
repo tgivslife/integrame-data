@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Culmea curiozității: a lighter with a lime flame beside a jerrycan of petrol, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="176" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="-7" y="-16" width="14" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(111 87) rotate(-45)"/>
+  <path d="M128 78V66A6 6 0 0 1 134 60H156A6 6 0 0 1 162 66V78" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M137 78V70H153V78" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M102 96L120 78H162A8 8 0 0 1 170 86V164A8 8 0 0 1 162 172H110A8 8 0 0 1 102 164Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="112" y="98" width="48" height="64" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M118 104L154 156M154 104L118 156" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M54 80C64 92 66 100 62 106C59 110 49 110 46 106C42 100 44 92 54 80Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M54 94C58 99 58 103 56 105C55 106 53 106 52 105C50 103 50 99 54 94Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="70" cy="116" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="42" y="112" width="24" height="16" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M48 117V123M54 117V123M60 117V123" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="40" y="128" width="28" height="44" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

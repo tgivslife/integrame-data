@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …bate filmul: a film clapperboard snapping shut, its striped stick in motion -->
+  <ellipse cx="100" cy="176" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="36" y="92" width="128" height="76" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="46" y="100" width="58" height="16" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="36" y1="124" x2="164" y2="124" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="100" y1="124" x2="100" y2="168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="48" y1="140" x2="88" y2="140" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="48" y1="154" x2="80" y2="154" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="112" y1="140" x2="152" y2="140" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="112" y1="154" x2="140" y2="154" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <rect x="36" y="74" width="128" height="18" fill="#FFFFFF"/>
+  <path d="M52 74L68 74L58 92L42 92Z" fill="#0F1115"/>
+  <path d="M84 74L100 74L90 92L74 92Z" fill="#0F1115"/>
+  <path d="M116 74L132 74L122 92L106 92Z" fill="#0F1115"/>
+  <path d="M148 74L164 74L154 92L138 92Z" fill="#0F1115"/>
+  <rect x="36" y="74" width="128" height="18" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="56" width="128" height="18" fill="#FFFFFF" transform="rotate(-14 38 74)"/>
+  <path d="M42 74L58 74L68 56L52 56Z" fill="#0F1115" transform="rotate(-14 38 74)"/>
+  <path d="M74 74L90 74L100 56L84 56Z" fill="#0F1115" transform="rotate(-14 38 74)"/>
+  <path d="M106 74L122 74L132 56L116 56Z" fill="#0F1115" transform="rotate(-14 38 74)"/>
+  <path d="M138 74L154 74L164 56L148 56Z" fill="#0F1115" transform="rotate(-14 38 74)"/>
+  <rect x="36" y="56" width="128" height="18" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(-14 38 74)"/>
+  <circle cx="40" cy="74" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="166" y1="30" x2="178" y2="22" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="168" y1="42" x2="182" y2="40" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="166" y1="54" x2="178" y2="58" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

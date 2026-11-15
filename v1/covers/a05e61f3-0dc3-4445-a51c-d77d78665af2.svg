@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ca de Crăciun: a gift lying under a Christmas tree, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="177" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="116" y="150" width="14" height="22" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M123 96L78 154H168Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M123 70L88 120H158Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M123 46L96 88H150Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="134" cy="78" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="110" cy="108" r="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="144" cy="112" r="4.5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="150" cy="144" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="124" cy="136" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M123 28L125.7 35.3L133.5 35.6L127.4 40.4L129.5 47.9L123 43.6L116.5 47.9L118.6 40.4L112.5 35.6L120.3 35.3Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="40" y="134" width="64" height="40" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="122" width="72" height="14" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="64" y="122" width="16" height="52" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="62" cy="112" rx="13" ry="7" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-25 62 112)"/>
+  <ellipse cx="82" cy="112" rx="13" ry="7" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(25 82 112)"/>
+  <circle cx="72" cy="118" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

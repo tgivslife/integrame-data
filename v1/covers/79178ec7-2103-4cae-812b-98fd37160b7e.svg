@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Compozitori britanici: the grid's fountain pen, its barrel lime, writing two beamed notes on a sheet of music -->
+  <ellipse cx="96" cy="176" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="22" y="100" width="124" height="66" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 84 133)"/>
+  <path d="M32 116H136M32 124H136M32 132H136M32 140H136M32 148H136" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 84 133)"/>
+  <ellipse cx="46" cy="144" rx="6.5" ry="4.5" fill="#0F1115" transform="rotate(-26 46 144)"/>
+  <ellipse cx="72" cy="136" rx="6.5" ry="4.5" fill="#0F1115" transform="rotate(-26 72 136)"/>
+  <path d="M51.5 142V112M77.5 134V106M51.5 112L77.5 106M51.5 119L77.5 113" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 0L30 -10H40V10H30Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(98 122) rotate(-48)"/>
+  <path d="M5 0H24" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(98 122) rotate(-48)"/>
+  <circle cx="27" cy="0" r="2.6" fill="#0F1115" transform="translate(98 122) rotate(-48)"/>
+  <rect x="40" y="-11" width="20" height="22" rx="3" fill="#0F1115" transform="translate(98 122) rotate(-48)"/>
+  <rect x="60" y="-13" width="50" height="26" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(98 122) rotate(-48)"/>
+  <path d="M72 -13V13" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(98 122) rotate(-48)"/>
+  <path d="M80 -6H102" fill="none" stroke="#FFFFFF" stroke-width="3" transform="translate(98 122) rotate(-48)"/>
+</svg>

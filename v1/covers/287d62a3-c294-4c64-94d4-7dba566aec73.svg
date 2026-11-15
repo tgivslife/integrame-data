@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="100" cy="177" rx="80" ry="6" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="58" cy="42" rx="10" ry="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-30 58 42)"/>
+  <ellipse cx="58" cy="42" rx="4" ry="11" fill="#D5D8DD" transform="rotate(-30 58 42)"/>
+  <ellipse cx="142" cy="42" rx="10" ry="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(30 142 42)"/>
+  <ellipse cx="142" cy="42" rx="4" ry="11" fill="#D5D8DD" transform="rotate(30 142 42)"/>
+  <path d="M64 58C64 40 80 32 100 32C120 32 136 40 136 58C136 80 126 96 124 110C122 126 112 136 100 136C88 136 78 126 76 110C74 96 64 80 64 58z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 36C82 26 90 20 100 20C110 20 118 26 120 36C112 31 88 31 80 36z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M70 52C80 54 90 50 95 42" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M130 52C120 54 110 50 105 42" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <line x1="100" y1="40" x2="100" y2="62" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M77 86C85 86 92 82 96 74" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M123 86C115 86 108 82 104 74" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M81 100C87 100 92 97 96 91" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M119 100C113 100 108 97 104 91" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <circle cx="78" cy="68" r="6" fill="#0F1115"/>
+  <circle cx="122" cy="68" r="6" fill="#0F1115"/>
+  <circle cx="80" cy="66" r="2" fill="#FFFFFF"/>
+  <circle cx="120" cy="66" r="2" fill="#FFFFFF"/>
+  <rect x="25" y="124" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="55" y="124" width="30" height="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="85" y="124" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="115" y="124" width="30" height="26" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="145" y="124" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="25" y="150" width="30" height="26" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="55" y="150" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="85" y="150" width="30" height="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="115" y="150" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="145" y="150" width="30" height="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+</svg>

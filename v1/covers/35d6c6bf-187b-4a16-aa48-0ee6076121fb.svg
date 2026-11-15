@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- El și ea: a steaming pot with a lightning bolt in its steam, a recipe card behind it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="172" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="132" y="56" width="44" height="58" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(12 154 85)"/>
+  <path d="M140 68H168M140 78H164M140 88H168" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(12 154 85)"/>
+  <path d="M86 86Q80 78 86 70Q92 62 86 54" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M116 86Q110 78 116 70Q122 62 116 54" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M104 46L94 66H102L96 84L110 62H102L108 46Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M52 120H42Q38 120 38 124V130Q38 134 42 134H52" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 120H158Q162 120 162 124V130Q162 134 158 134H148" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52 112H148V154Q148 166 136 166H64Q52 166 52 154Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="52" y="140" width="96" height="10" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M46 112Q100 86 154 112Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="95" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

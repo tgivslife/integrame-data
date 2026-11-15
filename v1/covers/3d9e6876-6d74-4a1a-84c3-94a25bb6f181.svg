@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Compania de asigurări: a Christmas tree catching fire, the phone of the call to the insurers, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="68" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="80" y="156" width="16" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M88 106L40 158H136Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 78L50 126H126Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 54L60 94H116Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="76" cy="112" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="100" cy="140" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="66" cy="146" r="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="96" cy="84" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M0 -22C9 -12 14 -2 10 8C7 15 -7 15 -10 8C-14 -2 -6 -8 0 -22Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(88 40)"/>
+  <path d="M0 -22C9 -12 14 -2 10 8C7 15 -7 15 -10 8C-14 -2 -6 -8 0 -22Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(122 142) scale(.8)"/>
+  <path d="M0 -22C9 -12 14 -2 10 8C7 15 -7 15 -10 8C-14 -2 -6 -8 0 -22Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(112 106) scale(.65)"/>
+  <rect x="140" y="98" width="34" height="62" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(12 157 129)"/>
+  <rect x="146" y="108" width="22" height="38" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="2" transform="rotate(12 157 129)"/>
+  <circle cx="155" cy="153" r="2.5" fill="#0F1115" transform="rotate(12 157 129)"/>
+  <path d="M164 80Q174 84 176 94M166 68Q184 74 188 92" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(-6 0)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

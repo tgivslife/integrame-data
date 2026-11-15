@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La medic: a blood pressure meter, its needle in the high zone, the cuff and the bulb, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="172" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 136C124 150 136 146 134 128" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 150C116 166 134 166 146 160" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="24" y="116" width="80" height="44" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="34" y="126" width="30" height="24" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <line x1="74" y1="124" x2="74" y2="152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="162" cy="156" rx="17" ry="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-20 162 156)"/>
+  <rect x="142" y="154" width="8" height="10" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-20 146 159)"/>
+  <circle cx="132" cy="84" r="44" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M167.7 71A38 38 0 0 1 158.9 110.9L151.8 103.8A28 28 0 0 0 158.3 74.4z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M106 99L100 102.5M103 76.2L96.3 74.4M117 58L113.5 52M139.8 55L141.6 48.3M158 69L164 65.5" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="132" y1="84" x2="160.2" y2="94.3" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="132" cy="84" r="5" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

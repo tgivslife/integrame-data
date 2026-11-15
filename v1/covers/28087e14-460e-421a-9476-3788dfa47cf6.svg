@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Rase de pisici (I): two cats of different breeds sitting side by side, a tufted long-haired one and a spotted one -->
+  <ellipse cx="100" cy="172" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M44 164C26 160 22 138 31 128C34 125 39 128 37 132C31 142 33 154 48 156z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M58 100C44 120 36 150 40 168L104 168C108 150 100 120 86 100z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="62" y1="142" x2="62" y2="166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="82" y1="142" x2="82" y2="166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M50 74L47 44L68 62z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 62L97 44L94 74z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="47" y1="44" x2="44" y2="34" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="97" y1="44" x2="100" y2="34" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="72" cy="82" rx="27" ry="23" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="62" cy="79" rx="4.5" ry="5.5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="82" cy="79" rx="4.5" ry="5.5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M68 89L76 89L72 93z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M72 93q-3 5-8 3M72 93q3 5 8 3" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M58 91L38 87M58 95L38 97M86 91L106 87M86 95L106 97" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M158 164C178 162 184 142 176 128C173 123 166 125 169 130C175 142 171 154 155 156z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M124 116C112 132 108 154 110 168L162 168C164 154 160 132 148 116z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="124" cy="138" r="3.5" fill="#0F1115"/>
+  <circle cx="147" cy="133" r="3" fill="#0F1115"/>
+  <circle cx="136" cy="150" r="4" fill="#0F1115"/>
+  <circle cx="153" cy="152" r="3" fill="#0F1115"/>
+  <circle cx="119" cy="157" r="3" fill="#0F1115"/>
+  <path d="M118 96L117 70L133 86z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M139 86L155 70L154 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M121 88L120 77L128 85z" fill="#D5D8DD"/>
+  <path d="M144 85L152 77L151 88z" fill="#D5D8DD"/>
+  <ellipse cx="136" cy="102" rx="22" ry="19" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="126" cy="91" r="2" fill="#0F1115"/>
+  <circle cx="146" cy="91" r="2" fill="#0F1115"/>
+  <ellipse cx="128" cy="101" rx="3.5" ry="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="144" cy="101" rx="3.5" ry="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M133 108L139 108L136 111z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M136 111q-2 4-6 2M136 111q2 4 6 2" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M124 109L108 106M150 109L166 106" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pictogramă: a pictogram sign of an eye with a lime iris, a pair of round glasses before it (MEDIC OCULIST) -->
+  <ellipse cx="100" cy="177" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="38" y="24" width="124" height="124" rx="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="50" y="36" width="100" height="100" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 84C78 58 122 58 140 84C122 110 78 110 60 84Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="84" r="15" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="84" r="5" fill="#0F1115"/>
+  <line x1="70" y1="62" x2="66" y2="54" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="100" y1="55" x2="100" y2="46" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="130" y1="62" x2="134" y2="54" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="44" y1="150" x2="54" y2="150" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="146" y1="150" x2="156" y2="150" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="72" cy="156" r="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="128" cy="156" r="18" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M90 153C96 146 104 146 110 153" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 149C67 146 71 145 75 145" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M120 149C123 146 127 145 131 145" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+</svg>

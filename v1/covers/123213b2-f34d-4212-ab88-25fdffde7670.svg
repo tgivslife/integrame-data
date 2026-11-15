@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …fără pâine: a round loaf in front of a long franzelă, beside a lime ear of wheat -->
+  <ellipse cx="100" cy="168" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="-65" y="-17" width="130" height="34" rx="17" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(112 100) rotate(-32)"/>
+  <path d="M-6 -9L8 7M18 -9L32 7M42 -9L52 3" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(112 100) rotate(-32)"/>
+  <path d="M34 164C24 120 50 100 80 100C110 100 136 120 126 164Q80 172 34 164Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 130Q58 118 70 114" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M66 140Q78 124 94 118" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M88 144Q100 130 112 126" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M162 172L155 112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(155 107)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(150 123) rotate(-35)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(163 124) rotate(35)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(152 137) rotate(-35)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(165 138) rotate(35)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(154 151) rotate(-35)"/>
+  <ellipse cx="0" cy="0" rx="5" ry="9" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(167 152) rotate(35)"/>
+</svg>

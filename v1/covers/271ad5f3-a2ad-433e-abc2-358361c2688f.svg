@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Steaua…: a lime star with a comet's tail, among small sparkles: the grid's stars of luck, film and the sky -->
+  <path d="M84 84Q48 104 22 170Q66 150 104 118Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M76 104L40 144M88 116L58 152" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M118 32L131.5 69.4L171.3 70.7L139.9 95.1L150.9 133.3L118 111L85.1 133.3L96.1 95.1L64.7 70.7L104.5 69.4Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 28L43 39L54 42L43 45L40 56L37 45L26 42L37 39Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M164 140L167 151L178 154L167 157L164 168L161 157L150 154L161 151Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M172 24L174.4 30.7L181.5 30.9L175.9 35.3L177.9 42.1L172 38.1L166.1 42.1L168.1 35.3L162.5 30.9L169.6 30.7Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="70" cy="40" r="3" fill="#0F1115"/>
+  <circle cx="132" cy="166" r="3" fill="#0F1115"/>
+  <circle cx="178" cy="100" r="2.5" fill="#0F1115"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Umflate cu pompa: a floor pump blowing up a lime ball, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="174" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="62" y1="52" x2="62" y2="74" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="36" y="44" width="52" height="10" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="50" y="72" width="24" height="90" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="56" y1="92" x2="68" y2="92" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="56" y1="102" x2="68" y2="102" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="34" y="160" width="56" height="10" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 148C96 148 88 134 104 134" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="138" cy="134" r="34" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 114C126 126 150 126 166 114" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M110 154C126 142 150 142 166 154" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 100C126 116 126 152 138 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 100C150 116 150 152 138 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="176" y1="100" x2="182" y2="92" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="180" y1="114" x2="184" y2="110" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M134 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-6v10l-10-10h-24a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="144" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="154" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="164" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

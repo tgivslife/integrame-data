@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Creditul: the shop's notebook of debts, "trece-mă pe caiet", with its pencil and a few coins, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="178" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the notebook's page, its rings, its ruled lines -->
+  <rect x="82" y="46" width="84" height="124" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="74" x2="158" y2="74" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="90" x2="158" y2="90" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="106" x2="158" y2="106" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="122" x2="158" y2="122" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="138" x2="158" y2="138" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="90" y1="154" x2="158" y2="154" fill="none" stroke="#D5D8DD" stroke-width="2" transform="translate(4 0) rotate(-5 124 108)"/>
+  <rect x="91" y="38" width="6" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <rect x="105" y="38" width="6" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <rect x="119" y="38" width="6" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <rect x="133" y="38" width="6" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <rect x="147" y="38" width="6" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <!-- the debts: a name and a sum on each line, the total underlined -->
+  <path d="M92 70q3-6 6 0t6 0t6 0t6 0t6 0" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <path d="M92 86q3-6 6 0t6 0t6 0t6 0" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <path d="M92 102q3-6 6 0t6 0t6 0t6 0t6 0t6 0" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <path d="M92 118q3-6 6 0t6 0t6 0" fill="none" stroke="#0F1115" stroke-width="2.5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="140" y1="70" x2="154" y2="70" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="144" y1="86" x2="154" y2="86" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="138" y1="102" x2="154" y2="102" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="142" y1="118" x2="154" y2="118" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="132" y1="128" x2="158" y2="128" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(4 0) rotate(-5 124 108)"/>
+  <line x1="136" y1="144" x2="156" y2="144" fill="none" stroke="#0F1115" stroke-width="5" transform="translate(4 0) rotate(-5 124 108)"/>
+  <!-- the pencil, lying on the page -->
+  <rect x="-46" y="-7" width="12" height="14" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(132 158) rotate(165)"/>
+  <rect x="-36" y="-7" width="66" height="14" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(132 158) rotate(165)"/>
+  <path d="M30-7L46 0L30 7Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(132 158) rotate(165)"/>
+  <path d="M40-2.6L46 0L40 2.6Z" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(132 158) rotate(165)"/>
+  <!-- a small stack of coins -->
+  <ellipse cx="46" cy="166" rx="18" ry="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="28" y="148" width="36" height="18" fill="#D5D8DD"/>
+  <line x1="28" y1="148" x2="28" y2="166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="64" y1="148" x2="64" y2="166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M28 154a18 6 0 0 0 36 0M28 160a18 6 0 0 0 36 0" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="46" cy="148" rx="18" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

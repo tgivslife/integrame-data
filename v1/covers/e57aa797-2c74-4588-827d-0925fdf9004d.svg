@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Compozitori italieni de muzică clasică: a sheet of music with beamed notes, and the composer's lime quill -->
+  <ellipse cx="100" cy="176" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="40" y="30" width="100" height="134" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-6 90 97)"/>
+  <path d="M54 56H126M54 68H126M54 80H126" fill="none" stroke="#D5D8DD" stroke-width="3" transform="rotate(-6 90 97)"/>
+  <path d="M54 110H126M54 122H126M54 134H126" fill="none" stroke="#D5D8DD" stroke-width="3" transform="rotate(-6 90 97)"/>
+  <path d="M54 50V86M54 104V140" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(-6 90 97)"/>
+  <ellipse cx="72" cy="80" rx="7" ry="5" fill="#0F1115" transform="rotate(-26 72 80)"/>
+  <ellipse cx="98" cy="68" rx="7" ry="5" fill="#0F1115" transform="rotate(-26 98 68)"/>
+  <path d="M78 78V44M104 66V36M78 44L104 36" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="78" cy="128" rx="7" ry="5" fill="#0F1115" transform="rotate(-26 78 128)"/>
+  <path d="M84 126V96" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 96Q96 104 92 114" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M0 -62C18 -40 18 18 5 48L-5 48C-18 18 -18 -40 0 -62Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(148 96) rotate(30)"/>
+  <path d="M0 -50V60" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(148 96) rotate(30)"/>
+  <path d="M-8 -20L0 -10M8 -30L0 -20M-9 4L0 14M9 -6L0 4" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(148 96) rotate(30)"/>
+  <path d="M96 151Q106 156 116 149" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

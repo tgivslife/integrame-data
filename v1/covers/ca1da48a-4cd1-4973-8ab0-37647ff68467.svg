@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nume de fete: a girl in a sun hat, its band in the accent colour -->
+  <ellipse cx="100" cy="176" rx="56" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M60 172C60 144 76 130 100 130C124 130 140 144 140 172z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 78C50 104 48 132 56 152C68 150 74 138 76 122H124C126 138 132 150 144 152C152 132 150 104 138 78z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="94" r="38" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="86" cy="96" r="4" fill="#0F1115"/>
+  <circle cx="114" cy="96" r="4" fill="#0F1115"/>
+  <path d="M88 112C94 118 106 118 112 112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M64 70C64 22 136 22 136 70z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 70C78 62 122 62 136 70L136 58C122 50 78 50 64 58z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M30 80C48 62 152 62 170 80C176 88 162 92 150 88C122 78 78 78 50 88C38 92 24 88 30 80z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+</svg>

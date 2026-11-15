@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Resurse: a stack of coins with a sprout growing out of the top one -->
+  <ellipse cx="100" cy="166" rx="66" ry="7" fill="#0F1115" opacity="0.12"/>
+  <path d="M52 144V156A48 12 0 0 0 148 156V144Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="144" rx="48" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 126V138A48 12 0 0 0 154 138V126Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="106" cy="126" rx="48" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 108V120A48 12 0 0 0 146 120V108Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="98" cy="108" rx="48" ry="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="98" cy="108" rx="32" ry="7" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M98 106C98 90 100 74 100 52" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M99 84C82 86 66 76 60 58C78 54 94 64 99 84Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 64C110 48 128 40 146 44C140 62 120 72 100 64Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 64C82 68 90 74 96 80" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M106 62C116 58 126 54 136 50" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

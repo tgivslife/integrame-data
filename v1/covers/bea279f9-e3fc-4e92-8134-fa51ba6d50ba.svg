@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Adevăruri: a light bulb, for a plan, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="172" rx="40" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="150" y1="62" x2="162" y2="50" fill="none" stroke="#C6F432" stroke-width="4"/>
+  <line x1="156" y1="92" x2="172" y2="92" fill="none" stroke="#C6F432" stroke-width="4"/>
+  <line x1="112" y1="50" x2="112" y2="36" fill="none" stroke="#C6F432" stroke-width="4"/>
+  <circle cx="112" cy="92" r="34" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M96 118h32l-4 22h-24z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M102 106l6-12 4 9 4-9 6 12" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="98" y="138" width="28" height="20" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="98" y1="145" x2="126" y2="145" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="98" y1="151" x2="126" y2="151" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

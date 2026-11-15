@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Curiozitate: the ideal man of the joke (clever, gentle and handsome), a smiling bust in a suit and a lime tie, with the waves of a rumour beside him and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="54" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M56 176C56 142 68 128 92 120H124C148 128 160 142 160 176Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M94 121L108 164L122 121Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M94 121L84 136L94 142L108 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M122 121L132 136L122 142L108 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M104 126H112L110 133H106Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M106 133H110L114 154L108 161L102 154Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="100" y="100" width="16" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 116L94 122L104 127Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M116 116L122 122L112 127Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="84" cy="82" rx="4.5" ry="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="132" cy="82" rx="4.5" ry="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="108" cy="78" rx="24" ry="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 76C80 54 94 44 110 45C127 46 137 57 132 76C128 66 120 61 112 62C104 60 92 64 84 76Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="99" cy="82" r="2.6" fill="#0F1115"/>
+  <circle cx="117" cy="82" r="2.6" fill="#0F1115"/>
+  <path d="M94 75L103 74" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M113 74L122 75" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M100 95C104 100 112 100 116 95" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M146 66C151 74 151 86 146 94" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M156 58C164 70 164 90 156 102" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M166 50C177 66 177 94 166 110" fill="none" stroke="#C6F432" stroke-width="4"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

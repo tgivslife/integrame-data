@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Angajat…: an employee's ID badge on a lime lanyard, with a photo, lines of text and a lime stripe -->
+  <ellipse cx="104" cy="178" rx="54" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M54 18L70 18L100 62L130 18L146 18L107 78L93 78z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="91" y="72" width="18" height="16" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="56" y="84" width="88" height="90" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="88" y="92" width="24" height="6" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="68" y="106" width="32" height="38" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M72 144Q72 130 84 130Q96 130 96 144z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="84" cy="120" r="7.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="108" y1="112" x2="132" y2="112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="108" y1="123" x2="128" y2="123" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="108" y1="133" x2="124" y2="133" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="68" y="154" width="64" height="10" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+</svg>

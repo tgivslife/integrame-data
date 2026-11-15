@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Microclimat: the title's small climate, a sprout under a glass bell with its own cloud, rain and lime sun -->
+  <ellipse cx="100" cy="171" rx="64" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="100" cy="30" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M56 152L56 92C56 56 76 36 100 36C124 36 144 56 144 92L144 152Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="134" y1="112" x2="134" y2="138" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M66 86H102A8 8 0 0 0 100 70A12 12 0 0 0 78 66A10 10 0 0 0 66 86Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="74" y1="92" x2="71" y2="100" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="86" y1="92" x2="83" y2="100" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="98" y1="92" x2="95" y2="100" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="124" cy="66" r="7" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="134" y1="66" x2="136.5" y2="66" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="114" y1="66" x2="111.5" y2="66" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="124" y1="56" x2="124" y2="53.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="124" y1="76" x2="124" y2="78.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="131.1" y1="58.9" x2="132.8" y2="57.2" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="116.9" y1="58.9" x2="115.2" y2="57.2" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="131.1" y1="73.1" x2="132.8" y2="74.8" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="116.9" y1="73.1" x2="115.2" y2="74.8" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 146Q98 128 100 112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 126C88 126 78 118 76 106C90 106 98 114 100 126Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 114C112 114 122 106 124 94C110 94 102 102 100 114Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M66 152Q100 134 134 152Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="44" y="150" width="112" height="16" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+</svg>

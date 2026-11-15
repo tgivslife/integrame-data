@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La medic: a doctor's stethoscope beside three bottles of beer, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="174" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- three beer bottles: body, cap and label each -->
+  <path d="M-15 172V100C-15 88 -6 84 -6 72V48H6V72C6 84 15 88 15 100V172Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(164 0)"/>
+  <rect x="-8" y="40" width="16" height="9" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(164 0)"/>
+  <rect x="-15" y="118" width="30" height="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(164 0)"/>
+  <path d="M-15 172V100C-15 88 -6 84 -6 72V48H6V72C6 84 15 88 15 100V172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(130 0)"/>
+  <rect x="-8" y="40" width="16" height="9" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(130 0)"/>
+  <rect x="-15" y="118" width="30" height="26" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(130 0)"/>
+  <path d="M-15 172V100C-15 88 -6 84 -6 72V48H6V72C6 84 15 88 15 100V172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(96 0)"/>
+  <rect x="-8" y="40" width="16" height="9" rx="2" fill="#0F1115" stroke="#0F1115" stroke-width="2" transform="translate(96 0)"/>
+  <rect x="-15" y="118" width="30" height="26" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="translate(96 0)"/>
+  <!-- the stethoscope: its ear tips and tubes, the tube down to the chest piece -->
+  <path d="M28 82C26 102 34 112 46 118" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 82C66 102 58 112 46 118" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="28" cy="80" r="4" fill="#0F1115"/>
+  <circle cx="64" cy="80" r="4" fill="#0F1115"/>
+  <path d="M46 118C44 138 40 158 52 160" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="63" cy="160" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="63" cy="160" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

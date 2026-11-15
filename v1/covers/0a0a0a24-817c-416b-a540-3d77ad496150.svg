@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Citat din Charles de Gaulle: a sitting dog with a lime collar and a heart beside it, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="174" rx="58" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M136 162Q162 160 160 136" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M74 172C70 142 82 120 106 120C130 120 142 142 138 172z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M95 140L93 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M117 140L119 168" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="89" cy="170" rx="10" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="123" cy="170" rx="10" ry="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M78 112Q106 130 134 112L136 122Q106 142 76 122z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="106" cy="92" r="30" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="118" cy="84" rx="9" ry="8" fill="#D5D8DD"/>
+  <path d="M84 70C68 68 60 92 66 110C70 118 80 112 84 100z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 70C144 68 152 92 146 110C142 118 132 112 128 100z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="95" cy="85" r="3.2" fill="#0F1115"/>
+  <circle cx="117" cy="85" r="3.2" fill="#0F1115"/>
+  <ellipse cx="106" cy="104" rx="14" ry="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="106" cy="99" rx="5" ry="4" fill="#0F1115"/>
+  <path d="M106 103L106 106M106 106Q100 111 95 107M106 106Q112 111 117 107" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="106" cy="134" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M154 66C134 54 132 36 144 34C150 33 153 37 154 41C155 37 158 33 164 34C176 36 174 54 154 66z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

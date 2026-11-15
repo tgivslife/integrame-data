@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Google Earth: the globe with a map pin on a house (your own: "la casa ta"), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="179" rx="50" ry="4.5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="100" cy="118" r="56" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 100C68 88 86 90 90 102C94 112 84 120 86 132C88 142 78 150 70 142C62 132 54 116 60 100z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M118 118C128 108 146 112 150 124C152 136 142 148 130 152C120 154 114 144 120 136C124 128 112 126 118 118z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M94 152C100 146 112 150 110 160C106 166 94 164 94 152z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="120" cy="97" rx="8" ry="3" fill="#0F1115" opacity="0.12"/>
+  <path d="M120 96C112 84 100 74 100 58A20 20 0 1 1 140 58C140 74 128 84 120 96z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M109 60L120 49L131 60V71H109z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="117" y="63" width="6" height="8" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

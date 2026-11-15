@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Examen auto: a car with a learner's L plate on its roof -->
+  <ellipse cx="100" cy="158" rx="82" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="84" y="46" width="32" height="26" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M95 53L95 65L106 65" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M22 134L22 112Q22 102 34 100L52 96L68 74Q71 70 76 70L126 70Q132 70 136 74L156 96L168 100Q178 103 178 114L178 134Q178 142 170 142L30 142Q22 142 22 134Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 96L76 80L98 80L98 96Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M108 80L126 80L142 96L108 96Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="103" y1="98" x2="103" y2="140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="84" y1="108" x2="94" y2="108" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="108" x2="124" y2="108" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="170" cy="114" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <rect x="22" y="110" width="9" height="8" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="58" cy="142" r="17" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="58" cy="142" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="144" cy="142" r="17" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="144" cy="142" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+</svg>

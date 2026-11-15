@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Joint-venture: two puzzle pieces fitting together, a partnership (COMPLICE, ALIAT, COMPANIE) -->
+  <ellipse cx="100" cy="174" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M92 62H112C108 50 116 42 122 42C128 42 136 50 132 62H152V142H92V116C104 122 118 114 118 102C118 90 104 82 92 88Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(14 0)"/>
+  <path d="M32 62H92V88C104 82 118 90 118 102C118 114 104 122 92 116V142H72C76 154 68 162 62 162C56 162 48 154 52 142H32Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="46" y1="76" x2="46" y2="92" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <line x1="102" y1="52" x2="102" y2="40" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="90" y1="54" x2="84" y2="44" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="152" x2="114" y2="164" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="126" y1="150" x2="132" y2="160" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …sus…: a hot-air balloon with a lime gore rising above two clouds, two chevrons pointing up -->
+  <ellipse cx="96" cy="180" rx="14" ry="3" fill="#0F1115" opacity="0.12"/>
+  <path d="M24 172C16 172 16 160 26 158C28 148 44 146 50 154C56 148 70 150 70 160C78 160 80 172 72 172Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M130 146C122 146 122 134 132 132C134 122 150 120 156 128C162 122 176 124 176 134C182 136 182 146 174 146Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <polyline points="152,50 164,38 176,50" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="152,66 164,54 176,66" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="87" y1="118" x2="88" y2="132" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="105" y1="118" x2="104" y2="132" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="84" y="132" width="24" height="16" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <line x1="84" y1="138" x2="108" y2="138" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M96 20C126 20 142 42 142 66C142 88 122 100 110 112L82 112C70 100 50 88 50 66C50 42 66 20 96 20Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M96 20C84 28 78 46 78 66C78 86 86 100 88 112L104 112C106 100 114 86 114 66C114 46 108 28 96 20Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="84" y="112" width="24" height="6" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+</svg>

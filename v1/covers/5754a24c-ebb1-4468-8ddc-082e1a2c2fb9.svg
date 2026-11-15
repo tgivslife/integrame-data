@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Noul iubit: a heart in front of a money bag, the boyfriend 20 million euros older, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="170" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M120 96C98 110 88 138 96 156C102 168 158 168 164 156C172 138 162 110 140 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 92L110 76L122 82L130 70L138 82L150 76L140 92" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="116" y="89" width="28" height="9" rx="4.5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M144 120A17 17 0 1 0 144 146" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="116" y1="128" x2="136" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="116" y1="137" x2="136" y2="137" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="162" cy="164" rx="14" ry="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="164" cy="156" rx="14" ry="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M66 156C40 138 34 116 46 104C56 94 66 100 66 110C66 100 76 94 86 104C98 116 92 138 66 156z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(-10 66 128)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

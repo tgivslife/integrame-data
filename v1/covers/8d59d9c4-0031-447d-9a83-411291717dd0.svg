@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kalașnikov: the title's rifle in profile, its curved magazine in lime -->
+  <ellipse cx="100" cy="168" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <line x1="148" y1="99" x2="180" y2="99" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M168 99V88H173V99" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="120" y="83" width="34" height="7" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="118" y="90" width="34" height="17" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 108H112C112 126 118 140 126 150L108 158C98 144 92 128 92 108Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 108H82L78 136C77 140 74 142 70 141L64 140C61 139 60 136 61 133Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M82 108C82 120 86 124 94 122" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M22 86L60 92V110L28 120C24 121 22 118 22 114Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="58" y="88" width="62" height="22" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="70" y1="96" x2="104" y2="96" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M100 88V82H106V88" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Actori în filmul „Bună seara, Irina!” (II): a striped popcorn bucket and a cinema ticket under the lime crescent moon and the stars of the evening -->
+  <ellipse cx="104" cy="177" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="94" cy="52" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="116" cy="53" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="66" cy="76" r="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="84" cy="68" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="104" cy="65" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="124" cy="69" r="12" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="139" cy="77" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M58 88L142 88L130 172L70 172Z" fill="#FFFFFF"/>
+  <path d="M70 88L82 88L87.1 172L78.6 172ZM94 88L106 88L104.3 172L95.7 172ZM118 88L130 88L121.4 172L112.9 172Z" fill="#D5D8DD"/>
+  <path d="M58 88L142 88L130 172L70 172Z" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="54" y="80" width="92" height="12" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="128" y="136" width="50" height="28" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-16 153 150)"/>
+  <line x1="166" y1="139" x2="166" y2="161" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-16 153 150)"/>
+  <path d="M136 146H156M136 154H152" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-16 153 150)"/>
+  <path d="M138 29A30 30 0 1 0 148 77A26 26 0 0 1 138 29Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(-56.8 -3.2) scale(0.8)"/>
+  <path d="M160 26L161.8 31.2L167 33L161.8 34.8L160 40L158.2 34.8L153 33L158.2 31.2Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M172 62L173.5 66.5L178 68L173.5 69.5L172 74L170.5 69.5L166 68L170.5 66.5Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M24 108L25.5 112.5L30 114L25.5 115.5L24 120L22.5 115.5L18 114L22.5 112.5Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

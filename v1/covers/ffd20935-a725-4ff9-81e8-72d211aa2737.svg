@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Adevăruri: a smiling woman with long wavy hair and a lit bulb above her head (the better ideas at forty), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="179" rx="50" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M72 128C66 102 84 82 106 82C128 82 146 102 140 128C144 142 138 154 146 166C132 170 120 162 118 152H94C92 162 80 170 66 166C74 154 68 142 72 128Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 176C58 158 80 148 106 148C132 148 154 158 154 176Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="106" cy="120" rx="22" ry="26" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 116C84 100 94 92 108 93C120 94 128 102 129 114C120 105 108 103 98 108C92 111 88 114 84 116Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M95 119c2-2 5-2 7 0M110 119c2-2 5-2 7 0" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M97 129C102 136 110 136 115 129" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="148" cy="48" r="18" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="141" y="64" width="14" height="11" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M141 50l3.5 5 3.5-5 3.5 5 3.5-5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M148 24V18M130 30l-4-4M166 30l4-4M124 48h-6M172 48h6" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

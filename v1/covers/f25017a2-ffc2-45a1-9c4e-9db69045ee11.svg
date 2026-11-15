@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Patefon: a wind-up gramophone, its horn flaring up to the left over the record, a note rising from it -->
+  <ellipse cx="96" cy="174" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="44" y="164" width="12" height="8" rx="2" fill="#0F1115"/>
+  <rect x="132" y="164" width="12" height="8" rx="2" fill="#0F1115"/>
+  <path d="M150 146H160V158" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="154" y="156" width="14" height="7" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="38" y="126" width="112" height="42" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="50" y="137" width="88" height="20" rx="3" fill="#D5D8DD"/>
+  <circle cx="94" cy="147" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="84" cy="120" rx="40" ry="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="84" cy="120" rx="26" ry="5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="84" cy="120" rx="10" ry="2.5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M132 112Q132 98 118 92" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="132" y1="116" x2="104" y2="114" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="132" cy="116" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="101" cy="115" r="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 24Q98 64 120 88L114 96Q78 70 42 76Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="0" cy="0" rx="34" ry="12" transform="translate(64 50) rotate(-50)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="0" cy="0" rx="25" ry="7" transform="translate(66 52) rotate(-50)" fill="#D5D8DD"/>
+  <path d="M30 42Q32 28 46 20" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="0" cy="0" rx="8" ry="6" transform="translate(152 72) rotate(-20)" fill="#0F1115"/>
+  <line x1="159" y1="69" x2="159" y2="38" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M159 38Q172 44 170 58" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

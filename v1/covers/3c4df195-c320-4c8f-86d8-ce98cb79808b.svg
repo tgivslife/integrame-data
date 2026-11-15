@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Încrucișare la pești: the goldfish of wishes, with its crown, crossed with a shark (its fin and teeth), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M84 84C100 68 112 52 120 38C124 58 128 72 138 86Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M154 112L180 88C185 108 185 128 180 148L154 124Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M38 118C38 92 68 78 102 78C134 78 154 96 158 118C154 140 134 158 102 158C68 158 38 144 38 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M104 98Q110 102 116 98M120 108Q126 112 132 108M108 120Q114 124 120 120M124 132Q130 136 136 132" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M84 104Q88 116 84 128M92 102Q96 116 92 130" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M42 126Q62 146 86 132Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="46,129 51,134 56,131 61,137 66,133 71,137 76,133 81,134" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="62" cy="106" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="60" cy="106" r="3" fill="#0F1115"/>
+  <path d="M100 152L88 172L114 158Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M48 90L44 66L56 76L64 60L72 76L84 68L82 90Z" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-12 64 80)"/>
+  <circle cx="28" cy="98" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="22" cy="80" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M140 22h34a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="147" cy="38" r="3.2" fill="#FFFFFF"/>
+  <circle cx="157" cy="38" r="3.2" fill="#FFFFFF"/>
+  <circle cx="167" cy="38" r="3.2" fill="#FFFFFF"/>
+</svg>

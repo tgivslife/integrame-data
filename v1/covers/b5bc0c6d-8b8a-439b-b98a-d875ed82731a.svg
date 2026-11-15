@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Actori în filmul „Bună seara, Irina!” (I): a film strip under the lime crescent moon and the stars of the evening -->
+  <ellipse cx="102" cy="176" rx="74" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="26" y="104" width="148" height="52" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-10 100 130)"/>
+  <path d="M34 108h6v6h-6zM48 108h6v6h-6zM62 108h6v6h-6zM76 108h6v6h-6zM90 108h6v6h-6zM104 108h6v6h-6zM118 108h6v6h-6zM132 108h6v6h-6zM146 108h6v6h-6zM160 108h6v6h-6zM34 146h6v6h-6zM48 146h6v6h-6zM62 146h6v6h-6zM76 146h6v6h-6zM90 146h6v6h-6zM104 146h6v6h-6zM118 146h6v6h-6zM132 146h6v6h-6zM146 146h6v6h-6zM160 146h6v6h-6z" fill="#0F1115" transform="rotate(-10 100 130)"/>
+  <rect x="34" y="119" width="40" height="22" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 130)"/>
+  <rect x="80" y="119" width="40" height="22" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 130)"/>
+  <rect x="126" y="119" width="40" height="22" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-10 100 130)"/>
+  <path d="M138 29A30 30 0 1 0 148 77A26 26 0 0 1 138 29Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M44 38L46 44L52 46L46 48L44 54L42 48L36 46L42 44Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M78 20L79.5 24.5L84 26L79.5 27.5L78 32L76.5 27.5L72 26L76.5 24.5Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M170 56L171.5 60.5L176 62L171.5 63.5L170 68L168.5 63.5L164 62L168.5 60.5Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

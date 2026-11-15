@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …și soții lor actori: an open clapperboard, and in front of it two wedding rings, one lime -->
+  <ellipse cx="102" cy="176" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="24" y="86" width="112" height="78" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M36 112H124M36 138H124M80 112V138" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="24" y="70" width="112" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M34 70L44 70L50 86L40 86ZM58 70L68 70L74 86L64 86ZM82 70L92 70L98 86L88 86ZM106 70L116 70L122 86L112 86Z" fill="#0F1115"/>
+  <rect x="26" y="52" width="110" height="16" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-16 26 68)"/>
+  <path d="M38 52L48 52L42 68L32 68ZM62 52L72 52L66 68L56 68ZM86 52L96 52L90 68L80 68ZM110 52L120 52L114 68L104 68Z" fill="#0F1115" transform="rotate(-16 26 68)"/>
+  <circle cx="27" cy="69" r="4" fill="#0F1115"/>
+  <path d="M102 128A26 26 0 1 0 154 128A26 26 0 1 0 102 128ZM110 128A18 18 0 1 1 146 128A18 18 0 1 1 110 128Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M130 146A24 24 0 1 0 178 146A24 24 0 1 0 130 146ZM138 146A16 16 0 1 1 170 146A16 16 0 1 1 138 146Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M150.52 115A26 26 0 0 1 152.43 136.89L144.92 134.16A18 18 0 0 0 143.59 119Z" fill="#C6F432" stroke="none"/>
+  <path d="M150.52 115A26 26 0 0 1 152.43 136.89M143.59 119A18 18 0 0 1 144.92 134.16" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M163 30L165 35L170 37L165 39L163 44L161 39L156 37L161 35Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+</svg>

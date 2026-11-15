@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Edulcorant: the title, sweetener tablets dropping from a dispenser into a cup of coffee -->
+  <ellipse cx="98" cy="177" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="96" cy="164" rx="66" ry="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M148 122Q172 116 172 134Q172 150 140 150" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M40 110L152 110Q150 150 124 162L68 162Q42 150 40 110Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="96" cy="110" rx="56" ry="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="96" cy="111" rx="46" ry="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M62 92Q56 82 62 72Q68 62 62 52" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M78 90Q73 82 78 74" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="76" width="14" height="9" rx="3" transform="rotate(35 135 53)" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="118" y="28" width="34" height="50" rx="8" transform="rotate(35 135 53)" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="118" y="28" width="34" height="14" rx="7" transform="rotate(35 135 53)" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="127" y1="54" x2="143" y2="54" transform="rotate(35 135 53)" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="113" cy="90" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="103" cy="102" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+</svg>

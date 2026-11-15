@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Actor canadian (II): an old film camera on a tripod, two reels on top, a lime maple leaf on its body -->
+  <ellipse cx="100" cy="174" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="94" y1="150" x2="70" y2="172" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="94" y1="150" x2="118" y2="172" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="94" y1="150" x2="94" y2="174" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="72" cy="68" r="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="72" cy="56" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="82.4" cy="74" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="61.6" cy="74" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="72" cy="68" r="3" fill="#0F1115" stroke="none"/>
+  <circle cx="120" cy="68" r="24" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="120" cy="56" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="130.4" cy="74" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="109.6" cy="74" r="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="120" cy="68" r="3" fill="#0F1115" stroke="none"/>
+  <path d="M142 106L166 96L166 146L142 136Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="46" y="92" width="96" height="58" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 103L106 115L112 112L110 126L120 117L118 123L127 121L123 130L125 133L113 141L114 146L102 144L102 157L98 157L98 144L86 146L87 141L75 133L77 130L73 121L82 123L80 117L90 126L88 112L94 115Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(94 121) scale(0.75) translate(-100 -130)"/>
+  <path d="M28 30V44M21 37H35M168 24V34M163 29H173" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

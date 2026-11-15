@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Agerime: a lit light bulb, the quick idea, its rays all round -->
+  <ellipse cx="100" cy="178" rx="44" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="100" y1="20" x2="100" y2="32" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="52" y1="38" x2="61" y2="47" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="148" y1="38" x2="139" y2="47" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="24" y1="84" x2="40" y2="84" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="160" y1="84" x2="176" y2="84" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="36" y1="124" x2="47" y2="117" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="164" y1="124" x2="153" y2="117" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 132C80 116 58 106 58 84A42 42 0 1 1 142 84C142 106 120 116 120 132Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M72 80Q74 60 92 52" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+  <polyline points="90,132 90,106 95,96 100,106 105,96 110,106 110,132" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="80" y="132" width="40" height="10" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="82" y="142" width="36" height="10" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="84" y="152" width="32" height="8" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 160Q100 172 110 160Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+</svg>

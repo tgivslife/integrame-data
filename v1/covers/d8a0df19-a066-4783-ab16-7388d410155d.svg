@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Expresii cu arme: a small cannon on its wheel, with an arrow flying over it -->
+  <ellipse cx="100" cy="174" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M34 66L146 46" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M146 46L132 38L136 48L134 58z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 66L24 58M34 66L26 74M44 64L34 56M44 64L36 72" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M40 150L72 92L170 76C178 75 182 80 181 87C180 94 176 98 170 99L84 134L62 158z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M170 76C164 80 164 94 170 99" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M112 86L120 112" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 81L145 105" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="90" cy="142" r="30" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="90" y1="112" x2="90" y2="172" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="60" y1="142" x2="120" y2="142" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="69" y1="121" x2="111" y2="163" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="111" y1="121" x2="69" y2="163" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="90" cy="142" r="8" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+</svg>

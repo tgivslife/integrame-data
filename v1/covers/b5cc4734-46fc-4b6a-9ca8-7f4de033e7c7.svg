@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ghinion: a wedding ring left standing while its pair rolls away, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="78" cy="160" rx="34" ry="5" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="158" cy="168" rx="22" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M46 124a32 32 0 1 0 64 0a32 32 0 1 0 -64 0ZM56 124a22 22 0 1 1 44 0a22 22 0 1 1 -44 0Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 104Q66 98 74 96" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <path d="M68 82L74 72L82 72L88 82L78 94Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M68 82L88 82M74 72L78 82L82 72" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M138 144a20 20 0 1 0 40 0a20 20 0 1 0 -40 0ZM145 144a13 13 0 1 1 26 0a13 13 0 1 1 -26 0Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="118" y1="134" x2="130" y2="134" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="146" x2="130" y2="146" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="120" y1="158" x2="132" y2="158" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

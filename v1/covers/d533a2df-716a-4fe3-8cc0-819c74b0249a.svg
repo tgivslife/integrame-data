@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Proaspăt căsătorită: a sailor's anchor beside a wall calendar whose one lime month is the month he is home, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="170" rx="78" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="50" cy="88" r="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="50" y1="96" x2="50" y2="160" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <line x1="34" y1="106" x2="66" y2="106" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M26 134C28 152 38 162 50 162C62 162 72 152 74 134" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <polyline points="20,140 26,132 33,139" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="67,139 74,132 80,140" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="94" y="44" width="84" height="112" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M94 70V50a6 6 0 0 1 6-6h72a6 6 0 0 1 6 6v20z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="108" y="34" width="8" height="18" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="156" y="34" width="8" height="18" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="102" y="78" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="78" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="154" y="78" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="102" y="97" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="97" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="154" y="97" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="102" y="116" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="116" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="154" y="116" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="102" y="135" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="128" y="135" width="16" height="13" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="154" y="135" width="16" height="13" rx="2" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

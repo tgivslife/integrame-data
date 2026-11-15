@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Nu e nevoie…: a helping hand, two arms gripping each other's wrist, and a heart -->
+  <path d="M58 76C36 62 36 40 49 40C54 40 57 43 58 47C59 43 62 40 67 40C80 40 80 62 58 76Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="-66" y="-12" width="62" height="24" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <rect x="-88" y="-17" width="28" height="34" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <rect x="4" y="-12" width="62" height="24" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <rect x="60" y="-17" width="28" height="34" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <rect x="-6" y="-15" width="38" height="30" rx="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <path d="M14 -9V9M20 -9V9M26 -9V9" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(100 106) rotate(-40)"/>
+  <rect x="-32" y="-16" width="42" height="32" rx="11" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(100 106) rotate(-40)"/>
+  <path d="M-26 -10V10M-20 -10V10M-14 -10V10" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(100 106) rotate(-40)"/>
+  <path d="M148 140V152M142 146H154M168 118V128M163 123H173" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

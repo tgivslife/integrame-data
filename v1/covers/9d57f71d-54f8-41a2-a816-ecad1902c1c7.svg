@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Citat din Benjamin Mays: lime quotation marks beside a target with an arrow in its centre -->
+  <ellipse cx="124" cy="178" rx="46" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M46 40a13 13 0 0 1 13 13c0 16-8 28-22 34c6-7 9-14 9-21a13 13 0 0 1 0-26z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M80 40a13 13 0 0 1 13 13c0 16-8 28-22 34c6-7 9-14 9-21a13 13 0 0 1 0-26z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="108" y1="158" x2="98" y2="178" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="140" y1="158" x2="150" y2="178" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="124" cy="120" r="50" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="124" cy="120" r="35" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="124" cy="120" r="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="124" y1="120" x2="172" y2="40" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M161 58L172 40L181 40L170 58z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M161 58L172 40L167 32L157 50z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="124" cy="120" r="7" fill="#0F1115"/>
+</svg>

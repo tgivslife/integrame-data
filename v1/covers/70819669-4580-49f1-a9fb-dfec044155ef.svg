@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Petrecerea de Revelion: two flutes of champagne clinking at midnight, sparkles around them, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="178" rx="62" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M54 70L86 70Q86 124 73 132L67 132Q54 124 54 70Z" fill="#FFFFFF" transform="rotate(8 70 168)"/>
+  <path d="M54.5 84L85.5 84Q85 122 73 129L67 129Q55 122 54.5 84Z" fill="#C6F432" transform="rotate(8 70 168)"/>
+  <path d="M55 84L85 84" fill="none" stroke="#0F1115" stroke-width="2.5" transform="rotate(8 70 168)"/>
+  <circle cx="63" cy="100" r="2.2" fill="#FFFFFF" transform="rotate(8 70 168)"/>
+  <circle cx="75" cy="94" r="1.8" fill="#FFFFFF" transform="rotate(8 70 168)"/>
+  <circle cx="70" cy="113" r="2" fill="#FFFFFF" transform="rotate(8 70 168)"/>
+  <path d="M54 70L86 70Q86 124 73 132L67 132Q54 124 54 70Z" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(8 70 168)"/>
+  <path d="M70 132V165" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(8 70 168)"/>
+  <ellipse cx="70" cy="168" rx="17" ry="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5" transform="rotate(8 70 168)"/>
+  <path d="M114 70L146 70Q146 124 133 132L127 132Q114 124 114 70Z" fill="#FFFFFF" transform="rotate(-8 130 168)"/>
+  <path d="M114.5 84L145.5 84Q145 122 133 129L127 129Q115 122 114.5 84Z" fill="#C6F432" transform="rotate(-8 130 168)"/>
+  <path d="M115 84L145 84" fill="none" stroke="#0F1115" stroke-width="2.5" transform="rotate(-8 130 168)"/>
+  <circle cx="124" cy="96" r="1.8" fill="#FFFFFF" transform="rotate(-8 130 168)"/>
+  <circle cx="137" cy="102" r="2.2" fill="#FFFFFF" transform="rotate(-8 130 168)"/>
+  <circle cx="129" cy="115" r="2" fill="#FFFFFF" transform="rotate(-8 130 168)"/>
+  <path d="M114 70L146 70Q146 124 133 132L127 132Q114 124 114 70Z" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(-8 130 168)"/>
+  <path d="M130 132V165" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(-8 130 168)"/>
+  <ellipse cx="130" cy="168" rx="17" ry="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5" transform="rotate(-8 130 168)"/>
+  <path d="M100 58V46M90 61L84 52M110 61L116 52" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M158 26Q160 38 172 40Q160 42 158 54Q156 42 144 40Q156 38 158 26Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M170 100Q171 107 178 108Q171 109 170 116Q169 109 162 108Q169 107 170 100Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M30 98Q31 105 38 106Q31 107 30 114Q29 107 22 106Q29 105 30 98Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

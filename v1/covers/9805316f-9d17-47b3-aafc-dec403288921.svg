@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Polisemantism: one word of an open dictionary branching into three meanings, the middle one lime -->
+  <ellipse cx="100" cy="174" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M26 118V156C54 150 80 152 100 162C120 152 146 150 174 156V118" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 154C82 144 58 142 34 148V112C58 106 82 108 100 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 154C118 144 142 142 166 148V112C142 106 118 108 100 118Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M46 124C60 121 74 121 88 126" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M46 134C60 131 74 131 88 136" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M112 126C126 121 140 121 154 124" fill="none" stroke="#C6F432" stroke-width="5"/>
+  <path d="M112 136C126 131 140 131 154 134" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <polyline points="133,123 133,96 100,82" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="100,82 58,58" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="100,82 100,50" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="100,82 142,58" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="52" cy="50" r="13" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="36" r="15" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="148" cy="50" r="13" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="82" r="5" fill="#0F1115"/>
+</svg>

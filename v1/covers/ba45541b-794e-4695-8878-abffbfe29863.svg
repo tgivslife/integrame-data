@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mucalit: a sly old joker in a hat, one eyebrow up and one eye winking over a lopsided smile -->
+  <ellipse cx="100" cy="176" rx="46" ry="5" fill="#0F1115" opacity="0.12"/>
+  <circle cx="48" cy="110" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="152" cy="110" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="100" cy="110" r="52" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="128" cy="124" rx="9" ry="6" fill="#D5D8DD"/>
+  <path d="M68 60L72 28Q100 20 128 28L132 60Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 44H130L131 54H69Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="44" y="58" width="112" height="9" rx="4.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 84Q80 74 92 82" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 90L128 88" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="82" cy="96" r="4.5" fill="#0F1115"/>
+  <path d="M110 100Q119 94 128 100" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 100Q95 112 103 115" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 122Q88 114 74 124Q88 128 100 125Q112 128 126 124Q112 114 100 122Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 138Q104 144 120 132" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M118 128Q124 131 122 137" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>

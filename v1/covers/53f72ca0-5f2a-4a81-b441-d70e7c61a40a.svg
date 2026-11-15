@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ținute de sportivi: what sportsmen hold: a tennis racket crossed over a hockey stick, and a lime ball -->
+  <ellipse cx="100" cy="176" rx="66" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M150 20L164 30L74 160C70 166 64 168 58 168H28C20 168 18 158 26 156L58 148Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M136 42L150 52" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M128 53L142 63" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="63" y="142" width="14" height="52" rx="4" fill="#0F1115" stroke="#0F1115" stroke-width="3" transform="rotate(-35 70 66)"/>
+  <path d="M58 106L70 142L82 106" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-35 70 66)"/>
+  <ellipse cx="70" cy="66" rx="36" ry="46" fill="#FFFFFF" stroke="#0F1115" stroke-width="5" transform="rotate(-35 70 66)"/>
+  <path d="M52 26V106M70 20V112M88 26V106" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-35 70 66)"/>
+  <path d="M40 40H100M34 66H106M40 92H100" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-35 70 66)"/>
+  <circle cx="150" cy="118" r="21" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M135 104C145 112 145 124 135 133" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M165 104C155 112 155 124 165 133" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

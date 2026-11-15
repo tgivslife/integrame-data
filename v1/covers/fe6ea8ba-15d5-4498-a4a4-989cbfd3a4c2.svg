@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cu cozi lungi și scurte: a fox whose long bushy tail is the accent, beside a rabbit whose short round tail is too -->
+  <ellipse cx="100" cy="176" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M70 168C48 174 24 162 20 134C18 112 28 90 46 84C58 82 62 94 56 104C50 114 50 130 60 138C66 142 74 142 80 140z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M34 98C28 110 26 126 30 142M46 92C40 102 38 118 42 130" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 172C56 134 66 96 88 92C112 90 120 132 114 172z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M84 170C80 142 84 120 98 112C108 126 110 150 106 170z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 58C62 42 76 32 92 34C102 36 110 40 114 48L136 58C132 68 118 72 106 72C102 86 80 92 70 84C62 78 58 68 60 58z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 40L62 20L82 34z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M88 34L98 18L106 42z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="134" cy="58" r="4" fill="#0F1115"/>
+  <circle cx="102" cy="52" r="4" fill="#0F1115"/>
+  <circle cx="126" cy="158" r="9" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M132 172C128 146 140 130 154 130C170 130 180 148 178 172z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M146 112C140 100 138 88 140 78C148 80 154 94 156 110z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M162 110C162 98 166 86 172 80C178 86 176 100 172 114z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M142 124C142 112 152 106 164 106C176 106 184 116 184 126C184 136 174 142 162 142C150 142 142 134 142 124z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="170" cy="120" r="3.5" fill="#0F1115"/>
+</svg>

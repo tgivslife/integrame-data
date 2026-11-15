@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Aniversară: a birthday cake crowded with lit candles, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="178" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="108" cy="167" rx="72" ry="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="50" y="128" width="116" height="38" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 134Q50 128 56 128H160Q166 128 166 134V140Q159 147 152 140Q145 133 138 140Q131 147 124 140Q117 133 110 140Q103 147 96 140Q89 133 82 140Q75 147 68 140Q61 133 54 140L50 140Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="70" y="98" width="76" height="30" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 104Q70 98 76 98H140Q146 98 146 104V110Q141 116 136 110Q131 104 126 110Q121 116 116 110Q111 104 106 110Q101 116 96 110Q91 104 86 110Q81 116 76 110L70 110Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="75" y="78" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="85" y="78" width="6" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="95" y="78" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="105" y="78" width="6" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="115" y="78" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="125" y="78" width="6" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="135" y="78" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="53" y="108" width="6" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <rect x="61" y="108" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="149" y="108" width="6" height="20" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <rect x="157" y="108" width="6" height="20" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M78 78V74M88 78V74M98 78V74M108 78V74M118 78V74M128 78V74M138 78V74M56 108V104M64 108V104M152 108V104M160 108V104" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M78 60Q84 68 78 74Q72 68 78 60ZM88 60Q94 68 88 74Q82 68 88 60ZM98 60Q104 68 98 74Q92 68 98 60ZM108 60Q114 68 108 74Q102 68 108 60ZM118 60Q124 68 118 74Q112 68 118 60ZM128 60Q134 68 128 74Q122 68 128 60ZM138 60Q144 68 138 74Q132 68 138 60Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M56 90Q61 98 56 104Q51 98 56 90ZM64 90Q69 98 64 104Q59 98 64 90ZM152 90Q157 98 152 104Q147 98 152 90ZM160 90Q165 98 160 104Q155 98 160 90Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

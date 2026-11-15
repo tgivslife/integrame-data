@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Talent: a star shining on a small stage between its curtains (SCENĂ, ESTRADE) -->
+  <ellipse cx="100" cy="170" rx="80" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="24" y="140" width="152" height="22" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="62" y1="140" x2="62" y2="162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="100" y1="140" x2="100" y2="162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="138" y1="140" x2="138" y2="162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M28 40L28 140L56 140Q46 90 68 40Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M172 40L172 140L144 140Q154 90 132 40Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M40 46Q35 92 42 134" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M160 46Q165 92 158 134" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="22" y="24" width="156" height="18" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="100" cy="132" rx="30" ry="4" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 66L107.6 85.5L128.5 86.7L112.4 100L117.6 120.3L100 109L82.4 120.3L87.6 100L71.5 86.7L92.4 85.5Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="78" y1="52" x2="78" y2="64" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="72" y1="58" x2="84" y2="58" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="126" y1="52" x2="126" y2="62" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="121" y1="57" x2="131" y2="57" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

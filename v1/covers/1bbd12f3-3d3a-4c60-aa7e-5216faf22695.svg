@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …La teatru: a stage, its curtains drawn back and tied, under a lime valance -->
+  <ellipse cx="100" cy="176" rx="70" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="26" y="28" width="148" height="124" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M26 40H80C76 70 60 92 42 104C52 118 60 134 64 152H26Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M44 40C44 66 40 86 34 100M62 40C60 66 54 86 40 102M36 110C40 126 42 140 42 152M46 110C50 126 54 140 54 152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M174 40H120C124 70 140 92 158 104C148 118 140 134 136 152H174Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M156 40C156 66 160 86 166 100M138 40C140 66 146 86 160 102M164 110C160 126 158 140 158 152M154 110C150 126 146 140 146 152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="22" y="99" width="26" height="10" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <rect x="152" y="99" width="26" height="10" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 28H174V42C164 56 147 56 137 42C127 56 110 56 100 42C90 56 73 56 63 42C53 56 36 56 26 42Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="18" y="148" width="164" height="18" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 157H170" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+</svg>

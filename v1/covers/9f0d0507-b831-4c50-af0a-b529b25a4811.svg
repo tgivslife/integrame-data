@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- La cafea: a cup of coffee on its saucer and, beside it, a phone ringing that nobody answers, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="108" cy="170" rx="70" ry="6" fill="#0F1115" opacity="0.12"/>
+  <ellipse cx="86" cy="158" rx="50" ry="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M118 114Q134 114 133 127Q132 140 114 140" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M52 104H120L114 146Q86 164 58 146z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="86" cy="104" rx="34" ry="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 92Q74 85 80 78Q86 71 80 64" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M98 92Q92 85 98 78Q104 71 98 64" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="-16" y="-29" width="32" height="58" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(160 128) rotate(-12)"/>
+  <rect x="-11" y="-21" width="22" height="38" rx="2" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="translate(160 128) rotate(-12)"/>
+  <line x1="-5" y1="-25" x2="5" y2="-25" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(160 128) rotate(-12)"/>
+  <path d="M174 86Q179 89 180 95" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M172 77Q182 80 184 91" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M132 96Q130 90 134 86" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M125 94Q124 84 132 78" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

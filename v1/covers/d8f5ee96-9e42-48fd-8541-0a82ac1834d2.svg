@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Copii curioși: the psychologist's clipboard of notes and pen, a curious child's question mark, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="104" cy="178" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="58" y="62" width="92" height="112" rx="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-6 104 118)"/>
+  <rect x="68" y="76" width="72" height="90" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-6 104 118)"/>
+  <rect x="86" y="54" width="36" height="16" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-6 104 118)"/>
+  <path d="M78 94H130M78 108H122M78 122H130M78 136H112" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(-6 104 118)"/>
+  <path d="M168 104L128 154L124 166L134 158L174 108Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 109L170 114" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M150 34C150 24 158 18 166 18C175 18 182 24 182 32C182 40 176 43 172 46C169 48 168 51 168 56" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <circle cx="168" cy="68" r="3.5" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

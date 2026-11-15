@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …Vorbă!: two speech balloons in conversation, a paper one answered by a lime one, with chatter marks -->
+  <ellipse cx="100" cy="178" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="138" y1="40" x2="146" y2="30" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="142" y1="54" x2="154" y2="50" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="128" y1="28" x2="130" y2="18" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M44 34h64a20 20 0 0 1 20 20v30a20 20 0 0 1-20 20h-44l-24 18l4-18a20 20 0 0 1-20-20v-30a20 20 0 0 1 20-20z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="42" y1="56" x2="110" y2="56" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="69" x2="98" y2="69" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="82" x2="72" y2="82" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 92h60a20 20 0 0 1 20 20v22a20 20 0 0 1-20 20h-4l6 18l-26-18h-36a20 20 0 0 1-20-20v-22a20 20 0 0 1 20-20z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="94" y1="114" x2="158" y2="114" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="94" y1="128" x2="140" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="152" cy="128" r="2.5" fill="#0F1115"/>
+</svg>

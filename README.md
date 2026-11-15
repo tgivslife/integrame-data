@@ -1,12 +1,13 @@
 # Integrame cu tâlc · conținut
 
-Integramele, imaginile și programul zilnic pe care aplicația Android „Integrame cu tâlc” le descarcă de aici.
+Integramele și imaginile pe care aplicația Android „Integrame cu tâlc” le descarcă de aici.
 Fișierele sunt scrise de instrumentele aplicației (`:content publish`); nu le modifica de mână.
 
-- `v1/index.json`: fiecare fișier publicat, cu amprenta lui SHA-256
-- `v1/daily.json`: programul integramei zilei
+- `v1/index.json`: părțile listei, cu amprentele lor SHA-256
+- `v1/index/`: lista integramelor publicate, în părți, fiecare fișier cu amprenta lui
 - `v1/puzzles/`: integramele (formatul 2)
 - `v1/images/`: imaginile integramelor
+- `v1/covers/`: copertele integramelor din arhivă (SVG)
 
 ## Licență
 

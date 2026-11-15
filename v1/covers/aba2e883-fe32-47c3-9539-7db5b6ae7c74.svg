@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Geometrie plană: a circle with its radius, a square, a triangle and a rhombus -->
+  <ellipse cx="102" cy="174" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="76" cy="68" r="40" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <line x1="76" y1="68" x2="109.9" y2="46.8" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="76" cy="68" r="3.5" fill="#0F1115"/>
+  <rect x="26" y="96" width="72" height="72" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="26,154 40,154 40,168" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M90 168L134 82L178 168Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 22L164 46L148 70L132 46Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+</svg>

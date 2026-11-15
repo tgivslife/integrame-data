@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Inaugurare: the floorboards, taken up, burning on a fire, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="110" cy="174" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M110 50C122 74 148 86 148 116C148 138 131 150 110 150C89 150 72 138 72 116C72 98 84 90 88 72C96 84 99 92 103 99C108 84 104 68 110 50Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M110 92C118 104 128 112 128 126C128 139 120 147 110 147C100 147 92 139 92 126C92 114 104 108 110 92Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="150" cy="70" r="3" fill="#0F1115"/>
+  <circle cx="162" cy="92" r="2.5" fill="#0F1115"/>
+  <circle cx="64" cy="86" r="2.5" fill="#0F1115"/>
+  <rect x="-58" y="-8" width="116" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(108 148) rotate(-14)"/>
+  <line x1="-44" y1="-1" x2="-10" y2="-1" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(108 148) rotate(-14)"/>
+  <line x1="6" y1="3" x2="40" y2="3" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(108 148) rotate(-14)"/>
+  <rect x="-58" y="-8" width="116" height="16" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(112 148) rotate(14)"/>
+  <line x1="-40" y1="2" x2="-6" y2="2" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(112 148) rotate(14)"/>
+  <line x1="10" y1="-2" x2="44" y2="-2" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(112 148) rotate(14)"/>
+  <rect x="46" y="152" width="128" height="16" rx="2" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <line x1="58" y1="158" x2="96" y2="158" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="112" y1="162" x2="160" y2="162" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="104" y1="152" x2="104" y2="168" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

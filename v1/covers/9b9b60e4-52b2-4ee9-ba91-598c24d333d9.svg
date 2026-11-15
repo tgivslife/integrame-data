@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Joker: the title's joker card, a jester's cap with bells on a white card, a grey card behind it -->
+  <ellipse cx="108" cy="177" rx="62" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="-46" y="-64" width="92" height="128" rx="10" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(118 98) rotate(12)"/>
+  <rect x="-36" y="-54" width="72" height="108" rx="5" fill="none" stroke="#0F1115" stroke-width="2" transform="translate(118 98) rotate(12)"/>
+  <rect x="-46" y="-64" width="92" height="128" rx="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(98 100) rotate(-8)"/>
+  <path d="M-26 16C-32 -2 -38 -14 -32 -28C-20 -20 -10 -6 -4 16Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(98 100) rotate(-8)"/>
+  <path d="M4 16C12 -4 22 -16 34 -26C38 -10 32 2 26 16Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="translate(98 100) rotate(-8)"/>
+  <path d="M-13 16C-11 -8 -6 -28 1 -42C9 -26 14 -6 13 16Z" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="translate(98 100) rotate(-8)"/>
+  <rect x="-30" y="14" width="60" height="13" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="translate(98 100) rotate(-8)"/>
+  <path d="M-18 17L-14 20.5L-18 24L-22 20.5Z" fill="#0F1115" transform="translate(98 100) rotate(-8)"/>
+  <path d="M0 17L4 20.5L0 24L-4 20.5Z" fill="#C6F432" stroke="#0F1115" stroke-width="2" transform="translate(98 100) rotate(-8)"/>
+  <path d="M18 17L22 20.5L18 24L14 20.5Z" fill="#0F1115" transform="translate(98 100) rotate(-8)"/>
+  <circle cx="-32" cy="-30" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(98 100) rotate(-8)"/>
+  <circle cx="1" cy="-45" r="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="translate(98 100) rotate(-8)"/>
+  <circle cx="35" cy="-28" r="5" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(98 100) rotate(-8)"/>
+  <path d="M-30 -54V-44C-30 -39 -37 -39 -38 -44" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(98 100) rotate(-8)"/>
+  <path d="M-30 -54V-44C-30 -39 -37 -39 -38 -44" fill="none" stroke="#0F1115" stroke-width="3" transform="translate(98 100) rotate(172)"/>
+</svg>

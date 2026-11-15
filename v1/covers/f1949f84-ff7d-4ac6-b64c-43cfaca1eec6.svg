@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Două prietene: a beauty-parlour hand mirror with a sparkle, and the fan of banknotes the husband gave her, more than she asked; with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="177" rx="72" ry="4" fill="#0F1115" opacity="0.12"/>
+  <rect x="132" y="124" width="16" height="50" rx="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-18 140 100)"/>
+  <ellipse cx="140" cy="84" rx="32" ry="40" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-18 140 100)"/>
+  <ellipse cx="140" cy="84" rx="21" ry="29" fill="#D5D8DD" transform="rotate(-18 140 100)"/>
+  <path d="M129 72Q132 62 140 59" fill="none" stroke="#FFFFFF" stroke-width="4" transform="rotate(-18 140 100)"/>
+  <path d="M172 28L175 37L184 40L175 43L172 52L169 43L160 40L169 37Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <rect x="32" y="119" width="96" height="50" rx="5" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(-12 80 144)"/>
+  <rect x="32" y="119" width="96" height="50" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-4 80 144)"/>
+  <rect x="32" y="119" width="96" height="50" rx="5" fill="#C6F432" stroke="#0F1115" stroke-width="4" transform="rotate(5 80 144)"/>
+  <rect x="40" y="127" width="80" height="34" rx="3" fill="none" stroke="#0F1115" stroke-width="2" transform="rotate(5 80 144)"/>
+  <circle cx="80" cy="144" r="10" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5" transform="rotate(5 80 144)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

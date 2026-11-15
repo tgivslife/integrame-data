@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Haina de blană: a fur coat on a hanger, its fur collar, cuffs and hem grey, lime buttons, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="116" cy="179" rx="54" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M116 60V40C116 32 122 28 128 28C134 28 137 33 135 38" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M84 62H148Q158 64 160 76L168 160H64L72 76Q74 64 84 62z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M116 96V156" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M90 112l3 4 3-4M98 138l3 4 3-4M136 108l3 4 3-4M140 136l3 4 3-4" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M62 156H170Q172 170 162 168Q153 176 144 168Q135 176 126 168Q116 176 106 168Q97 176 88 168Q79 176 70 168Q60 170 62 156z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M84 64Q66 66 62 90L54 136H76L80 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 64Q166 66 170 90L178 136H156L152 96z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="65" cy="138" rx="13" ry="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="167" cy="138" rx="13" ry="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M116 98Q96 88 84 72Q76 62 88 56Q100 52 116 60Q132 52 144 56Q156 62 148 72Q136 88 116 98z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M92 64q4 4 8 2M132 66q4 2 8-2M104 78q4 3 8 1M120 79q4 2 8-1" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="124" cy="112" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="124" cy="128" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="124" cy="144" r="4" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

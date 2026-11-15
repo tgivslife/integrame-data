@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …Sus răsare: a lime sun rising out of a frozen lake, its light on the ice, and the carol's star above it -->
+  <ellipse cx="100" cy="166" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 74V56M131 83.8L141.3 69M69 83.8L58.7 69M150.8 109.5L167.7 103.4M49.2 109.5L32.3 103.4" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 128A42 42 0 0 1 142 128Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M26 128H174Q180 128 180 134V150Q180 156 174 156H26Q20 156 20 150V134Q20 128 26 128Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M82 138H118M90 146H110" fill="none" stroke="#C6F432" stroke-width="4"/>
+  <path d="M32 142H66M136 146H168" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M154 28L157.5 37.1L167.3 37.7L159.7 43.9L162.2 53.3L154 48L145.8 53.3L148.3 43.9L140.7 37.7L150.5 37.1Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="40" cy="44" r="3" fill="#0F1115"/>
+  <circle cx="64" cy="30" r="2.5" fill="#0F1115"/>
+  <circle cx="176" cy="74" r="2.5" fill="#0F1115"/>
+</svg>

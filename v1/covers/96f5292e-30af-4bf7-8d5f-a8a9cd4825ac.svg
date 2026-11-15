@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pacientul fricos: a worried surgeon in cap and mask, a drop of sweat at the temple, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="177" rx="62" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M52 176C54 146 74 132 96 128L128 128C150 132 170 146 172 176Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="102" y="116" width="20" height="14" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 128L112 146L124 128" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="80" cy="96" rx="6" ry="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="144" cy="96" rx="6" ry="9" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="112" cy="92" rx="32" ry="36" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M78 88C74 52 94 40 112 40C132 40 152 52 146 88C134 78 124 74 112 74C100 74 90 78 78 88Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M92 86L104 81M120 81L132 86" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="100" cy="93" r="3.5" fill="#0F1115"/>
+  <circle cx="124" cy="93" r="3.5" fill="#0F1115"/>
+  <path d="M80 102L76 94M144 102L148 94" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M80 100C94 96 130 96 144 100L140 120C132 130 122 134 112 134C102 134 92 130 84 120Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M86 110L138 110M90 121L134 121" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M158 60C164 68 166 74 162 78C158 82 152 78 154 72C155 68 157 64 158 60Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

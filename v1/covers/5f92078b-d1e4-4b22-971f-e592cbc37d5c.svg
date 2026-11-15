@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pasaj: an arched passage through a building, lit at its far end -->
+  <ellipse cx="100" cy="177" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="34" y="44" width="132" height="130" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="28" y="30" width="144" height="14" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="42" y="58" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="146" y="58" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="42" y="92" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="146" y="92" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="42" y="126" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <rect x="146" y="126" width="12" height="18" rx="2" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 174V104A38 38 0 0 1 138 104V174Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M76 160V108A24 24 0 0 1 124 108V160Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 150V111A14 14 0 0 1 114 111V150Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M93 143V114A7 7 0 0 1 107 114V143Z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="62" y1="174" x2="93" y2="143" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="138" y1="174" x2="107" y2="143" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <line x1="100" y1="174" x2="100" y2="143" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M93 58H107L104 72H96Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Lecția de engleză: a pear (pară, pear) beside a shining light bulb (bec, bulb) -->
+  <ellipse cx="100" cy="174" rx="76" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M62 64C52 64 48 76 48 90C48 104 34 118 32 138C30 158 44 170 62 170C80 170 94 158 92 138C90 118 76 104 76 90C76 76 72 64 62 64Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 64C62 56 64 50 68 44" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 54C72 44 84 42 90 46C86 56 74 58 66 54Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 62C120 62 108 76 108 94C108 110 120 118 124 130L124 138L152 138L152 130C156 118 168 110 168 94C168 76 156 62 138 62Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="131,130 131,106 135,98 138,106 141,98 145,106 145,130" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="124" y="138" width="28" height="22" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="124" y1="149" x2="152" y2="149" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M130 160L134 167L142 167L146 160Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <line x1="138" y1="50" x2="138" y2="40" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="116" y1="60" x2="109" y2="53" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="160" y1="60" x2="167" y2="53" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="176" y1="88" x2="184" y2="88" fill="none" stroke="#0F1115" stroke-width="4"/>
+</svg>

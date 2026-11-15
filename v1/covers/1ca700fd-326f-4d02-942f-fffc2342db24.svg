@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …lupul îl lasă…: a grey wolf sitting in profile, howling at a lime moon -->
+  <circle cx="146" cy="48" r="24" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="138" cy="42" r="4" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="154" cy="57" r="3" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="118" cy="174" rx="64" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M144 168Q168 170 182 150Q182 172 150 172z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M42 30L64 40L74 18L88 44Q100 62 104 84Q132 92 146 124Q158 150 150 172L74 172Q72 150 74 128Q70 108 66 92Q62 80 62 70L44 48L56 44z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M70 38L74 27L81 42z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M63 74Q78 92 76 122Q70 108 66 92z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M90 172L90 138" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M114 170Q110 140 138 128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M63 50Q68 46 73 49" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="43" cy="31" r="3.5" fill="#0F1115"/>
+  <path d="M31 26Q25 36 31 46" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M24 20Q17 36 24 52" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

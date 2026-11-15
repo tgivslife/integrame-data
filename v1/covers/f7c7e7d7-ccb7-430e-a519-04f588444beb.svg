@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Despre musafiri: the hosts' roast chicken on a plate, steaming, and the bottle of wine that wins anyway, tipsy, its bubbles rising; with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="176" rx="78" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M128 172L128 104Q128 90 137 83L137 58L151 58L151 83Q160 90 160 104L160 172Z" fill="#FFFFFF" transform="rotate(6 144 172)"/>
+  <path d="M128 124L160 124L160 172L128 172Z" fill="#C6F432" transform="rotate(6 144 172)"/>
+  <path d="M128 124L160 124" fill="none" stroke="#0F1115" stroke-width="3" transform="rotate(6 144 172)"/>
+  <rect x="133" y="134" width="22" height="24" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(6 144 172)"/>
+  <path d="M134 100L134 114" fill="none" stroke="#D5D8DD" stroke-width="3" transform="rotate(6 144 172)"/>
+  <path d="M128 172L128 104Q128 90 137 83L137 58L151 58L151 83Q160 90 160 104L160 172Z" fill="none" stroke="#0F1115" stroke-width="4" transform="rotate(6 144 172)"/>
+  <rect x="135" y="46" width="18" height="12" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(6 144 172)"/>
+  <circle cx="168" cy="36" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="176" cy="24" r="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="161" cy="22" r="2.4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="74" cy="158" rx="56" ry="14" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="74" cy="157" rx="38" ry="8" fill="#D5D8DD"/>
+  <path d="M40 140L28 132" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="25" cy="127" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="22" cy="134" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="46" cy="146" rx="13" ry="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(-25 46 146)"/>
+  <path d="M108 140L120 132" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="123" cy="127" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="126" cy="134" r="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="102" cy="146" rx="13" ry="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(25 102 146)"/>
+  <path d="M44 154C44 116 104 116 104 154Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 132Q66 124 78 123" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M64 108Q58 100 64 92Q70 84 64 76" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M86 108Q80 100 86 92Q92 84 86 76" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

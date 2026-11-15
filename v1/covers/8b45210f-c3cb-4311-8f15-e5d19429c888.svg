@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Masa de seară: a bare tin can and, beside it, its fallen label with a fish on it, with the speech bubble of a
+       cu-poantă puzzle -->
+  <ellipse cx="108" cy="176" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M64 80V164A32 9 0 0 0 128 164V80Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M64 96Q96 114 128 96M64 148Q96 166 128 148" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="96" cy="80" rx="32" ry="9" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="96" cy="80" rx="23" ry="5.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M100 80L112 77" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <ellipse cx="117" cy="76" rx="5" ry="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M136 120Q156 112 178 120L174 160Q154 152 132 160Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="151" cy="139" rx="10" ry="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M161 139L169 133V145Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <circle cx="146" cy="137" r="1.4" fill="#0F1115"/>
+  <path d="M140 104L136 96M156 100V92M172 104L176 96" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

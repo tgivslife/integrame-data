@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În livadă: two plums with a lime leaf beside a bottle of pălincă with a lime label, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="106" cy="172" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M128 168Q120 168 120 160L120 114Q120 100 134 94L136 66H150L152 94Q166 100 166 114L166 160Q166 168 158 168z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M125 122H161V158Q161 163 156 163H130Q125 163 125 158z" fill="#D5D8DD"/>
+  <rect x="129" y="128" width="28" height="22" rx="4" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M140 102V114" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="133" y="54" width="20" height="14" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M74 98Q94 76 116 86Q98 106 74 98z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M80 97Q98 90 110 87" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M64 110Q68 98 78 94" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="62" cy="138" r="30" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 110Q56 136 64 166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="48" cy="128" rx="5" ry="9" fill="#FFFFFF"/>
+  <circle cx="98" cy="154" r="16" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M98 139Q94 154 99 169" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

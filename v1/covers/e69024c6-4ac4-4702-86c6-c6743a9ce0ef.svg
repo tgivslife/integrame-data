@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Euritmie: a metronome keeping time, with a few music notes around it -->
+  <ellipse cx="100" cy="170" rx="64" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M90 32H110L140 154H60Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M94 50H106L124 138H76Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line x1="97" y1="66" x2="103" y2="66" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="96" y1="80" x2="104" y2="80" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="95" y1="94" x2="105" y2="94" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="94" y1="108" x2="106" y2="108" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="52" y="150" width="96" height="16" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="100" y1="136" x2="126" y2="56" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <rect x="-10" y="-7" width="20" height="14" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="translate(116 87) rotate(18)"/>
+  <circle cx="100" cy="136" r="5" fill="#0F1115"/>
+  <path d="M136 48Q144 56 143 68" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M145 40Q155 52 153 68" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="0" cy="0" rx="8" ry="6" fill="#0F1115" transform="translate(36 100) rotate(-20)"/>
+  <line x1="43" y1="97" x2="43" y2="64" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M43 64Q56 70 54 84" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="0" cy="0" rx="7" ry="5" fill="#0F1115" transform="translate(152 122) rotate(-20)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="5" fill="#0F1115" transform="translate(174 114) rotate(-20)"/>
+  <line x1="158" y1="119" x2="158" y2="92" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="180" y1="111" x2="180" y2="84" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="158" y1="92" x2="180" y2="84" fill="none" stroke="#0F1115" stroke-width="6"/>
+</svg>

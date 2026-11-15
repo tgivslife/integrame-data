@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Viteză: a speedometer with its needle in the top range, and speed lines behind it -->
+  <ellipse cx="112" cy="178" rx="52" ry="5" fill="#0F1115" opacity="0.12"/>
+  <line x1="24" y1="86" x2="42" y2="86" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="18" y1="110" x2="42" y2="110" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <line x1="24" y1="134" x2="42" y2="134" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="112" cy="110" r="62" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66.97 136A52 52 0 0 1 138 64.97L132 75.36A40 40 0 0 0 77.36 130Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 64.97A52 52 0 0 1 157.03 136L146.64 130A40 40 0 0 0 132 75.36Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <line x1="84" y1="110" x2="78" y2="110" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="92.2" y1="90.2" x2="87.96" y2="85.96" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="112" y1="82" x2="112" y2="76" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="131.8" y1="90.2" x2="136.04" y2="85.96" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="140" y1="110" x2="146" y2="110" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="96" y="140" width="32" height="12" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M113.37 113.76L110.63 106.24L153.4 95Z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="112" cy="110" r="8" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+</svg>

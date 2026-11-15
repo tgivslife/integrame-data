@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Safari: an elephant and a giraffe, the animals of the punchline, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="176" rx="78" ry="7" fill="#0F1115" opacity="0.12"/>
+  <path d="M138 174L138 124M150 174L150 124M170 174L170 124M180 174L180 124" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M132 104C132 94 144 88 158 90C176 92 184 102 183 118C182 130 174 132 158 132C142 132 132 124 132 104z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M134 110L146 34L162 38L154 100z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M142 42C136 30 142 22 156 22C168 22 176 28 176 36C176 42 168 44 156 44z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M148 24L146 16M158 22L160 16" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="160" cy="32" r="2.5" fill="#0F1115"/>
+  <circle cx="150" cy="58" r="3.5" fill="#0F1115"/>
+  <circle cx="146" cy="78" r="3.5" fill="#0F1115"/>
+  <circle cx="148" cy="108" r="4" fill="#0F1115"/>
+  <circle cx="166" cy="104" r="4" fill="#0F1115"/>
+  <circle cx="162" cy="120" r="4" fill="#0F1115"/>
+  <rect x="58" y="136" width="18" height="38" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="94" y="136" width="18" height="38" rx="6" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="84" cy="120" rx="38" ry="30" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 112C124 118 124 126 122 132" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M34 116C26 128 22 146 24 160C25 170 38 170 37 160C36 148 42 136 54 126z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="50" cy="106" r="22" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 88C76 82 88 94 86 110C84 124 70 128 62 118z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M38 124C42 130 50 132 54 128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="44" cy="102" r="3" fill="#0F1115"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

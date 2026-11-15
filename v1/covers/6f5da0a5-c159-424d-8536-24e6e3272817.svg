@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Zigzag: an arrow-word grid with grey definition cells, crossed by a lime zigzag arrow -->
+  <ellipse cx="100" cy="166" rx="72" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="44" y="40" width="112" height="112" rx="4" fill="#FFFFFF"/>
+  <rect x="44" y="40" width="28" height="28" fill="#D5D8DD"/>
+  <rect x="100" y="40" width="28" height="28" fill="#D5D8DD"/>
+  <rect x="72" y="124" width="28" height="28" fill="#D5D8DD"/>
+  <rect x="128" y="124" width="28" height="28" fill="#D5D8DD"/>
+  <path d="M63 50L69 54L63 58Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M110 59L114 65L118 59Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <line x1="72" y1="40" x2="72" y2="152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="100" y1="40" x2="100" y2="152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="128" y1="40" x2="128" y2="152" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="44" y1="68" x2="156" y2="68" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="44" y1="96" x2="156" y2="96" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="44" y1="124" x2="156" y2="124" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <rect x="44" y="40" width="112" height="112" rx="4" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M23 113L60 76L96 112L132 76L157 101L163 95L169 123L141 117L147 111L132 96L96 132L60 96L33 123Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+</svg>

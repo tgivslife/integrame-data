@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- În vizorul DNA-ului: a paid bill under the investigators' magnifying glass, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="172" rx="58" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M52 66a4 4 0 0 1 4-4H120L136 78V162a4 4 0 0 1-4 4H56a4 4 0 0 1-4-4z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M120 62V78H136z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <line fill="none" x1="64" y1="80" x2="100" y2="80" stroke="#0F1115" stroke-width="4"/>
+  <line fill="none" x1="64" y1="96" x2="110" y2="96" stroke="#0F1115" stroke-width="2.5"/>
+  <line fill="none" x1="64" y1="110" x2="104" y2="110" stroke="#0F1115" stroke-width="2.5"/>
+  <line fill="none" x1="64" y1="124" x2="108" y2="124" stroke="#0F1115" stroke-width="2.5"/>
+  <line fill="none" x1="64" y1="138" x2="98" y2="138" stroke="#0F1115" stroke-width="2.5"/>
+  <line fill="none" x1="98" y1="154" x2="124" y2="154" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="74" cy="152" r="11" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <polyline points="69,152 73,156 80,147" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="142" cy="104" r="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="5"/>
+  <line fill="none" x1="122" y1="98" x2="162" y2="98" stroke="#0F1115" stroke-width="5"/>
+  <line fill="none" x1="124" y1="114" x2="154" y2="114" stroke="#0F1115" stroke-width="5"/>
+  <path d="M125 90Q127 84 134 82" fill="none" stroke="#D5D8DD" stroke-width="3"/>
+  <rect x="166" y="120" width="10" height="26" rx="5" fill="#0F1115" transform="rotate(-45 171 133)"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

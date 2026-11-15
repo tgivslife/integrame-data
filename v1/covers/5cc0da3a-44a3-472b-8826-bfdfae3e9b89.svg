@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="102" cy="176" rx="72" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M62 160C40 162 28 140 38 124C42 118 50 122 47 128C40 142 48 152 64 150Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M60 172C52 140 62 108 86 104C110 108 120 140 112 172Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M86 142L86 168" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <ellipse cx="75" cy="172" rx="10" ry="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="97" cy="172" rx="10" ry="5" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M65 72L60 42L82 58Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M107 72L112 42L90 58Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M66 62L64 50L74 58Z" fill="#D5D8DD" stroke="none"/>
+  <path d="M106 62L108 50L98 58Z" fill="#D5D8DD" stroke="none"/>
+  <circle cx="86" cy="82" r="26" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <ellipse cx="76" cy="79" rx="3" ry="4.5" fill="#0F1115"/>
+  <ellipse cx="96" cy="79" rx="3" ry="4.5" fill="#0F1115"/>
+  <path d="M83 89L89 89L86 93Z" fill="#0F1115" stroke="#0F1115" stroke-width="2"/>
+  <path d="M86 93C85 97 81 98 78 96M86 93C87 97 91 98 94 96" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M70 90L50 86M70 94L52 96M102 90L122 86M102 94L120 96" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M66 108C78 115 94 115 106 108" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="86" cy="119" r="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M82 121L90 121" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M136 165C126 168 122 158 116 162" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M144 170L142 175M160 170L162 175" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M134 165C134 150 152 145 166 153L178 160L166 168C156 172 140 172 134 165Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="158" cy="149" r="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="168" cy="158" r="2" fill="#0F1115"/>
+  <circle cx="178" cy="160" r="1.5" fill="#0F1115"/>
+</svg>

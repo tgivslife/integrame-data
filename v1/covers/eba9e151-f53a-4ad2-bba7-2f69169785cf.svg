@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Necazul soției: two linked wedding rings under a lime heart cracked down the middle (a marriage in trouble), and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="112" cy="176" rx="58" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M64 134A30 30 0 1 1 124 134A30 30 0 1 1 64 134ZM72 134A22 22 0 1 0 116 134A22 22 0 1 0 72 134Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 134A30 30 0 1 1 160 134A30 30 0 1 1 100 134ZM108 134A22 22 0 1 0 152 134A22 22 0 1 0 108 134Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M121.2 146.7A30 30 0 0 1 104.3 162.2L101.5 154.7A22 22 0 0 0 113.9 143.3Z" fill="#FFFFFF"/>
+  <path d="M121.2 146.7A30 30 0 0 1 104.3 162.2M101.5 154.7A22 22 0 0 0 113.9 143.3" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <path d="M112 94C98 84 88 76 88 64A12.5 12.5 0 0 1 112 58A12.5 12.5 0 0 1 136 64C136 76 126 84 112 94Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="112,58 106,68 116,76 108,85 112,94" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

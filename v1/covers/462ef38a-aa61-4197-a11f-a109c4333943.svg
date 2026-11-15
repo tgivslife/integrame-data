@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …anul…: a ringed calendar of the year, its twelve months as squares and January in lime, beside a New Year sparkle -->
+  <ellipse cx="96" cy="176" rx="60" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="48" y="48" width="100" height="120" rx="8" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="38" y="40" width="100" height="124" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M46 40H130Q138 40 138 48V72H38V48Q38 40 46 40Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <rect x="60" y="28" width="8" height="22" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="108" y="28" width="8" height="22" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="50" y="86" width="16" height="16" rx="3" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M75 86h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM97 86h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM119 86h10q3 0 3 3v10q0 3 -3 3h-10q-3 0 -3 -3v-10q0 -3 3 -3Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M53 110h10q3 0 3 3v10q0 3 -3 3h-10q-3 0 -3 -3v-10q0 -3 3 -3ZM75 110h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM97 110h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM119 110h10q3 0 3 3v10q0 3 -3 3h-10q-3 0 -3 -3v-10q0 -3 3 -3Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M53 134h10q3 0 3 3v10q0 3 -3 3h-10q-3 0 -3 -3v-10q0 -3 3 -3ZM75 134h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM97 134h12q3 0 3 3v10q0 3 -3 3h-12q-3 0 -3 -3v-10q0 -3 3 -3ZM119 134h10q3 0 3 3v10q0 3 -3 3h-10q-3 0 -3 -3v-10q0 -3 3 -3Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2"/>
+  <path d="M164 26Q167 41 182 44Q167 47 164 62Q161 47 146 44Q161 41 164 26Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 82Q165.5 88.5 172 90Q165.5 91.5 164 98Q162.5 91.5 156 90Q162.5 88.5 164 82Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="2"/>
+  <path d="M154 120L160 114M168 118L172 110" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

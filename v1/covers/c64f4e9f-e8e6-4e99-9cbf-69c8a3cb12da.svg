@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Actriță canadiană (II): a film clapperboard with a lime maple leaf on its slate, sparkles beside it -->
+  <ellipse cx="100" cy="170" rx="66" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="40" y="92" width="120" height="70" rx="4" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 103L106 115L112 112L110 126L120 117L118 123L127 121L123 130L125 133L113 141L114 146L102 144L102 157L98 157L98 144L86 146L87 141L75 133L77 130L73 121L82 123L80 117L90 126L88 112L94 115Z" fill="#C6F432" stroke="#0F1115" stroke-width="5" transform="translate(100 127) scale(0.75) translate(-100 -130)"/>
+  <rect x="40" y="78" width="120" height="14" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M58 78H72L64 92H50ZM90 78H104L96 92H82ZM122 78H136L128 92H114Z" fill="#0F1115"/>
+  <rect x="40" y="60" width="120" height="14" fill="#FFFFFF" stroke="#0F1115" stroke-width="4" transform="rotate(-14 40 74)"/>
+  <path d="M58 60H72L64 74H50ZM90 60H104L96 74H82ZM122 60H136L128 74H114Z" fill="#0F1115" transform="rotate(-14 40 74)"/>
+  <circle cx="44" cy="76" r="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 32V46M19 39H33M174 58V70M168 64H180" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

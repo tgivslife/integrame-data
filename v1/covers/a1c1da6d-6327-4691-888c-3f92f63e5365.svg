@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- De folos la geometrie: a compass drawing a circle, over a ruler, a set square behind it -->
+  <ellipse cx="100" cy="178" rx="76" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M24 148L24 76L96 148Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M36 136L36 105L67 136Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="20" y="150" width="160" height="22" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M30 150V160M40 150V156M50 150V160M60 150V156M70 150V160M80 150V156M90 150V160M100 150V156M110 150V160M120 150V156M130 150V160M140 150V156M150 150V160M160 150V156M170 150V160" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M156 104A40 40 0 1 0 136 138.6" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="120" y1="91" x2="116" y2="104" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M141.8 35.2L123.8 92.4L116.2 90L134.2 32.8Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M141.9 33L152.4 73.7L144.6 75.7L134.1 35Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M152.8 71.5L157.7 90.8L148.1 93.3L143.2 74Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M157.7 90.8L148.1 93.3L156 104Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="133" y="18" width="10" height="14" rx="4" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="138" cy="34" r="7" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="138" cy="34" r="1.5" fill="#0F1115"/>
+</svg>

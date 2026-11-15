@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Lecția de engleză: a fox behind an open lime book, an English flag on its left page, lines of a lesson on the right -->
+  <ellipse cx="100" cy="176" rx="74" ry="6" fill="#0F1115" opacity="0.12"/>
+  <path d="M100 118C76 114 52 92 48 64L44 18L74 44C90 38 110 38 126 44L156 18L152 64C148 92 124 114 100 118z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M53 30L60 50L50 58z" fill="#0F1115"/>
+  <path d="M147 30L140 50L150 58z" fill="#0F1115"/>
+  <path d="M100 118C80 114 62 96 56 74C74 76 90 84 100 98C110 84 126 76 144 74C138 96 120 114 100 118z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="76" cy="66" r="5.5" fill="#0F1115"/>
+  <circle cx="124" cy="66" r="5.5" fill="#0F1115"/>
+  <path d="M92 96L108 96L100 108z" fill="#0F1115" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 124C84 114 52 112 22 118L22 170C52 164 84 166 100 176C116 166 148 164 178 170L178 118C148 112 116 114 100 124z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M100 128C86 118 56 116 30 121L30 161C56 156 86 158 100 168z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M100 128C114 118 144 116 170 121L170 161C144 156 114 158 100 168z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <rect x="42" y="126" width="44" height="28" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <line x1="42" y1="126" x2="86" y2="154" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="86" y1="126" x2="42" y2="154" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <line x1="64" y1="126" x2="64" y2="154" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="42" y1="140" x2="86" y2="140" fill="none" stroke="#0F1115" stroke-width="6"/>
+  <line x1="114" y1="132" x2="156" y2="129" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="143" x2="156" y2="140" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <line x1="114" y1="154" x2="144" y2="151" fill="none" stroke="#0F1115" stroke-width="3"/>
+</svg>

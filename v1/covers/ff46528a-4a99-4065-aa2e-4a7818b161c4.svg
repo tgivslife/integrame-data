@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cearta: the sofa everyone wants to sleep on after a quarrel, a pillow and a folded blanket ready, the Zz of sleep, and the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="102" cy="174" rx="78" ry="6" fill="#0F1115" opacity="0.12"/>
+  <!-- the sofa's legs, backrest, seat, base and arms -->
+  <line x1="36" y1="162" x2="34" y2="172" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <line x1="168" y1="162" x2="170" y2="172" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <rect x="36" y="82" width="132" height="56" rx="14" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <line x1="102" y1="90" x2="102" y2="128" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <rect x="40" y="122" width="124" height="24" rx="8" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <rect x="26" y="142" width="152" height="20" rx="6" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="22" y="102" width="28" height="60" rx="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <rect x="154" y="102" width="28" height="60" rx="12" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <!-- the pillow, propped on the left arm -->
+  <path d="M52 100C62 94 82 96 90 104C94 112 92 120 88 126C76 130 60 128 52 122C48 114 48 106 52 100Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 108Q70 112 80 108" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <!-- the folded blanket at the other end -->
+  <rect x="108" y="108" width="42" height="16" rx="5" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5"/>
+  <line x1="114" y1="116" x2="144" y2="116" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <!-- the Zz of sleep -->
+  <polyline points="128,44 146,44 128,64 146,64" fill="none" stroke="#0F1115" stroke-width="4"/>
+  <polyline points="156,26 168,26 156,40 168,40" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Estetică: a hand mirror with a lime glass, and two sparkles of beauty beside it -->
+  <ellipse cx="104" cy="172" rx="58" ry="6" fill="#0F1115" opacity="0.12"/>
+  <rect x="92" y="124" width="16" height="46" rx="7" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-20 100 100)"/>
+  <ellipse cx="100" cy="78" rx="44" ry="52" fill="#D5D8DD" stroke="#0F1115" stroke-width="4" transform="rotate(-20 100 100)"/>
+  <ellipse cx="100" cy="78" rx="33" ry="41" fill="#C6F432" stroke="#0F1115" stroke-width="3" transform="rotate(-20 100 100)"/>
+  <line x1="82" y1="66" x2="98" y2="48" fill="none" stroke="#FFFFFF" stroke-width="5" transform="rotate(-20 100 100)"/>
+  <line x1="84" y1="84" x2="108" y2="58" fill="none" stroke="#FFFFFF" stroke-width="4" transform="rotate(-20 100 100)"/>
+  <path d="M152 30L156 44L170 48L156 52L152 66L148 52L134 48L148 44Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M164 84L166.5 92L174 94.5L166.5 97L164 105L161.5 97L154 94.5L161.5 92Z" fill="#C6F432" stroke="#0F1115" stroke-width="2"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- …pentru a iubi: two heart balloons, a lime one and a white one, their strings tied together -->
+  <ellipse cx="106" cy="176" rx="30" ry="5" fill="#0F1115" opacity="0.12"/>
+  <path d="M80 127C84 145 98 154 106 166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M138 131C134 148 114 155 106 166" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <circle cx="106" cy="166" r="4" fill="#0F1115"/>
+  <path d="M138 124C114 108 104 92 104 80C104 68 112 62 121 62C129 62 135 67 138 74C141 67 147 62 155 62C164 62 172 68 172 80C172 92 162 108 138 124Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M138 124L134 131L142 131Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M154 72C160 73 164 78 164 84" fill="none" stroke="#D5D8DD" stroke-width="4"/>
+  <path d="M80 120C46 98 30 76 30 58C30 42 42 32 55 32C67 32 76 40 80 50C84 40 93 32 105 32C118 32 130 42 130 58C130 76 114 98 80 120Z" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M80 120L76 127L84 127Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Poveste de dragoste: the bride's bouquet in the air, and a running shoe that has picked up speed, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="138" cy="178" rx="44" ry="5" fill="#0F1115" opacity="0.12"/>
+  <!-- the bouquet's flight -->
+  <path d="M42 130Q46 118 52 108" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M60 96Q66 86 76 79" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <!-- the bouquet: its wrap, its ribbon, its roses -->
+  <path d="M100 122L106.9 78.2L137.1 97.8Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M0 -14C10 -9 10 9 0 14C-10 9 -10 -9 0 -14z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(100 104) rotate(-70) scale(.7)"/>
+  <path d="M0 -14C10 -9 10 9 0 14C-10 9 -10 -9 0 -14z" fill="#C6F432" stroke="#0F1115" stroke-width="2.5" transform="translate(116 112) rotate(30) scale(.7)"/>
+  <circle cx="125.5" cy="55.3" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="142.5" cy="55.3" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="117" cy="70" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="151" cy="70" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="125.5" cy="84.7" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="142.5" cy="84.7" r="10.5" fill="#FFFFFF" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="134" cy="70" r="10.5" fill="#C6F432" stroke="#0F1115" stroke-width="2.5"/>
+  <circle cx="125.5" cy="55.3" r="3.5" fill="#D5D8DD"/>
+  <circle cx="142.5" cy="55.3" r="3.5" fill="#D5D8DD"/>
+  <circle cx="117" cy="70" r="3.5" fill="#D5D8DD"/>
+  <circle cx="151" cy="70" r="3.5" fill="#D5D8DD"/>
+  <circle cx="125.5" cy="84.7" r="3.5" fill="#D5D8DD"/>
+  <circle cx="142.5" cy="84.7" r="3.5" fill="#D5D8DD"/>
+  <circle cx="134" cy="70" r="3.5" fill="#0F1115"/>
+  <!-- the speed lines behind the shoe -->
+  <path d="M64 146H88" fill="none" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M50 156H90" fill="none" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M68 166H92" fill="none" stroke="#0F1115" stroke-width="3.5"/>
+  <!-- the running shoe -->
+  <path d="M104 162V144Q104 138 110 138H124Q128 146 136 146L150 148Q166 150 172 158L174 162Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M100 162H178Q180 172 170 172H104Q98 172 100 162Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="3.5"/>
+  <path d="M112 157Q132 160 154 151" fill="none" stroke="#C6F432" stroke-width="5"/>
+  <path d="M137 147L140 141" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M145 148L148 142" fill="none" stroke="#0F1115" stroke-width="2.5"/>
+  <!-- the speech bubble -->
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

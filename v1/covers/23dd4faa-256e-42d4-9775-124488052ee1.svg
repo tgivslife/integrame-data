@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ceva bun: a steaming glass mug of mulled wine ("compot de Crăciun") with cinnamon sticks and an orange slice on the rim, with the speech bubble of a cu-poantă puzzle -->
+  <ellipse cx="100" cy="172" rx="56" ry="5" fill="#0F1115" opacity="0.12"/>
+  <rect x="84" y="50" width="9" height="58" rx="3" fill="#D5D8DD" stroke="#0F1115" stroke-width="3" transform="rotate(12 88 80)"/>
+  <rect x="95" y="56" width="9" height="52" rx="3" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" transform="rotate(12 99 82)"/>
+  <path d="M62 110H52A17 17 0 0 0 52 144H65" fill="none" stroke="#0F1115" stroke-width="5"/>
+  <path d="M60 94H140L135 156C134 163 129 168 122 168H78C71 168 66 163 65 156Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="4"/>
+  <path d="M62 110H138L134.6 154C134 159 130 162 125 162H75C70 162 66 159 65.4 154Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="2.5"/>
+  <path d="M73 118C72 131 73 142 77 152" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="140" cy="98" r="16" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <circle cx="140" cy="98" r="10.5" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M140 88.5V107.5M131.8 93.2L148.2 102.8M131.8 102.8L148.2 93.2" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M114 84C108 76 120 70 114 60C108 52 118 48 114 40" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M129 76C123 68 135 62 129 52C123 45 133 41 129 34" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <path d="M26 24h40a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10h-24l-10 10v-10h-6a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10z" fill="#0F1115"/>
+  <circle cx="36" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="46" cy="40" r="3.2" fill="#FFFFFF"/>
+  <circle cx="56" cy="40" r="3.2" fill="#FFFFFF"/>
+</svg>

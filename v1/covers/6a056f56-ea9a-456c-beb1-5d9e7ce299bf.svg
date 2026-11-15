@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Iluzii: a mirage in the desert, a palm on the dunes under the sun and, far off, a lake and its palm that are not there -->
+  <ellipse cx="100" cy="172" rx="80" ry="6" fill="#0F1115" opacity="0.12"/>
+  <circle cx="152" cy="46" r="15" fill="#C6F432" stroke="#0F1115" stroke-width="4"/>
+  <path d="M16 112Q58 94 100 108Q140 120 184 102" fill="none" stroke="#0F1115" stroke-width="3"/>
+  <ellipse cx="132" cy="116" rx="34" ry="7" fill="#FFFFFF" stroke="#0F1115" stroke-width="3" opacity="0.4"/>
+  <path d="M138 112Q136 96 140 80" fill="none" stroke="#0F1115" stroke-width="3" opacity="0.4"/>
+  <path d="M140 80Q128 70 118 78M140 80Q152 70 162 78M140 80Q134 64 124 62M140 80Q148 64 158 62" fill="none" stroke="#0F1115" stroke-width="3" opacity="0.4"/>
+  <path d="M108 96Q113 92 118 96Q123 100 128 96Q133 92 138 96Q143 100 148 96Q153 92 158 96" fill="none" stroke="#0F1115" stroke-width="2" opacity="0.4"/>
+  <path d="M16 168L16 142Q62 118 108 140Q146 158 184 134L184 168Z" fill="#D5D8DD" stroke="#0F1115" stroke-width="4"/>
+  <path d="M50 146Q53 114 59 84L66 86Q60 114 58 146Z" fill="#FFFFFF" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 84Q46 64 26 76Q46 74 62 84Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 84Q80 64 100 76Q80 74 62 84Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 84Q52 58 36 54Q54 66 62 84Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M62 84Q74 56 92 52Q72 66 62 84Z" fill="#C6F432" stroke="#0F1115" stroke-width="3"/>
+  <path d="M96 156Q104 152 112 156" fill="none" stroke="#0F1115" stroke-width="2"/>
+  <path d="M136 152Q144 148 152 152" fill="none" stroke="#0F1115" stroke-width="2"/>
+</svg>
